@@ -3955,7 +3955,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Plunderer's Helmet</Name>
+    <Name>Шлем расхитителя</Name>
     <Id>37188</Id>
     <Slot>Head</Slot>
   </Item>
@@ -8342,7 +8342,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Planetary Helm</Name>
+    <Name>Покров Вселенной</Name>
     <Id>37849</Id>
     <Slot>Head</Slot>
   </Item>
@@ -23538,7 +23538,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Platehelm of the Great Wyrm</Name>
+    <Name>Пластинчатый шлем Великого змея</Name>
     <Id>40366</Id>
     <Slot>Head</Slot>
   </Item>
@@ -30832,7 +30832,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Relentless Gladiator's Plate Helm</Name>
+    <Name>Латный шлем неумолимого гладиатора</Name>
     <Id>40829</Id>
     <Slot>Head</Slot>
   </Item>
@@ -30859,7 +30859,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Relentless Gladiator's Dreadplate Helm</Name>
+    <Name>Жуткий латный шлем неумолимого гладиатора</Name>
     <Id>40830</Id>
     <Slot>Head</Slot>
   </Item>
@@ -30886,7 +30886,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Relentless Gladiator's Scaled Helm</Name>
+    <Name>Чешуйчатый шлем неумолимого гладиатора</Name>
     <Id>40831</Id>
     <Slot>Head</Slot>
   </Item>
@@ -32403,7 +32403,7 @@
     <SocketBonus>
       <Mp5>3</Mp5>
     </SocketBonus>
-    <Name>Relentless Gladiator's Ornamented Headcover</Name>
+    <Name>Украшенный головной покров неумолимого гладиатора</Name>
     <Id>40934</Id>
     <Slot>Head</Slot>
   </Item>
@@ -33593,7 +33593,7 @@
     <SocketBonus>
       <Mp5>3</Mp5>
     </SocketBonus>
-    <Name>Relentless Gladiator's Ringmail Helm</Name>
+    <Name>Кольчатый шлем неумолимого гладиатора</Name>
     <Id>41014</Id>
     <Slot>Head</Slot>
   </Item>
@@ -33733,7 +33733,7 @@
     <SocketBonus>
       <Mp5>3</Mp5>
     </SocketBonus>
-    <Name>Relentless Gladiator's Mail Helm</Name>
+    <Name>Кольчужный шлем неумолимого гладиатора</Name>
     <Id>41020</Id>
     <Slot>Head</Slot>
   </Item>
@@ -35465,7 +35465,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Relentless Gladiator's Linked Helm</Name>
+    <Name>Клепаный шлем неумолимого гладиатора</Name>
     <Id>41152</Id>
     <Slot>Head</Slot>
   </Item>
@@ -35610,7 +35610,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Relentless Gladiator's Chain Helm</Name>
+    <Name>Шлем неумолимого гладиатора</Name>
     <Id>41158</Id>
     <Slot>Head</Slot>
   </Item>
@@ -37901,7 +37901,7 @@
     <SocketBonus>
       <Spirit>8</Spirit>
     </SocketBonus>
-    <Name>Relentless Gladiator's Kodohide Helm</Name>
+    <Name>Шлем неумолимого гладиатора из шкуры кодо</Name>
     <Id>41322</Id>
     <Slot>Head</Slot>
   </Item>
@@ -38041,7 +38041,7 @@
     <SocketBonus>
       <Spirit>8</Spirit>
     </SocketBonus>
-    <Name>Relentless Gladiator's Wyrmhide Helm</Name>
+    <Name>Шлем неумолимого гладиатора из шкуры змея</Name>
     <Id>41328</Id>
     <Slot>Head</Slot>
   </Item>
@@ -41417,7 +41417,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Relentless Gladiator's Leather Helm</Name>
+    <Name>Кожаный шлем неумолимого гладиатора</Name>
     <Id>41673</Id>
     <Slot>Head</Slot>
   </Item>
@@ -41557,7 +41557,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Relentless Gladiator's Dragonhide Helm</Name>
+    <Name>Шлем неумолимого гладиатора из драконьей шкуры</Name>
     <Id>41679</Id>
     <Slot>Head</Slot>
   </Item>
@@ -42518,7 +42518,7 @@
     <SocketBonus>
       <Spirit>8</Spirit>
     </SocketBonus>
-    <Name>Relentless Gladiator's Mooncloth Hood</Name>
+    <Name>Капюшон неумолимого гладиатора из луноткани</Name>
     <Id>41855</Id>
     <Slot>Head</Slot>
   </Item>
@@ -43548,7 +43548,7 @@
     <SocketBonus>
       <Resilience>8</Resilience>
     </SocketBonus>
-    <Name>Relentless Gladiator's Satin Hood</Name>
+    <Name>Атласный капюшон неумолимого гладиатора</Name>
     <Id>41916</Id>
     <Slot>Head</Slot>
   </Item>
@@ -44238,7 +44238,7 @@
     <SocketBonus>
       <Resilience>8</Resilience>
     </SocketBonus>
-    <Name>Relentless Gladiator's Silk Cowl</Name>
+    <Name>Шелковый клобук неумолимого гладиатора</Name>
     <Id>41947</Id>
     <Slot>Head</Slot>
   </Item>
@@ -44995,7 +44995,7 @@
     <SocketBonus>
       <Resilience>8</Resilience>
     </SocketBonus>
-    <Name>Relentless Gladiator's Felweave Cowl</Name>
+    <Name>Клобук неумолимого гладиатора из ткани Скверны</Name>
     <Id>41994</Id>
     <Slot>Head</Slot>
   </Item>
@@ -48299,7 +48299,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Ornate Saronite Skullshield</Name>
+    <Name>Изысканный саронитовый шлем</Name>
     <Id>42728</Id>
     <Slot>Head</Slot>
   </Item>
@@ -49025,7 +49025,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Overcast Headguard</Name>
+    <Name>Наголовник угрюмости</Name>
     <Id>43261</Id>
     <Slot>Head</Slot>
   </Item>
@@ -51681,7 +51681,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Obsidian Greathelm</Name>
+    <Name>Великий обсидиановый шлем</Name>
     <Id>44006</Id>
     <Slot>Head</Slot>
   </Item>
@@ -54202,7 +54202,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Platehelm of Irate Revenge</Name>
+    <Name>Пластинчатый шлем яростной мести</Name>
     <Id>44411</Id>
     <Slot>Head</Slot>
   </Item>
@@ -97434,7 +97434,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Runetotem's Headpiece of Triumph</Name>
+    <Name>Головной убор триумфа Рунического Тотема</Name>
     <Id>48144</Id>
     <Slot>Head</Slot>
   </Item>
@@ -97628,7 +97628,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Runetotem's Headpiece of Triumph</Name>
+    <Name>Головной убор триумфа Рунического Тотема</Name>
     <Id>48151</Id>
     <Slot>Head</Slot>
   </Item>
@@ -97710,7 +97710,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Runetotem's Headpiece of Conquest</Name>
+    <Name>Головной убор завоеваний Рунического Тотема</Name>
     <Id>48154</Id>
     <Slot>Head</Slot>
   </Item>
@@ -98262,7 +98262,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Runetotem's Cover of Triumph</Name>
+    <Name>Убор триумфа Рунического Тотема</Name>
     <Id>48174</Id>
     <Slot>Head</Slot>
   </Item>
@@ -98456,7 +98456,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Runetotem's Cover of Triumph</Name>
+    <Name>Убор триумфа Рунического Тотема</Name>
     <Id>48181</Id>
     <Slot>Head</Slot>
   </Item>
@@ -98538,7 +98538,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Runetotem's Cover of Conquest</Name>
+    <Name>Убор завоеваний Рунического Тотема</Name>
     <Id>48184</Id>
     <Slot>Head</Slot>
   </Item>
@@ -98649,7 +98649,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Runetotem's Headguard of Conquest</Name>
+    <Name>Наголовник завоеваний Рунического Тотема</Name>
     <Id>48188</Id>
     <Slot>Head</Slot>
   </Item>
@@ -98814,7 +98814,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Runetotem's Headguard of Triumph</Name>
+    <Name>Наголовник триумфа Рунического Тотема</Name>
     <Id>48194</Id>
     <Slot>Head</Slot>
   </Item>
@@ -99008,7 +99008,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Runetotem's Headguard of Triumph</Name>
+    <Name>Наголовник триумфа Рунического Тотема</Name>
     <Id>48201</Id>
     <Slot>Head</Slot>
   </Item>
@@ -113907,7 +113907,7 @@
     <SocketBonus>
       <HasteRating>8</HasteRating>
     </SocketBonus>
-    <Name>Polished Mirror Helm</Name>
+    <Name>Начищенный до блеска шлем</Name>
     <Id>49804</Id>
     <Slot>Head</Slot>
   </Item>
@@ -132528,7 +132528,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Sanctified Ahn'Kahar Blood Hunter's Headpiece</Name>
+    <Name>Освященный головной убор ан'кахарского охотника за кровью</Name>
     <Id>51153</Id>
     <Slot>Head</Slot>
   </Item>
@@ -132667,7 +132667,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Sanctified Bloodmage Hood</Name>
+    <Name>Освященный капюшон волшебника крови</Name>
     <Id>51158</Id>
     <Slot>Head</Slot>
   </Item>
@@ -133214,7 +133214,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Sanctified Crimson Acolyte Hood</Name>
+    <Name>Освященный капюшон послушника из Багрового Легиона</Name>
     <Id>51178</Id>
     <Slot>Head</Slot>
   </Item>
@@ -133379,7 +133379,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Sanctified Crimson Acolyte Cowl</Name>
+    <Name>Освященный клобук послушника из Багрового Легиона</Name>
     <Id>51184</Id>
     <Slot>Head</Slot>
   </Item>
@@ -133600,7 +133600,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Sanctified Frost Witch's Headpiece</Name>
+    <Name>Освященный головной убор ледяной ведьмы</Name>
     <Id>51192</Id>
     <Slot>Head</Slot>
   </Item>
@@ -133741,7 +133741,7 @@
     <SocketBonus>
       <AttackPower>16</AttackPower>
     </SocketBonus>
-    <Name>Sanctified Frost Witch's Faceguard</Name>
+    <Name>Освященный большой шлем ледяной ведьмы</Name>
     <Id>51197</Id>
     <Slot>Head</Slot>
   </Item>
@@ -133881,7 +133881,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Sanctified Frost Witch's Helm</Name>
+    <Name>Освященный шлем ледяной ведьмы</Name>
     <Id>51202</Id>
     <Slot>Head</Slot>
   </Item>
@@ -134047,7 +134047,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Sanctified Dark Coven Hood</Name>
+    <Name>Освященный капюшон мрачного шабаша</Name>
     <Id>51208</Id>
     <Slot>Head</Slot>
   </Item>
@@ -134671,7 +134671,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Sanctified Dark Coven Hood</Name>
+    <Name>Освященный капюшон мрачного шабаша</Name>
     <Id>51231</Id>
     <Slot>Head</Slot>
   </Item>
@@ -134837,7 +134837,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Sanctified Frost Witch's Helm</Name>
+    <Name>Освященный шлем ледяной ведьмы</Name>
     <Id>51237</Id>
     <Slot>Head</Slot>
   </Item>
@@ -134978,7 +134978,7 @@
     <SocketBonus>
       <AttackPower>16</AttackPower>
     </SocketBonus>
-    <Name>Sanctified Frost Witch's Faceguard</Name>
+    <Name>Освященный большой шлем ледяной ведьмы</Name>
     <Id>51242</Id>
     <Slot>Head</Slot>
   </Item>
@@ -135118,7 +135118,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Sanctified Frost Witch's Headpiece</Name>
+    <Name>Освященный головной убор ледяной ведьмы</Name>
     <Id>51247</Id>
     <Slot>Head</Slot>
   </Item>
@@ -135339,7 +135339,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Sanctified Crimson Acolyte Cowl</Name>
+    <Name>Освященный клобук послушника из Багрового Легиона</Name>
     <Id>51255</Id>
     <Slot>Head</Slot>
   </Item>
@@ -135504,7 +135504,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Sanctified Crimson Acolyte Hood</Name>
+    <Name>Освященный капюшон послушника из Багрового Легиона</Name>
     <Id>51261</Id>
     <Slot>Head</Slot>
   </Item>
@@ -136051,7 +136051,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Sanctified Bloodmage Hood</Name>
+    <Name>Освященный капюшон волшебника крови</Name>
     <Id>51281</Id>
     <Slot>Head</Slot>
   </Item>
@@ -136191,7 +136191,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Sanctified Ahn'Kahar Blood Hunter's Headpiece</Name>
+    <Name>Освященный головной убор ан'кахарского охотника за кровью</Name>
     <Id>51286</Id>
     <Slot>Head</Slot>
   </Item>
