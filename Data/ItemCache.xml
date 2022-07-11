@@ -1179,7 +1179,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Static Cowl</Name>
+    <Name>Клобук статичности</Name>
     <Id>35679</Id>
     <Slot>Head</Slot>
   </Item>
@@ -12153,7 +12153,7 @@
     <SocketBonus>
       <DefenseRating>8</DefenseRating>
     </SocketBonus>
-    <Name>Thane's Tainted Greathelm</Name>
+    <Name>Нечищенный великий шлем тана</Name>
     <Id>39395</Id>
     <Slot>Head</Slot>
   </Item>
@@ -24794,7 +24794,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Titan's Outlook</Name>
+    <Name>Мировоззрение титана</Name>
     <Id>40428</Id>
     <Slot>Head</Slot>
   </Item>
@@ -30477,7 +30477,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Savage Gladiator's Plate Helm</Name>
+    <Name>Латный шлем свирепого гладиатора</Name>
     <Id>40816</Id>
     <Slot>Head</Slot>
   </Item>
@@ -30504,7 +30504,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Savage Gladiator's Dreadplate Helm</Name>
+    <Name>Жуткий латный шлем свирепого гладиатора</Name>
     <Id>40817</Id>
     <Slot>Head</Slot>
   </Item>
@@ -30531,7 +30531,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Savage Gladiator's Scaled Helm</Name>
+    <Name>Чешуйчатый шлем свирепого гладиатора</Name>
     <Id>40818</Id>
     <Slot>Head</Slot>
   </Item>
@@ -32291,7 +32291,7 @@
     <SocketBonus>
       <Mp5>3</Mp5>
     </SocketBonus>
-    <Name>Savage Gladiator's Ornamented Headcover</Name>
+    <Name>Украшенный головной покров свирепого гладиатора</Name>
     <Id>40930</Id>
     <Slot>Head</Slot>
   </Item>
@@ -33481,7 +33481,7 @@
     <SocketBonus>
       <Mp5>3</Mp5>
     </SocketBonus>
-    <Name>Savage Gladiator's Ringmail Helm</Name>
+    <Name>Кольчатый шлем свирепого гладиатора</Name>
     <Id>41010</Id>
     <Slot>Head</Slot>
   </Item>
@@ -33621,7 +33621,7 @@
     <SocketBonus>
       <Mp5>3</Mp5>
     </SocketBonus>
-    <Name>Savage Gladiator's Mail Helm</Name>
+    <Name>Кольчужный шлем свирепого гладиатора</Name>
     <Id>41016</Id>
     <Slot>Head</Slot>
   </Item>
@@ -35349,7 +35349,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Savage Gladiator's Linked Helm</Name>
+    <Name>Клепаный шлем свирепого гладиатора</Name>
     <Id>41148</Id>
     <Slot>Head</Slot>
   </Item>
@@ -35494,7 +35494,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Savage Gladiator's Chain Helm</Name>
+    <Name>Плетеный шлем свирепого гладиатора</Name>
     <Id>41154</Id>
     <Slot>Head</Slot>
   </Item>
@@ -36681,7 +36681,7 @@
     <SocketBonus>
       <Spirit>8</Spirit>
     </SocketBonus>
-    <Name>Savage Gladiator's Kodohide Helm</Name>
+    <Name>Шлем свирепого гладиатора из шкуры кодо</Name>
     <Id>41269</Id>
     <Slot>Head</Slot>
   </Item>
@@ -37929,7 +37929,7 @@
     <SocketBonus>
       <Spirit>8</Spirit>
     </SocketBonus>
-    <Name>Savage Gladiator's Wyrmhide Helm</Name>
+    <Name>Шлем свирепого гладиатора из шкуры змея</Name>
     <Id>41324</Id>
     <Slot>Head</Slot>
   </Item>
@@ -38240,7 +38240,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Savage Saronite Skullshield</Name>
+    <Name>Саронитовый шлем свирепости</Name>
     <Id>41350</Id>
     <Slot>Head</Slot>
   </Item>
@@ -38632,7 +38632,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Spiked Titansteel Helm</Name>
+    <Name>Шипастый шлем из титановой стали</Name>
     <Id>41386</Id>
     <Slot>Head</Slot>
   </Item>
@@ -38656,7 +38656,7 @@
     <SocketBonus>
       <DefenseRating>8</DefenseRating>
     </SocketBonus>
-    <Name>Tempered Titansteel Helm</Name>
+    <Name>Закаленный шлем из титановой стали</Name>
     <Id>41387</Id>
     <Slot>Head</Slot>
   </Item>
@@ -40718,7 +40718,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Savage Gladiator's Leather Helm</Name>
+    <Name>Кожаный шлем свирепого гладиатора</Name>
     <Id>41644</Id>
     <Slot>Head</Slot>
   </Item>
@@ -41445,7 +41445,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Savage Gladiator's Dragonhide Helm</Name>
+    <Name>Шлем свирепого гладиатора из драконьей шкуры</Name>
     <Id>41675</Id>
     <Slot>Head</Slot>
   </Item>
@@ -42323,7 +42323,7 @@
     <SocketBonus>
       <Spirit>8</Spirit>
     </SocketBonus>
-    <Name>Savage Gladiator's Mooncloth Hood</Name>
+    <Name>Капюшон свирепого гладиатора из луноткани</Name>
     <Id>41848</Id>
     <Slot>Head</Slot>
   </Item>
@@ -43436,7 +43436,7 @@
     <SocketBonus>
       <Resilience>8</Resilience>
     </SocketBonus>
-    <Name>Savage Gladiator's Satin Hood</Name>
+    <Name>Атласный капюшон свирепого гладиатора</Name>
     <Id>41912</Id>
     <Slot>Head</Slot>
   </Item>
@@ -44126,7 +44126,7 @@
     <SocketBonus>
       <Resilience>8</Resilience>
     </SocketBonus>
-    <Name>Savage Gladiator's Silk Cowl</Name>
+    <Name>Шелковый клобук свирепого гладиатора</Name>
     <Id>41943</Id>
     <Slot>Head</Slot>
   </Item>
@@ -44883,7 +44883,7 @@
     <SocketBonus>
       <Resilience>8</Resilience>
     </SocketBonus>
-    <Name>Savage Gladiator's Felweave Cowl</Name>
+    <Name>Клобук свирепого гладиатора из ткани Скверны</Name>
     <Id>41990</Id>
     <Slot>Head</Slot>
   </Item>
@@ -47879,7 +47879,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Truesight Ice Blinders</Name>
+    <Name>Снегозащитные очки острого зрения</Name>
     <Id>42551</Id>
     <Slot>Head</Slot>
   </Item>
@@ -49578,7 +49578,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Shroud of Darkness</Name>
+    <Name>Покров Тьмы</Name>
     <Id>43403</Id>
     <Slot>Head</Slot>
   </Item>
@@ -50039,7 +50039,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Swiftarrow Helm</Name>
+    <Name>Шлем быстрой стрелы</Name>
     <Id>43447</Id>
     <Slot>Head</Slot>
   </Item>
@@ -50225,7 +50225,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Stormhide Crown</Name>
+    <Name>Корона штормового укрытия</Name>
     <Id>43455</Id>
     <Slot>Head</Slot>
   </Item>
@@ -52154,7 +52154,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Toothslice Helm</Name>
+    <Name>Украшенный осколками зубов шлем</Name>
     <Id>44109</Id>
     <Slot>Head</Slot>
   </Item>
@@ -52175,7 +52175,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Sharkjaw Cap</Name>
+    <Name>Шапка акульей челюсти</Name>
     <Id>44110</Id>
     <Slot>Head</Slot>
   </Item>
@@ -54853,7 +54853,7 @@
     <SocketBonus>
       <Mp5>3</Mp5>
     </SocketBonus>
-    <Name>Titan-Forged Plate Headcover of Salvation</Name>
+    <Name>Латный шлем спасения из кузни титанов</Name>
     <Id>44901</Id>
     <Slot>Head</Slot>
   </Item>
@@ -54879,7 +54879,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Titan-Forged Plate Helm of Triumph</Name>
+    <Name>Латный шлем триумфа из кузни титанов</Name>
     <Id>44902</Id>
     <Slot>Head</Slot>
   </Item>
@@ -54907,7 +54907,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Titan-Forged Chain Helm of Triumph</Name>
+    <Name>Плетеный шлем триумфа из кузни титанов</Name>
     <Id>44903</Id>
     <Slot>Head</Slot>
   </Item>
@@ -54934,7 +54934,7 @@
     <SocketBonus>
       <Mp5>3</Mp5>
     </SocketBonus>
-    <Name>Titan-Forged Mail Helm of Dominance</Name>
+    <Name>Кольчужный шлем господства из кузни титанов</Name>
     <Id>44904</Id>
     <Slot>Head</Slot>
   </Item>
@@ -54961,7 +54961,7 @@
     <SocketBonus>
       <Mp5>3</Mp5>
     </SocketBonus>
-    <Name>Titan-Forged Ringmail Helm of Salvation</Name>
+    <Name>Кольчатый шлем спасения из кузни титанов</Name>
     <Id>44905</Id>
     <Slot>Head</Slot>
   </Item>
@@ -54988,7 +54988,7 @@
     <SocketBonus>
       <Spirit>8</Spirit>
     </SocketBonus>
-    <Name>Titan-Forged Leather Helm of Salvation</Name>
+    <Name>Кожаный шлем спасения из кузни титанов</Name>
     <Id>44906</Id>
     <Slot>Head</Slot>
   </Item>
@@ -55015,7 +55015,7 @@
     <SocketBonus>
       <Spirit>8</Spirit>
     </SocketBonus>
-    <Name>Titan-Forged Leather Helm of Dominance</Name>
+    <Name>Титанический кожаный шлем господства</Name>
     <Id>44907</Id>
     <Slot>Head</Slot>
   </Item>
@@ -55042,7 +55042,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Titan-Forged Leather Helm of Triumph</Name>
+    <Name>Кожаный шлем триумфа из кузни титанов</Name>
     <Id>44908</Id>
     <Slot>Head</Slot>
   </Item>
@@ -55069,7 +55069,7 @@
     <SocketBonus>
       <Spirit>8</Spirit>
     </SocketBonus>
-    <Name>Titan-Forged Hood of Salvation</Name>
+    <Name>Капюшон спасения из кузни титанов</Name>
     <Id>44909</Id>
     <Slot>Head</Slot>
   </Item>
@@ -55096,7 +55096,7 @@
     <SocketBonus>
       <Resilience>8</Resilience>
     </SocketBonus>
-    <Name>Titan-Forged Hood of Dominance</Name>
+    <Name>Капюшон господства из кузни титанов</Name>
     <Id>44910</Id>
     <Slot>Head</Slot>
   </Item>
@@ -55268,7 +55268,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Unbreakable Healing Amplifiers</Name>
+    <Name>Нерушимые усилители исцеления</Name>
     <Id>44949</Id>
     <Slot>Head</Slot>
   </Item>
@@ -55736,7 +55736,7 @@
     <SocketBonus>
       <HasteRating>8</HasteRating>
     </SocketBonus>
-    <Name>Steamworker's Goggles</Name>
+    <Name>Очки парообразования</Name>
     <Id>45118</Id>
     <Slot>Head</Slot>
   </Item>
@@ -62598,7 +62598,7 @@
     <SocketBonus>
       <Spirit>8</Spirit>
     </SocketBonus>
-    <Name>Unwavering Stare</Name>
+    <Name>Неотрывный Взгляд</Name>
     <Id>45439</Id>
     <Slot>Head</Slot>
   </Item>
@@ -88680,7 +88680,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Sunstrider's Hood of Triumph</Name>
+    <Name>Капюшон триумфа Солнечного Скитальца</Name>
     <Id>47764</Id>
     <Slot>Head</Slot>
   </Item>
@@ -88874,7 +88874,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Sunstrider's Hood of Triumph</Name>
+    <Name>Капюшон триумфа Солнечного Скитальца</Name>
     <Id>47771</Id>
     <Slot>Head</Slot>
   </Item>
@@ -88956,7 +88956,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Sunstrider's Hood of Conquest</Name>
+    <Name>Капюшон завоеваний Солнечного Скитальца</Name>
     <Id>47774</Id>
     <Slot>Head</Slot>
   </Item>
@@ -90944,7 +90944,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Sunreaver Ranger's Helm</Name>
+    <Name>Шлем следопыта Похитителей Солнца</Name>
     <Id>47875</Id>
     <Slot>Head</Slot>
   </Item>
@@ -90969,7 +90969,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Sunreaver Champion's Faceplate</Name>
+    <Name>Личина чемпиона Похитителей Солнца</Name>
     <Id>47876</Id>
     <Slot>Head</Slot>
   </Item>
@@ -94582,7 +94582,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Sunreaver Ranger's Helm</Name>
+    <Name>Шлем следопыта Похитителей Солнца</Name>
     <Id>48014</Id>
     <Slot>Head</Slot>
   </Item>
@@ -94607,7 +94607,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Sunreaver Champion's Faceplate</Name>
+    <Name>Личина чемпиона Похитителей Солнца</Name>
     <Id>48015</Id>
     <Slot>Head</Slot>
   </Item>
@@ -101632,7 +101632,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Thrall's Headpiece of Conquest</Name>
+    <Name>Головной убор завоеваний Тралла</Name>
     <Id>48297</Id>
     <Slot>Head</Slot>
   </Item>
@@ -101770,7 +101770,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Thrall's Headpiece of Triumph</Name>
+    <Name>Головной убор триумфа Тралла</Name>
     <Id>48302</Id>
     <Slot>Head</Slot>
   </Item>
@@ -101908,7 +101908,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Thrall's Headpiece of Triumph</Name>
+    <Name>Головной убор триумфа Тралла</Name>
     <Id>48307</Id>
     <Slot>Head</Slot>
   </Item>
@@ -102460,7 +102460,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Thrall's Helm of Triumph</Name>
+    <Name>Шлем триумфа Тралла</Name>
     <Id>48328</Id>
     <Slot>Head</Slot>
   </Item>
@@ -102598,7 +102598,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Thrall's Helm of Triumph</Name>
+    <Name>Шлем триумфа Тралла</Name>
     <Id>48333</Id>
     <Slot>Head</Slot>
   </Item>
@@ -102736,7 +102736,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Thrall's Helm of Conquest</Name>
+    <Name>Шлем завоеваний Тралла</Name>
     <Id>48338</Id>
     <Slot>Head</Slot>
   </Item>
@@ -103306,7 +103306,7 @@
     <SocketBonus>
       <AttackPower>16</AttackPower>
     </SocketBonus>
-    <Name>Thrall's Faceguard of Triumph</Name>
+    <Name>Большой шлем триумфа Тралла</Name>
     <Id>48358</Id>
     <Slot>Head</Slot>
   </Item>
@@ -103449,7 +103449,7 @@
     <SocketBonus>
       <AttackPower>16</AttackPower>
     </SocketBonus>
-    <Name>Thrall's Faceguard of Triumph</Name>
+    <Name>Большой шлем триумфа Тралла</Name>
     <Id>48363</Id>
     <Slot>Head</Slot>
   </Item>
@@ -103592,7 +103592,7 @@
     <SocketBonus>
       <AttackPower>16</AttackPower>
     </SocketBonus>
-    <Name>Thrall's Faceguard of Conquest</Name>
+    <Name>Большой шлем завоеваний Тралла</Name>
     <Id>48368</Id>
     <Slot>Head</Slot>
   </Item>
@@ -105302,7 +105302,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Thassarian's Helmet of Conquest</Name>
+    <Name>Полный шлем завоеваний Тассариана</Name>
     <Id>48472</Id>
     <Slot>Head</Slot>
   </Item>
@@ -105488,7 +105488,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Thassarian's Helmet of Triumph</Name>
+    <Name>Полный шлем триумфа Тассариана</Name>
     <Id>48483</Id>
     <Slot>Head</Slot>
   </Item>
@@ -105621,7 +105621,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Thassarian's Helmet of Triumph</Name>
+    <Name>Полный шлем триумфа Тассариана</Name>
     <Id>48488</Id>
     <Slot>Head</Slot>
   </Item>
@@ -106101,7 +106101,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Thassarian's Faceguard of Conquest</Name>
+    <Name>Большой шлем завоевания Тассариана</Name>
     <Id>48529</Id>
     <Slot>Head</Slot>
   </Item>
@@ -106294,7 +106294,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Thassarian's Faceguard of Triumph</Name>
+    <Name>Большой шлем триумфа Тассариана</Name>
     <Id>48540</Id>
     <Slot>Head</Slot>
   </Item>
@@ -106432,7 +106432,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Thassarian's Faceguard of Triumph</Name>
+    <Name>Большой шлем триумфа Тассариана</Name>
     <Id>48545</Id>
     <Slot>Head</Slot>
   </Item>
@@ -106929,7 +106929,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Turalyon's Headpiece of Conquest</Name>
+    <Name>Головной убор завоеваний Туралиона</Name>
     <Id>48564</Id>
     <Slot>Head</Slot>
   </Item>
@@ -107122,7 +107122,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Turalyon's Headpiece of Triumph</Name>
+    <Name>Головной убор триумфа Туралиона</Name>
     <Id>48577</Id>
     <Slot>Head</Slot>
   </Item>
@@ -107260,7 +107260,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Turalyon's Headpiece of Triumph</Name>
+    <Name>Головной убор триумфа Туралиона</Name>
     <Id>48582</Id>
     <Slot>Head</Slot>
   </Item>
@@ -107809,7 +107809,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Turalyon's Helm of Conquest</Name>
+    <Name>Шлем завоеваний Туралиона</Name>
     <Id>48604</Id>
     <Slot>Head</Slot>
   </Item>
@@ -107942,7 +107942,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Turalyon's Helm of Triumph</Name>
+    <Name>Шлем триумфа Туралиона</Name>
     <Id>48609</Id>
     <Slot>Head</Slot>
   </Item>
@@ -108075,7 +108075,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Turalyon's Helm of Triumph</Name>
+    <Name>Шлем триумфа Туралиона</Name>
     <Id>48614</Id>
     <Slot>Head</Slot>
   </Item>
@@ -108610,7 +108610,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Turalyon's Faceguard of Conquest</Name>
+    <Name>Большой шлем завоеваний Туралиона</Name>
     <Id>48634</Id>
     <Slot>Head</Slot>
   </Item>
@@ -108748,7 +108748,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Turalyon's Faceguard of Triumph</Name>
+    <Name>Большой шлем триумфа Туралиона</Name>
     <Id>48639</Id>
     <Slot>Head</Slot>
   </Item>
@@ -108886,7 +108886,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Turalyon's Faceguard of Triumph</Name>
+    <Name>Большой шлем триумфа Туралиона</Name>
     <Id>48644</Id>
     <Slot>Head</Slot>
   </Item>
@@ -112103,7 +112103,7 @@
     <SocketBonus>
       <Intellect>8</Intellect>
     </SocketBonus>
-    <Name>Stormrage Hood</Name>
+    <Name>Капюшон Ярости Бури</Name>
     <Id>49326</Id>
     <Slot>Head</Slot>
   </Item>
@@ -112132,7 +112132,7 @@
     <SocketBonus>
       <HasteRating>8</HasteRating>
     </SocketBonus>
-    <Name>Stormrage Antlers</Name>
+    <Name>Рога Ярости Бури</Name>
     <Id>49327</Id>
     <Slot>Head</Slot>
   </Item>
@@ -112161,7 +112161,7 @@
     <SocketBonus>
       <HitRating>8</HitRating>
     </SocketBonus>
-    <Name>Stormrage Helm</Name>
+    <Name>Шлем Ярости Бури</Name>
     <Id>49328</Id>
     <Slot>Head</Slot>
   </Item>
@@ -112554,7 +112554,7 @@
     <SocketBonus>
       <HitRating>8</HitRating>
     </SocketBonus>
-    <Name>Stormrage Coverlet</Name>
+    <Name>Покрывало Ярости Бури</Name>
     <Id>49471</Id>
     <Slot>Head</Slot>
   </Item>
@@ -112583,7 +112583,7 @@
     <SocketBonus>
       <HasteRating>8</HasteRating>
     </SocketBonus>
-    <Name>Stormrage Crown</Name>
+    <Name>Корона Ярости Бури</Name>
     <Id>49472</Id>
     <Slot>Head</Slot>
   </Item>
@@ -112612,7 +112612,7 @@
     <SocketBonus>
       <Intellect>8</Intellect>
     </SocketBonus>
-    <Name>Stormrage Cover</Name>
+    <Name>Убор Ярости Бури</Name>
     <Id>49473</Id>
     <Slot>Head</Slot>
   </Item>
@@ -114202,7 +114202,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Skeleton Lord's Cranium</Name>
+    <Name>Череп повелителя скелетов</Name>
     <Id>49819</Id>
     <Slot>Head</Slot>
   </Item>
@@ -114906,7 +114906,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Tattered Glacial-Woven Hood</Name>
+    <Name>Ледниковый потрепанный капюшон</Name>
     <Id>49849</Id>
     <Slot>Head</Slot>
   </Item>
@@ -115661,7 +115661,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Snowserpent Mail Helm</Name>
+    <Name>Кольчужный шлем поземки</Name>
     <Id>49952</Id>
     <Slot>Head</Slot>
   </Item>
@@ -118140,7 +118140,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Shadowblade Helmet</Name>
+    <Name>Полный шлем теневого клинка</Name>
     <Id>50089</Id>
     <Slot>Head</Slot>
   </Item>
@@ -118248,7 +118248,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Scourgelord Helmet</Name>
+    <Name>Полный шлем повелителя Плети</Name>
     <Id>50096</Id>
     <Slot>Head</Slot>
   </Item>
@@ -119405,7 +119405,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Snowstorm Helm</Name>
+    <Name>Шлем метели</Name>
     <Id>50202</Id>
     <Slot>Head</Slot>
   </Item>
@@ -120812,7 +120812,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Sightless Crown of Ulmaas</Name>
+    <Name>Корона слепоты Улмааса</Name>
     <Id>50298</Id>
     <Slot>Head</Slot>
   </Item>
@@ -121062,7 +121062,7 @@
     <SocketBonus>
       <DefenseRating>8</DefenseRating>
     </SocketBonus>
-    <Name>Second Helm of the Executioner</Name>
+    <Name>Запасной шлем палача</Name>
     <Id>50311</Id>
     <Slot>Head</Slot>
   </Item>
@@ -124066,7 +124066,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Snowserpent Mail Helm</Name>
+    <Name>Кольчужный шлем поземки</Name>
     <Id>50605</Id>
     <Slot>Head</Slot>
   </Item>
@@ -124620,7 +124620,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Snowstorm Helm</Name>
+    <Name>Шлем метели</Name>
     <Id>50626</Id>
     <Slot>Head</Slot>
   </Item>
@@ -128701,7 +128701,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Thaumaturge's Crackling Cowl</Name>
+    <Name>Трескучий клобук чудотворца</Name>
     <Id>50807</Id>
     <Slot>Head</Slot>
   </Item>
@@ -129766,7 +129766,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Scourgelord Faceguard</Name>
+    <Name>Большой шлем повелителя Плети</Name>
     <Id>50855</Id>
     <Slot>Head</Slot>
   </Item>
@@ -131148,7 +131148,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Taldron's Short-Sighted Helm</Name>
+    <Name>Шлем близорукости Талдрона</Name>
     <Id>51002</Id>
     <Slot>Head</Slot>
   </Item>
@@ -131808,7 +131808,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Sanctified Scourgelord Helmet</Name>
+    <Name>Освященный полный шлем повелителя Плети</Name>
     <Id>51127</Id>
     <Slot>Head</Slot>
   </Item>
@@ -131971,7 +131971,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Sanctified Scourgelord Faceguard</Name>
+    <Name>Освященный большой шлем повелителя Плети</Name>
     <Id>51133</Id>
     <Slot>Head</Slot>
   </Item>
@@ -132082,7 +132082,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Sanctified Lasherweave Helmet</Name>
+    <Name>Освященный плеточный полный шлем</Name>
     <Id>51137</Id>
     <Slot>Head</Slot>
   </Item>
@@ -132248,7 +132248,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Sanctified Lasherweave Headguard</Name>
+    <Name>Освященный плеточный наголовник</Name>
     <Id>51143</Id>
     <Slot>Head</Slot>
   </Item>
@@ -132413,7 +132413,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Sanctified Lasherweave Cover</Name>
+    <Name>Освященный плеточный убор</Name>
     <Id>51149</Id>
     <Slot>Head</Slot>
   </Item>
@@ -132774,7 +132774,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Sanctified Lightsworn Helmet</Name>
+    <Name>Освященный полный шлем клятвы Свету</Name>
     <Id>51162</Id>
     <Slot>Head</Slot>
   </Item>
@@ -132910,7 +132910,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Sanctified Lightsworn Headpiece</Name>
+    <Name>Освященный головной убор клятвы Свету</Name>
     <Id>51167</Id>
     <Slot>Head</Slot>
   </Item>
@@ -133075,7 +133075,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Sanctified Lightsworn Faceguard</Name>
+    <Name>Освященный плеточный полный шлем</Name>
     <Id>51173</Id>
     <Slot>Head</Slot>
   </Item>
@@ -133462,7 +133462,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Sanctified Shadowblade Helmet</Name>
+    <Name>Освященный полный шлем теневого клинка</Name>
     <Id>51187</Id>
     <Slot>Head</Slot>
   </Item>
@@ -134154,7 +134154,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Sanctified Ymirjar Lord's Helmet</Name>
+    <Name>Освященный полный шлем имирьярского повелителя</Name>
     <Id>51212</Id>
     <Slot>Head</Slot>
   </Item>
@@ -134317,7 +134317,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Sanctified Ymirjar Lord's Greathelm</Name>
+    <Name>Освященный великий шлем имирьярского повелителя</Name>
     <Id>51218</Id>
     <Slot>Head</Slot>
   </Item>
@@ -134401,7 +134401,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Sanctified Ymirjar Lord's Greathelm</Name>
+    <Name>Освященный великий шлем имирьярского повелителя</Name>
     <Id>51221</Id>
     <Slot>Head</Slot>
   </Item>
@@ -134563,7 +134563,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Sanctified Ymirjar Lord's Helmet</Name>
+    <Name>Освященный полный шлем имирьярского повелителя</Name>
     <Id>51227</Id>
     <Slot>Head</Slot>
   </Item>
@@ -135256,7 +135256,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Sanctified Shadowblade Helmet</Name>
+    <Name>Освященный полный шлем теневого клинка</Name>
     <Id>51252</Id>
     <Slot>Head</Slot>
   </Item>
@@ -135643,7 +135643,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Sanctified Lightsworn Faceguard</Name>
+    <Name>Освященный большой шлем клятвы Свету</Name>
     <Id>51266</Id>
     <Slot>Head</Slot>
   </Item>
@@ -135808,7 +135808,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Sanctified Lightsworn Headpiece</Name>
+    <Name>Освященный головной убор клятвы Свету</Name>
     <Id>51272</Id>
     <Slot>Head</Slot>
   </Item>
@@ -135943,7 +135943,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Sanctified Lightsworn Helmet</Name>
+    <Name>Освященный полный шлем клятвы Свету</Name>
     <Id>51277</Id>
     <Slot>Head</Slot>
   </Item>
@@ -136305,7 +136305,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Sanctified Lasherweave Cover</Name>
+    <Name>Освященный плеточный убор</Name>
     <Id>51290</Id>
     <Slot>Head</Slot>
   </Item>
@@ -136470,7 +136470,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Sanctified Lasherweave Headguard</Name>
+    <Name>Освященный плеточный наголовник</Name>
     <Id>51296</Id>
     <Slot>Head</Slot>
   </Item>
@@ -136636,7 +136636,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Sanctified Lasherweave Helmet</Name>
+    <Name>Освященный плеточный полный шлем</Name>
     <Id>51302</Id>
     <Slot>Head</Slot>
   </Item>
@@ -136747,7 +136747,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Sanctified Scourgelord Faceguard</Name>
+    <Name>Освященный большой шлем повелителя Плети</Name>
     <Id>51306</Id>
     <Slot>Head</Slot>
   </Item>
@@ -136909,7 +136909,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Sanctified Scourgelord Helmet</Name>
+    <Name>Освященный полный шлем повелителя Плети</Name>
     <Id>51312</Id>
     <Slot>Head</Slot>
   </Item>
@@ -143268,7 +143268,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Sister Svalna's Spangenhelm</Name>
+    <Name>Каркасный шлем Сестры Свалны</Name>
     <Id>51585</Id>
     <Slot>Head</Slot>
   </Item>
@@ -144249,7 +144249,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Sister Svalna's Spangenhelm</Name>
+    <Name>Каркасный шлем Сестры Свалны</Name>
     <Id>51825</Id>
     <Slot>Head</Slot>
   </Item>
@@ -145611,7 +145611,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Taldron's Short-Sighted Helm</Name>
+    <Name>Шлем близорукости Талдрона</Name>
     <Id>51877</Id>
     <Slot>Head</Slot>
   </Item>
@@ -146109,7 +146109,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Thaumaturge's Crackling Cowl</Name>
+    <Name>Трескучий клобук чудотворца</Name>
     <Id>51896</Id>
     <Slot>Head</Slot>
   </Item>
