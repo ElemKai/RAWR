@@ -876,7 +876,7 @@
     <Speed>3</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Timeless Shell</Name>
+    <Name>Вневременной патрон</Name>
     <Id>31735</Id>
     <Slot>Projectile</Slot>
   </Item>
@@ -1052,7 +1052,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Hollow Geode Helm</Name>
+    <Name>Шлем полой сферы</Name>
     <Id>35672</Id>
     <Slot>Head</Slot>
   </Item>
@@ -1433,7 +1433,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Horned Helm of Varos</Name>
+    <Name>Рогатый шлем Вароса</Name>
     <Id>36948</Id>
     <Slot>Head</Slot>
   </Item>
@@ -2187,7 +2187,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Hood of the Furtive Assassin</Name>
+    <Name>Шлем незаметного убийцы</Name>
     <Id>36996</Id>
     <Slot>Head</Slot>
   </Item>
@@ -2555,7 +2555,7 @@
     <Speed>1.6</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Jeweled Coronation Sword</Name>
+    <Name>Изукрашенный меч для коронации</Name>
     <Id>37060</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -3147,7 +3147,7 @@
     <Speed>2.3</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Beguiling Scepter</Name>
+    <Name>Скипетр очаровывания</Name>
     <Id>37112</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -3651,7 +3651,7 @@
     <Speed>2.3</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>War Mace of Unrequited Love</Name>
+    <Name>Боевая палица безответной любви</Name>
     <Id>37169</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -3863,7 +3863,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Helmet of the Constructor</Name>
+    <Name>Шлем Конструктора</Name>
     <Id>37182</Id>
     <Slot>Head</Slot>
   </Item>
@@ -5295,7 +5295,7 @@
     <Speed>1.8</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Netherbreath Spellblade</Name>
+    <Name>Чародейский клинок дыхания пустоты</Name>
     <Id>37377</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -6174,7 +6174,7 @@
     <Speed>2.6</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Fist of the Deity</Name>
+    <Name>Кулак Божества</Name>
     <Id>37631</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -7079,7 +7079,7 @@
     <Speed>2.3</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Gavel of the Fleshcrafter</Name>
+    <Name>Чекан Плотореза</Name>
     <Id>37681</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -7342,7 +7342,7 @@
     <Speed>2.6</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Greed</Name>
+    <Name>Алчба</Name>
     <Id>37693</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -7537,7 +7537,7 @@
     <Speed>1.6</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Cursed Lich Blade</Name>
+    <Name>Клинок проклятого лича</Name>
     <Id>37721</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -7653,7 +7653,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>King Dred's Helm</Name>
+    <Name>Шлем короля Дреда</Name>
     <Id>37726</Id>
     <Slot>Head</Slot>
   </Item>
@@ -8518,7 +8518,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Helm of the Lightning Halls</Name>
+    <Name>Шлем Обители Молнии</Name>
     <Id>37857</Id>
     <Slot>Head</Slot>
   </Item>
@@ -10163,7 +10163,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Grieving Spellblade</Name>
+    <Name>Скорбный чародейский клинок</Name>
     <Id>39200</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -11165,7 +11165,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Blade of Dormant Memories</Name>
+    <Name>Клинок прошлых воспоминаний</Name>
     <Id>39271</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -11391,7 +11391,7 @@
     <Speed>1.8</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Infection Repulser</Name>
+    <Name>Отражатель инфекции</Name>
     <Id>39281</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -12246,7 +12246,7 @@
     <SocketBonus>
       <HasteRating>8</HasteRating>
     </SocketBonus>
-    <Name>Helm of the Vast Legions</Name>
+    <Name>Шлем бесчисленных легионов</Name>
     <Id>39399</Id>
     <Slot>Head</Slot>
   </Item>
@@ -12292,7 +12292,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Helm of the Unsubmissive</Name>
+    <Name>Шлем Непокорного</Name>
     <Id>39403</Id>
     <Slot>Head</Slot>
   </Item>
@@ -12340,7 +12340,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Helmet of the Inner Sanctum</Name>
+    <Name>Шлем внутреннего святилища</Name>
     <Id>39405</Id>
     <Slot>Head</Slot>
   </Item>
@@ -12460,7 +12460,7 @@
     <Speed>2.6</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Kel'Thuzad's Reach</Name>
+    <Name>Хватка Кел'Тузада</Name>
     <Id>39416</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -12598,7 +12598,7 @@
     <Speed>1.8</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Hammer of the Astral Plane</Name>
+    <Name>Молот астрального мира</Name>
     <Id>39423</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -12623,7 +12623,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>The Soulblade</Name>
+    <Name>Клинок души</Name>
     <Id>39424</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -12835,7 +12835,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Heroes' Frostfire Circlet</Name>
+    <Name>Героический венец ледяного огня</Name>
     <Id>39491</Id>
     <Slot>Head</Slot>
   </Item>
@@ -12973,7 +12973,7 @@
     <SocketBonus>
       <HasteRating>8</HasteRating>
     </SocketBonus>
-    <Name>Heroes' Plagueheart Circlet</Name>
+    <Name>Героический венец Проклятого Сердца</Name>
     <Id>39496</Id>
     <Slot>Head</Slot>
   </Item>
@@ -13111,7 +13111,7 @@
     <SocketBonus>
       <Spirit>8</Spirit>
     </SocketBonus>
-    <Name>Heroes' Crown of Faith</Name>
+    <Name>Героическая корона веры</Name>
     <Id>39514</Id>
     <Slot>Head</Slot>
   </Item>
@@ -13249,7 +13249,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Heroes' Circlet of Faith</Name>
+    <Name>Героический венец веры</Name>
     <Id>39521</Id>
     <Slot>Head</Slot>
   </Item>
@@ -13387,7 +13387,7 @@
     <SocketBonus>
       <Mp5>2</Mp5>
     </SocketBonus>
-    <Name>Heroes' Dreamwalker Headpiece</Name>
+    <Name>Героический головной убор сновидца</Name>
     <Id>39531</Id>
     <Slot>Head</Slot>
   </Item>
@@ -13617,7 +13617,7 @@
     <SocketBonus>
       <Intellect>8</Intellect>
     </SocketBonus>
-    <Name>Heroes' Dreamwalker Cover</Name>
+    <Name>Героический капюшон сновидца</Name>
     <Id>39545</Id>
     <Slot>Head</Slot>
   </Item>
@@ -13728,7 +13728,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Heroes' Dreamwalker Headguard</Name>
+    <Name>Героический наголовник сновидца</Name>
     <Id>39553</Id>
     <Slot>Head</Slot>
   </Item>
@@ -13921,7 +13921,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Heroes' Bonescythe Helmet</Name>
+    <Name>Героический полный шлем костяной косы</Name>
     <Id>39561</Id>
     <Slot>Head</Slot>
   </Item>
@@ -14005,7 +14005,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Heroes' Cryptstalker Headpiece</Name>
+    <Name>Героический головной убор расхитителя гробниц</Name>
     <Id>39578</Id>
     <Slot>Head</Slot>
   </Item>
@@ -14147,7 +14147,7 @@
     <SocketBonus>
       <Intellect>8</Intellect>
     </SocketBonus>
-    <Name>Heroes' Earthshatter Headpiece</Name>
+    <Name>Героический головной убор Землекрушителя</Name>
     <Id>39583</Id>
     <Slot>Head</Slot>
   </Item>
@@ -14340,7 +14340,7 @@
     <SocketBonus>
       <HasteRating>8</HasteRating>
     </SocketBonus>
-    <Name>Heroes' Earthshatter Helm</Name>
+    <Name>Героический шлем Землекрушителя</Name>
     <Id>39594</Id>
     <Slot>Head</Slot>
   </Item>
@@ -14481,7 +14481,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Heroes' Earthshatter Faceguard</Name>
+    <Name>Героический большой шлем Землекрушителя</Name>
     <Id>39602</Id>
     <Slot>Head</Slot>
   </Item>
@@ -14565,7 +14565,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Heroes' Dreadnaught Helmet</Name>
+    <Name>Героический полный шлем неустрашимости</Name>
     <Id>39605</Id>
     <Slot>Head</Slot>
   </Item>
@@ -14699,7 +14699,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Heroes' Dreadnaught Greathelm</Name>
+    <Name>Героический великий шлем неустрашимости</Name>
     <Id>39610</Id>
     <Slot>Head</Slot>
   </Item>
@@ -14862,7 +14862,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Heroes' Scourgeborne Helmet</Name>
+    <Name>Героический кованый Плетью шлем</Name>
     <Id>39619</Id>
     <Slot>Head</Slot>
   </Item>
@@ -15025,7 +15025,7 @@
     <SocketBonus>
       <ParryRating>8</ParryRating>
     </SocketBonus>
-    <Name>Heroes' Scourgeborne Faceguard</Name>
+    <Name>Героический кованый Плетью большой шлем</Name>
     <Id>39625</Id>
     <Slot>Head</Slot>
   </Item>
@@ -15108,7 +15108,7 @@
     <SocketBonus>
       <Mp5>3</Mp5>
     </SocketBonus>
-    <Name>Heroes' Redemption Headpiece</Name>
+    <Name>Героический головной убор искупления</Name>
     <Id>39628</Id>
     <Slot>Head</Slot>
   </Item>
@@ -15298,7 +15298,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Heroes' Redemption Helm</Name>
+    <Name>Героический шлем искупления</Name>
     <Id>39635</Id>
     <Slot>Head</Slot>
   </Item>
@@ -15434,7 +15434,7 @@
     <SocketBonus>
       <ExpertiseRating>6</ExpertiseRating>
     </SocketBonus>
-    <Name>Heroes' Redemption Faceguard</Name>
+    <Name>Героический большой шлем искупления</Name>
     <Id>39640</Id>
     <Slot>Head</Slot>
   </Item>
@@ -16301,7 +16301,7 @@
     <Speed>2.6</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Wraith Strike</Name>
+    <Name>Удар призрака</Name>
     <Id>39763</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -16548,7 +16548,7 @@
     <Type>None</Type>
     <Faction>Neutral</Faction>
     <SocketBonus />
-    <Name>Bold Bloodstone</Name>
+    <Name>Рельефный кровавый камень</Name>
     <Id>39900</Id>
     <Slot>Red</Slot>
   </Item>
@@ -16889,7 +16889,7 @@
     <Type>None</Type>
     <Faction>Neutral</Faction>
     <SocketBonus />
-    <Name>Balanced Shadow Crystal</Name>
+    <Name>Сбалансированный сумрачный кристалл</Name>
     <Id>39937</Id>
     <Slot>Purple</Slot>
   </Item>
@@ -17382,7 +17382,7 @@
     <Type>None</Type>
     <Faction>Neutral</Faction>
     <SocketBonus />
-    <Name>Accurate Huge Citrine</Name>
+    <Name>Идеально ограненный огромный цитрин</Name>
     <Id>39966</Id>
     <Slot>Orange</Slot>
   </Item>
@@ -18146,7 +18146,7 @@
     <Type>None</Type>
     <Faction>Neutral</Faction>
     <SocketBonus />
-    <Name>Balanced Twilight Opal</Name>
+    <Name>Сбалансированный сумеречный опал</Name>
     <Id>40029</Id>
     <Slot>Purple</Slot>
   </Item>
@@ -18588,7 +18588,7 @@
     <Type>None</Type>
     <Faction>Neutral</Faction>
     <SocketBonus />
-    <Name>Accurate Monarch Topaz</Name>
+    <Name>Идеально ограненный императорский топаз</Name>
     <Id>40058</Id>
     <Slot>Orange</Slot>
   </Item>
@@ -19633,7 +19633,7 @@
     <Type>None</Type>
     <Faction>Neutral</Faction>
     <SocketBonus />
-    <Name>Balanced Dreadstone</Name>
+    <Name>Сбалансированный страхолит</Name>
     <Id>40136</Id>
     <Slot>Purple</Slot>
   </Item>
@@ -20075,7 +20075,7 @@
     <Type>None</Type>
     <Faction>Neutral</Faction>
     <SocketBonus />
-    <Name>Accurate Ametrine</Name>
+    <Name>Идеально ограненный аметрин</Name>
     <Id>40162</Id>
     <Slot>Orange</Slot>
   </Item>
@@ -21240,7 +21240,7 @@
     <Speed>1.8</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>The Impossible Dream</Name>
+    <Name>Несбыточный сон</Name>
     <Id>40244</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -22873,7 +22873,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Helm of Vital Protection</Name>
+    <Name>Шлем необходимой защиты</Name>
     <Id>40328</Id>
     <Slot>Head</Slot>
   </Item>
@@ -22899,7 +22899,7 @@
     <SocketBonus>
       <AttackPower>12</AttackPower>
     </SocketBonus>
-    <Name>Hood of the Exodus</Name>
+    <Name>Капюшон исхода</Name>
     <Id>40329</Id>
     <Slot>Head</Slot>
   </Item>
@@ -23069,7 +23069,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Life and Death</Name>
+    <Name>Жизнь и смерть</Name>
     <Id>40336</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -23160,7 +23160,7 @@
     <SocketBonus>
       <HasteRating>8</HasteRating>
     </SocketBonus>
-    <Name>Helm of Unleashed Energy</Name>
+    <Name>Шлем высвобожденной энергии</Name>
     <Id>40340</Id>
     <Slot>Head</Slot>
   </Item>
@@ -23969,7 +23969,7 @@
     <Speed>2.6</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Calamity's Grasp</Name>
+    <Name>Хватка бедствия</Name>
     <Id>40383</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -24109,7 +24109,7 @@
     <Speed>1.8</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Torch of Holy Fire</Name>
+    <Name>Факел священного огня</Name>
     <Id>40395</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -24134,7 +24134,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>The Turning Tide</Name>
+    <Name>Переломный момент</Name>
     <Id>40396</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -24368,7 +24368,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Haunting Call</Name>
+    <Name>Навязчивый зов</Name>
     <Id>40408</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -24818,7 +24818,7 @@
     <Speed>2.6</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Crimson Steel</Name>
+    <Name>Багровая сталь</Name>
     <Id>40429</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -25183,7 +25183,7 @@
     <SocketBonus>
       <Stamina>4</Stamina>
     </SocketBonus>
-    <Name>Hyaline Helm of the Sniper</Name>
+    <Name>Стекловидный шлем снайпера</Name>
     <Id>40451</Id>
     <Slot>Head</Slot>
   </Item>
@@ -25819,7 +25819,7 @@
     <Speed>1.8</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Ice Spire Scepter</Name>
+    <Name>Скипетр Ледяного пика</Name>
     <Id>40488</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -27442,7 +27442,7 @@
     <SocketBonus>
       <Mp5>2</Mp5>
     </SocketBonus>
-    <Name>Hood of Rationality</Name>
+    <Name>Капюшон рациональности</Name>
     <Id>40562</Id>
     <Slot>Head</Slot>
   </Item>
@@ -35685,7 +35685,7 @@
     <MaxDamage>68</MaxDamage>
     <Speed>3</Speed>
     <SocketBonus />
-    <Name>Mammoth Cutters</Name>
+    <Name>Мамонтобои</Name>
     <Id>41164</Id>
     <Slot>Projectile</Slot>
   </Item>
@@ -35702,7 +35702,7 @@
     <MaxDamage>68</MaxDamage>
     <Speed>3</Speed>
     <SocketBonus />
-    <Name>Saronite Razorheads</Name>
+    <Name>Саронитовые острейшие стрелы</Name>
     <Id>41165</Id>
     <Slot>Projectile</Slot>
   </Item>
@@ -38489,7 +38489,7 @@
     <Type>None</Type>
     <Faction>Neutral</Faction>
     <SocketBonus />
-    <Name>Austere Earthsiege Diamond</Name>
+    <Name>Алмаз строгого землеправителя</Name>
     <Id>41380</Id>
     <Slot>Meta</Slot>
   </Item>
@@ -38546,7 +38546,7 @@
     <Unique>true</Unique>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Titansteel Bonecrusher</Name>
+    <Name>Костекрушитель из титановой стали</Name>
     <Id>41383</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -38569,7 +38569,7 @@
     <Unique>true</Unique>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Titansteel Guardian</Name>
+    <Name>Булава стража из титановой стали</Name>
     <Id>41384</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -38697,7 +38697,7 @@
     <Type>None</Type>
     <Faction>Neutral</Faction>
     <SocketBonus />
-    <Name>Beaming Earthsiege Diamond</Name>
+    <Name>Лучащийся алмаз землеправителя</Name>
     <Id>41389</Id>
     <Slot>Meta</Slot>
   </Item>
@@ -40180,7 +40180,7 @@
     <MaxDamage>47</MaxDamage>
     <Speed>3</Speed>
     <SocketBonus />
-    <Name>Frostbite Bullets</Name>
+    <Name>Обмораживающие пули</Name>
     <Id>41584</Id>
     <Slot>Projectile</Slot>
   </Item>
@@ -40197,7 +40197,7 @@
     <MaxDamage>47</MaxDamage>
     <Speed>3</Speed>
     <SocketBonus />
-    <Name>Terrorshaft Arrow</Name>
+    <Name>Наводящие ужас стрелы</Name>
     <Id>41586</Id>
     <Slot>Projectile</Slot>
   </Item>
@@ -49426,7 +49426,7 @@
     <SocketBonus>
       <ExpertiseRating>8</ExpertiseRating>
     </SocketBonus>
-    <Name>Helmet of the Shrine</Name>
+    <Name>Шлем Святилища</Name>
     <Id>43311</Id>
     <Slot>Head</Slot>
   </Item>
@@ -51823,7 +51823,7 @@
     <Speed>2.6</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Totemic Purification Rod</Name>
+    <Name>Тотемический жезл очищения</Name>
     <Id>44052</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -52407,7 +52407,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Helm of the Majestic Stag</Name>
+    <Name>Величественный рогатый шлем</Name>
     <Id>44170</Id>
     <Slot>Head</Slot>
   </Item>
@@ -52454,7 +52454,7 @@
     <Speed>1.8</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Flameheart Spell Scalpel</Name>
+    <Name>Скальпель чар пламенного сердца</Name>
     <Id>44173</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -52878,7 +52878,7 @@
     <Speed>2.3</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Gavel of the Brewing Storm</Name>
+    <Name>Чекан бушующего шторма</Name>
     <Id>44199</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -54181,7 +54181,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Helmet of Just Retribution</Name>
+    <Name>Шлем справедливого воздаяния</Name>
     <Id>44410</Id>
     <Slot>Head</Slot>
   </Item>
@@ -55400,7 +55400,7 @@
     <Speed>1.5</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Dagger of Lunar Purity</Name>
+    <Name>Кинжал лунной белизны</Name>
     <Id>45078</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -55424,7 +55424,7 @@
     <Unique>true</Unique>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Titansteel Spellblade</Name>
+    <Name>Чародейский клинок из титановой стали</Name>
     <Id>45085</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -55494,7 +55494,7 @@
     <SocketBonus>
       <HitRating>8</HitRating>
     </SocketBonus>
-    <Name>Iron Riveted War Helm</Name>
+    <Name>Боевой шлем в железных заклепках</Name>
     <Id>45107</Id>
     <Slot>Head</Slot>
   </Item>
@@ -55807,7 +55807,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Gnomeregan Bonechopper</Name>
+    <Name>Гномреганский костегрыз</Name>
     <Id>45129</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -55888,7 +55888,7 @@
     <SocketBonus>
       <HitRating>4</HitRating>
     </SocketBonus>
-    <Name>Golden Saronite Dragon</Name>
+    <Name>Золотистый саронитовый коготь</Name>
     <Id>45132</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -57125,7 +57125,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Blade of the Keening Banshee</Name>
+    <Name>Клинок причитающей банши</Name>
     <Id>45208</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -57261,7 +57261,7 @@
     <Speed>1.5</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Scalpel of the Royal Apothecary</Name>
+    <Name>Скальпель королевского фармацевта</Name>
     <Id>45214</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -58777,7 +58777,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Firesoul</Name>
+    <Name>Огненный дух</Name>
     <Id>45287</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -58825,7 +58825,7 @@
     <SocketBonus>
       <Spirit>8</Spirit>
     </SocketBonus>
-    <Name>Lifespark Visage</Name>
+    <Name>Искрящийся Взор</Name>
     <Id>45289</Id>
     <Slot>Head</Slot>
   </Item>
@@ -59784,7 +59784,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Stormtip</Name>
+    <Name>Острие шторма</Name>
     <Id>45332</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -62550,7 +62550,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Runescribed Blade</Name>
+    <Name>Украшенный рунами клинок</Name>
     <Id>45437</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -62853,7 +62853,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>The Masticator</Name>
+    <Name>Меситель</Name>
     <Id>45449</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -63722,7 +63722,7 @@
     <Speed>2.6</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Insanity's Grip</Name>
+    <Name>Хватка безумия</Name>
     <Id>45489</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -64578,7 +64578,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Soulscribe</Name>
+    <Name>Бесплотный резчик</Name>
     <Id>45527</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -65829,7 +65829,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Constellus</Name>
+    <Name>Звездное плетение</Name>
     <Id>45612</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -66034,7 +66034,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Starshard Edge</Name>
+    <Name>Осколок звезды</Name>
     <Id>45620</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -66390,7 +66390,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Plasma Foil</Name>
+    <Name>Плазменный кинжал</Name>
     <Id>45685</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -66441,7 +66441,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Helm of Veiled Energies</Name>
+    <Name>Шлем скрытой энергии</Name>
     <Id>45687</Id>
     <Slot>Head</Slot>
   </Item>
@@ -68539,7 +68539,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Ironbark Faceguard</Name>
+    <Name>Большой шлем Железной Коры</Name>
     <Id>45935</Id>
     <Slot>Head</Slot>
   </Item>
@@ -68737,7 +68737,7 @@
     <Speed>1.8</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Pulse Baton</Name>
+    <Name>Пульсирующая дубинка</Name>
     <Id>45972</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -68961,7 +68961,7 @@
     <SocketBonus>
       <HitRating>4</HitRating>
     </SocketBonus>
-    <Name>Fusion Blade</Name>
+    <Name>Клинок энергии</Name>
     <Id>45990</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -69324,7 +69324,7 @@
     <Speed>1.8</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Val'anyr, Hammer of Ancient Kings</Name>
+    <Name>Вал'анир, молот древних королей</Name>
     <Id>46017</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -69649,7 +69649,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Aesuga, Hand of the Ardent Champion</Name>
+    <Name>Аешуга, рука ретивого чемпиона</Name>
     <Id>46035</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -70395,7 +70395,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Alliance Lance</Name>
+    <Name>Копье Альянса</Name>
     <Id>46069</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -70941,7 +70941,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Argent Lance</Name>
+    <Name>Серебряное копье</Name>
     <Id>46106</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -74607,7 +74607,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Blade of Tarasque</Name>
+    <Name>Клинок Тараска</Name>
     <Id>46979</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -74635,7 +74635,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Blade of Tarasque</Name>
+    <Name>Клинок Тараска</Name>
     <Id>46980</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -77893,7 +77893,7 @@
     <Speed>1.8</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Misery's End</Name>
+    <Name>Конец невзгод</Name>
     <Id>47193</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -78162,7 +78162,7 @@
     <Speed>1.8</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Misery's End</Name>
+    <Name>Конец невзгод</Name>
     <Id>47206</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -78537,7 +78537,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Helm of the Violent Fray</Name>
+    <Name>Шлем жестокой битвы</Name>
     <Id>47220</Id>
     <Slot>Head</Slot>
   </Item>
@@ -79439,7 +79439,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Barb of Tarasque</Name>
+    <Name>Жало Тараска</Name>
     <Id>47261</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -80934,7 +80934,7 @@
     <Speed>1.8</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Suffering's End</Name>
+    <Name>Конец страданий</Name>
     <Id>47322</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -81413,7 +81413,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Barb of Tarasque</Name>
+    <Name>Жало Тараска</Name>
     <Id>47422</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -83007,7 +83007,7 @@
     <Speed>1.8</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Suffering's End</Name>
+    <Name>Конец страданий</Name>
     <Id>47483</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -83550,7 +83550,7 @@
     <Speed>1.8</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Mariel's Sorrow</Name>
+    <Name>Печаль Мариэль</Name>
     <Id>47509</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -83757,7 +83757,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Blade of the Unbroken Covenant</Name>
+    <Name>Клинок нерушимой клятвы</Name>
     <Id>47517</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -83785,7 +83785,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Mortalis</Name>
+    <Name>Проклятье Демона</Name>
     <Id>47518</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -84575,7 +84575,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Spectral Kris</Name>
+    <Name>Призрачный крис</Name>
     <Id>47569</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -86375,7 +86375,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Helm of Thunderous Rampage</Name>
+    <Name>Шлем оглушительного буйства</Name>
     <Id>47674</Id>
     <Slot>Head</Slot>
   </Item>
@@ -86573,7 +86573,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Helm of the Restless Watch</Name>
+    <Name>Шлем неустанного дозора</Name>
     <Id>47682</Id>
     <Slot>Head</Slot>
   </Item>
@@ -86757,7 +86757,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Hood of Lethal Intent</Name>
+    <Name>Капюшон смертоносного намерения</Name>
     <Id>47689</Id>
     <Slot>Head</Slot>
   </Item>
@@ -86835,7 +86835,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Hood of Smoldering Aftermath</Name>
+    <Name>Капюшон дымящегося огненного шлейфа</Name>
     <Id>47692</Id>
     <Slot>Head</Slot>
   </Item>
@@ -86861,7 +86861,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Hood of Fiery Aftermath</Name>
+    <Name>Капюшон огненного шлейфа</Name>
     <Id>47693</Id>
     <Slot>Head</Slot>
   </Item>
@@ -86913,7 +86913,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Hood of Clouded Sight</Name>
+    <Name>Капюшон затуманенного взора</Name>
     <Id>47695</Id>
     <Slot>Head</Slot>
   </Item>
@@ -87484,7 +87484,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Helm of the Silver Ranger</Name>
+    <Name>Шлем серебряного следопыта</Name>
     <Id>47718</Id>
     <Slot>Head</Slot>
   </Item>
@@ -87587,7 +87587,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Blade of the Silver Disciple</Name>
+    <Name>Клинок серебряного послушника</Name>
     <Id>47724</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -88187,7 +88187,7 @@
     <SocketBonus>
       <Intellect>8</Intellect>
     </SocketBonus>
-    <Name>Helm of the Snowy Grotto</Name>
+    <Name>Шлем снежного грота</Name>
     <Id>47746</Id>
     <Slot>Head</Slot>
   </Item>
@@ -88239,7 +88239,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Khadgar's Hood of Conquest</Name>
+    <Name>Капюшон завоеваний Кадгара</Name>
     <Id>47748</Id>
     <Slot>Head</Slot>
   </Item>
@@ -88404,7 +88404,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Khadgar's Hood of Triumph</Name>
+    <Name>Капюшон триумфа Кадгара</Name>
     <Id>47754</Id>
     <Slot>Head</Slot>
   </Item>
@@ -88598,7 +88598,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Khadgar's Hood of Triumph</Name>
+    <Name>Капюшон триумфа Кадгара</Name>
     <Id>47761</Id>
     <Slot>Head</Slot>
   </Item>
@@ -89067,7 +89067,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Kel'Thuzad's Hood of Triumph</Name>
+    <Name>Капюшон триумфа Кел'Тузада</Name>
     <Id>47778</Id>
     <Slot>Head</Slot>
   </Item>
@@ -89232,7 +89232,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Kel'Thuzad's Hood of Conquest</Name>
+    <Name>Капюшон завоеваний Кел'Тузада</Name>
     <Id>47784</Id>
     <Slot>Head</Slot>
   </Item>
@@ -89370,7 +89370,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Kel'Thuzad's Hood of Triumph</Name>
+    <Name>Капюшон триумфа Кел'Тузада</Name>
     <Id>47789</Id>
     <Slot>Head</Slot>
   </Item>
@@ -89915,7 +89915,7 @@
     <Speed>1.8</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Argent Resolve</Name>
+    <Name>Серебряная решимость</Name>
     <Id>47809</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -90016,7 +90016,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Helmet of the Crypt Lord</Name>
+    <Name>Полный шлем владыки склепа</Name>
     <Id>47813</Id>
     <Slot>Head</Slot>
   </Item>
@@ -90917,7 +90917,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Sunreaver Disciple's Blade</Name>
+    <Name>Клинок посвященного Похитителей Солнца</Name>
     <Id>47874</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -91458,7 +91458,7 @@
     <Speed>1.8</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Mace of the Earthborn Chieftain</Name>
+    <Name>Палица земного вождя</Name>
     <Id>47894</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -92631,7 +92631,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Blade of the Silver Disciple</Name>
+    <Name>Клинок серебряного послушника</Name>
     <Id>47941</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -92658,7 +92658,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Helm of the Silver Ranger</Name>
+    <Name>Шлем серебряного следопыта</Name>
     <Id>47942</Id>
     <Slot>Head</Slot>
   </Item>
@@ -93142,7 +93142,7 @@
     <SocketBonus>
       <Intellect>8</Intellect>
     </SocketBonus>
-    <Name>Helm of the Snowy Grotto</Name>
+    <Name>Шлем снежного грота</Name>
     <Id>47959</Id>
     <Slot>Head</Slot>
   </Item>
@@ -93224,7 +93224,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Argent Resolve</Name>
+    <Name>Серебряная решимость</Name>
     <Id>47962</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -93302,7 +93302,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Helmet of the Crypt Lord</Name>
+    <Name>Полный шлем владыки склепа</Name>
     <Id>47965</Id>
     <Slot>Head</Slot>
   </Item>
@@ -94555,7 +94555,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Sunreaver Disciple's Blade</Name>
+    <Name>Клинок посвященного Похитителей Солнца</Name>
     <Id>48013</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -95274,7 +95274,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Mace of the Earthborn Chieftain</Name>
+    <Name>Палица земного вождя</Name>
     <Id>48039</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -96993,7 +96993,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Malfurion's Headpiece of Conquest</Name>
+    <Name>Головной убор завоеваний Малфуриона</Name>
     <Id>48102</Id>
     <Slot>Head</Slot>
   </Item>
@@ -97158,7 +97158,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Malfurion's Headpiece of Triumph</Name>
+    <Name>Головной убор триумфа Малфуриона</Name>
     <Id>48134</Id>
     <Slot>Head</Slot>
   </Item>
@@ -97821,7 +97821,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Malfurion's Cover of Conquest</Name>
+    <Name>Убор завоеваний Малфуриона</Name>
     <Id>48158</Id>
     <Slot>Head</Slot>
   </Item>
@@ -97986,7 +97986,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Malfurion's Cover of Triumph</Name>
+    <Name>Убор триумфа Малфуриона</Name>
     <Id>48164</Id>
     <Slot>Head</Slot>
   </Item>
@@ -98180,7 +98180,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Malfurion's Cover of Triumph</Name>
+    <Name>Убор триумфа Малфуриона</Name>
     <Id>48171</Id>
     <Slot>Head</Slot>
   </Item>
@@ -99090,7 +99090,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Malfurion's Headguard of Triumph</Name>
+    <Name>Наголовник триумфа Малфуриона</Name>
     <Id>48204</Id>
     <Slot>Head</Slot>
   </Item>
@@ -99284,7 +99284,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Malfurion's Headguard of Triumph</Name>
+    <Name>Наголовник триумфа Малфуриона</Name>
     <Id>48211</Id>
     <Slot>Head</Slot>
   </Item>
@@ -99366,7 +99366,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Malfurion's Headguard of Conquest</Name>
+    <Name>Наголовник завоеваний Малфуриона</Name>
     <Id>48214</Id>
     <Slot>Head</Slot>
   </Item>
@@ -105754,7 +105754,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Koltira's Helmet of Triumph</Name>
+    <Name>Полный шлем триумфа Кольтиры</Name>
     <Id>48493</Id>
     <Slot>Head</Slot>
   </Item>
@@ -105887,7 +105887,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Koltira's Helmet of Triumph</Name>
+    <Name>Полный шлем триумфа Кольтиры</Name>
     <Id>48498</Id>
     <Slot>Head</Slot>
   </Item>
@@ -106020,7 +106020,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Koltira's Helmet of Conquest</Name>
+    <Name>Полный шлем завоеваний Кольтиры</Name>
     <Id>48503</Id>
     <Slot>Head</Slot>
   </Item>
@@ -106570,7 +106570,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Koltira's Faceguard of Triumph</Name>
+    <Name>Большой шлем триумфа Кольтиры</Name>
     <Id>48550</Id>
     <Slot>Head</Slot>
   </Item>
@@ -106708,7 +106708,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Koltira's Faceguard of Triumph</Name>
+    <Name>Большой шлем триумфа Кольтиры</Name>
     <Id>48555</Id>
     <Slot>Head</Slot>
   </Item>
@@ -106846,7 +106846,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Koltira's Faceguard of Conquest</Name>
+    <Name>Большой шлем завоевания Кольтиры</Name>
     <Id>48560</Id>
     <Slot>Head</Slot>
   </Item>
@@ -107398,7 +107398,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Liadrin's Headpiece of Triumph</Name>
+    <Name>Головной убор триумфа Лиадрин</Name>
     <Id>48587</Id>
     <Slot>Head</Slot>
   </Item>
@@ -107536,7 +107536,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Liadrin's Headpiece of Triumph</Name>
+    <Name>Головной убор триумфа Лиадрин</Name>
     <Id>48592</Id>
     <Slot>Head</Slot>
   </Item>
@@ -107674,7 +107674,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Liadrin's Headpiece of Conquest</Name>
+    <Name>Головной убор завоеваний Лиадрин</Name>
     <Id>48597</Id>
     <Slot>Head</Slot>
   </Item>
@@ -108208,7 +108208,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Liadrin's Helm of Triumph</Name>
+    <Name>Шлем триумфа Лиадрин</Name>
     <Id>48619</Id>
     <Slot>Head</Slot>
   </Item>
@@ -108341,7 +108341,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Liadrin's Helm of Triumph</Name>
+    <Name>Шлем триумфа Лиадрин</Name>
     <Id>48624</Id>
     <Slot>Head</Slot>
   </Item>
@@ -108474,7 +108474,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Liadrin's Helm of Conquest</Name>
+    <Name>Шлем завоеваний Лиадрин</Name>
     <Id>48629</Id>
     <Slot>Head</Slot>
   </Item>
@@ -109024,7 +109024,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Liadrin's Faceguard of Triumph</Name>
+    <Name>Большой шлем триумфа Лиадрин</Name>
     <Id>48649</Id>
     <Slot>Head</Slot>
   </Item>
@@ -109162,7 +109162,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Liadrin's Faceguard of Conquest</Name>
+    <Name>Большой шлем завоеваний Лиадрин</Name>
     <Id>48654</Id>
     <Slot>Head</Slot>
   </Item>
@@ -109300,7 +109300,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Liadrin's Faceguard of Triumph</Name>
+    <Name>Большой шлем триумфа Лиадрин</Name>
     <Id>48659</Id>
     <Slot>Head</Slot>
   </Item>
@@ -109772,7 +109772,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Heartsmasher</Name>
+    <Name>Крушитель сердец</Name>
     <Id>48693</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -109881,7 +109881,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Spellharvest</Name>
+    <Name>Сбор заклинаний</Name>
     <Id>48701</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -109908,7 +109908,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>The Facebreaker</Name>
+    <Name>Скуловорот</Name>
     <Id>48703</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -109964,7 +109964,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Spellstorm Blade</Name>
+    <Name>Клинок чародейской бури</Name>
     <Id>48708</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -109991,7 +109991,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Heartcrusher</Name>
+    <Name>Дробитель сердец</Name>
     <Id>48709</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -110073,7 +110073,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>The Spinebreaker</Name>
+    <Name>Хребтолом</Name>
     <Id>48712</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -111187,7 +111187,7 @@
     <Speed>1.7</Speed>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Skoll's Fang</Name>
+    <Name>Клык Сколла</Name>
     <Id>49227</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -111458,7 +111458,7 @@
     <Speed>2.4</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Glinting Azuresong Mageblade</Name>
+    <Name>Блистающий магический клинок лазурной песни</Name>
     <Id>49298</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -111603,7 +111603,7 @@
     <Speed>1.5</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Sharpened Fang of the Mystics</Name>
+    <Name>Заостренный клык тайн</Name>
     <Id>49304</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -112017,7 +112017,7 @@
     <SocketBonus>
       <HasteRating>8</HasteRating>
     </SocketBonus>
-    <Name>Judgement Cover</Name>
+    <Name>Убор правосудия</Name>
     <Id>49323</Id>
     <Slot>Head</Slot>
   </Item>
@@ -112046,7 +112046,7 @@
     <SocketBonus>
       <HitRating>8</HitRating>
     </SocketBonus>
-    <Name>Judgement Helmet</Name>
+    <Name>Полный шлем правосудия</Name>
     <Id>49324</Id>
     <Slot>Head</Slot>
   </Item>
@@ -112074,7 +112074,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Judgement Helm</Name>
+    <Name>Шлем правосудия</Name>
     <Id>49325</Id>
     <Slot>Head</Slot>
   </Item>
@@ -112525,7 +112525,7 @@
     <SocketBonus>
       <Mp5>4</Mp5>
     </SocketBonus>
-    <Name>Helmet of Ten Storms</Name>
+    <Name>Полный шлем десяти бурь</Name>
     <Id>49470</Id>
     <Slot>Head</Slot>
   </Item>
@@ -112640,7 +112640,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Judgement Hood</Name>
+    <Name>Капюшон правосудия</Name>
     <Id>49474</Id>
     <Slot>Head</Slot>
   </Item>
@@ -112669,7 +112669,7 @@
     <SocketBonus>
       <HitRating>8</HitRating>
     </SocketBonus>
-    <Name>Judgement Heaume</Name>
+    <Name>Топхельм правосудия</Name>
     <Id>49475</Id>
     <Slot>Head</Slot>
   </Item>
@@ -112698,7 +112698,7 @@
     <SocketBonus>
       <HasteRating>8</HasteRating>
     </SocketBonus>
-    <Name>Judgement Crown</Name>
+    <Name>Корона правосудия</Name>
     <Id>49476</Id>
     <Slot>Head</Slot>
   </Item>
@@ -112755,7 +112755,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Helmet of Wrath</Name>
+    <Name>Полный шлем гнева</Name>
     <Id>49478</Id>
     <Slot>Head</Slot>
   </Item>
@@ -112784,7 +112784,7 @@
     <SocketBonus>
       <DefenseRating>8</DefenseRating>
     </SocketBonus>
-    <Name>Helm of Wrath</Name>
+    <Name>Шлем гнева</Name>
     <Id>49479</Id>
     <Slot>Head</Slot>
   </Item>
@@ -113131,7 +113131,7 @@
     <Speed>1.5</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Honed Fang of the Mystics</Name>
+    <Name>Заточенный клык тайн</Name>
     <Id>49494</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -113276,7 +113276,7 @@
     <Speed>2.4</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Polished Azuresong Mageblade</Name>
+    <Name>Полированный магический клинок лазурной песни</Name>
     <Id>49499</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -114322,7 +114322,7 @@
     <SocketBonus>
       <HitRating>8</HitRating>
     </SocketBonus>
-    <Name>Horns of the Spurned Val'kyr</Name>
+    <Name>Рогатый шлем отверженной валь'киры</Name>
     <Id>49824</Id>
     <Slot>Head</Slot>
   </Item>
@@ -114533,7 +114533,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Splintered Icecrown Parapet</Name>
+    <Name>Зубец Цитадели</Name>
     <Id>49833</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -114808,7 +114808,7 @@
     <Speed>1.8</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Bone Golem Scapula</Name>
+    <Name>Кисть костяного голема</Name>
     <Id>49845</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -114836,7 +114836,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Chilled Heart of the Glacier</Name>
+    <Name>Замерзшее сердце ледника</Name>
     <Id>49846</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -115767,7 +115767,7 @@
     <SocketBonus />
     <UniqueId>49968</UniqueId>
     <UniqueId>50608</UniqueId>
-    <Name>Frozen Bonespike</Name>
+    <Name>Застывший костяной шип</Name>
     <Id>49968</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -117021,7 +117021,7 @@
     <Speed>1.8</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Trauma</Name>
+    <Name>Травма</Name>
     <Id>50028</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -117152,7 +117152,7 @@
     <Speed>2.6</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Black Bruise</Name>
+    <Name>Черный убойник</Name>
     <Id>50035</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -117363,7 +117363,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Quel'Delar, Lens of the Mind</Name>
+    <Name>Кель'Делар, Око разума</Name>
     <Id>50047</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -117462,7 +117462,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Hammer of Purified Flame</Name>
+    <Name>Молот очищения огнем</Name>
     <Id>50051</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -117742,7 +117742,7 @@
     <SocketBonus />
     <UniqueId>50068</UniqueId>
     <UniqueId>50704</UniqueId>
-    <Name>Rigormortis</Name>
+    <Name>Трупное окоченение</Name>
     <Id>50068</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -117847,7 +117847,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Landsoul's Horned Greathelm</Name>
+    <Name>Великий рогатый шлем земляного духа</Name>
     <Id>50072</Id>
     <Slot>Head</Slot>
   </Item>
@@ -118411,7 +118411,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Lasherweave Helmet</Name>
+    <Name>Плеточный полный шлем</Name>
     <Id>50108</Id>
     <Slot>Head</Slot>
   </Item>
@@ -119570,7 +119570,7 @@
     <Speed>2.2</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Seethe</Name>
+    <Name>Бешенство</Name>
     <Id>50210</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -119661,7 +119661,7 @@
     <SocketBonus>
       <HasteRating>8</HasteRating>
     </SocketBonus>
-    <Name>Helm of the Spirit Shock</Name>
+    <Name>Шлем удара духа</Name>
     <Id>50214</Id>
     <Slot>Head</Slot>
   </Item>
@@ -119708,7 +119708,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Surgeon's Needle</Name>
+    <Name>Игла хирурга</Name>
     <Id>50227</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -121155,7 +121155,7 @@
     <Speed>2.6</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Seven-Fingered Claws</Name>
+    <Name>Семипалые когти</Name>
     <Id>50315</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -121281,7 +121281,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Lightsworn Helmet</Name>
+    <Name>Полный шлем клятвы Свету</Name>
     <Id>50326</Id>
     <Slot>Head</Slot>
   </Item>
@@ -123241,7 +123241,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Bloodsurge, Kel'Thuzad's Blade of Agony</Name>
+    <Name>Прилив Крови, клинок агонии Кел'Тузада</Name>
     <Id>50427</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -123265,7 +123265,7 @@
     <Speed>1.8</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Royal Scepter of Terenas II</Name>
+    <Name>Королевский скипетр Теренаса II</Name>
     <Id>50428</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -124148,7 +124148,7 @@
     </SocketBonus>
     <UniqueId>49968</UniqueId>
     <UniqueId>50608</UniqueId>
-    <Name>Frozen Bonespike</Name>
+    <Name>Застывший костяной шип</Name>
     <Id>50608</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -126016,7 +126016,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Trauma</Name>
+    <Name>Травма</Name>
     <Id>50685</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -126209,7 +126209,7 @@
     <SocketBonus>
       <AttackPower>8</AttackPower>
     </SocketBonus>
-    <Name>Black Bruise</Name>
+    <Name>Черный убойник</Name>
     <Id>50692</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -126529,7 +126529,7 @@
     </SocketBonus>
     <UniqueId>50068</UniqueId>
     <UniqueId>50704</UniqueId>
-    <Name>Rigormortis</Name>
+    <Name>Трупное окоченение</Name>
     <Id>50704</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -126770,7 +126770,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Landsoul's Horned Greathelm</Name>
+    <Name>Великий рогатый шлем земляного духа</Name>
     <Id>50712</Id>
     <Slot>Head</Slot>
   </Item>
@@ -127288,7 +127288,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Bloodsurge, Kel'Thuzad's Blade of Agony</Name>
+    <Name>Прилив Крови, клинок агонии Кел'Тузада</Name>
     <Id>50732</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -127342,7 +127342,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Royal Scepter of Terenas II</Name>
+    <Name>Королевский скипетр Теренаса II</Name>
     <Id>50734</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -127767,7 +127767,7 @@
     <SocketBonus />
     <UniqueId>50771</UniqueId>
     <UniqueId>51932</UniqueId>
-    <Name>Frost Needle</Name>
+    <Name>Ледяная игла</Name>
     <Id>50771</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -128335,7 +128335,7 @@
     <SocketBonus />
     <UniqueId>50793</UniqueId>
     <UniqueId>51910</UniqueId>
-    <Name>Midnight Sun</Name>
+    <Name>Полночное солнце</Name>
     <Id>50793</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -128435,7 +128435,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Ice-Reinforced Vrykul Helm</Name>
+    <Name>Укрепленный льдом врайкульский шлем</Name>
     <Id>50797</Id>
     <Slot>Head</Slot>
   </Item>
@@ -128909,7 +128909,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Lasherweave Cover</Name>
+    <Name>Плеточный убор</Name>
     <Id>50821</Id>
     <Slot>Head</Slot>
   </Item>
@@ -129047,7 +129047,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Lasherweave Headguard</Name>
+    <Name>Плеточный наголовник</Name>
     <Id>50826</Id>
     <Slot>Head</Slot>
   </Item>
@@ -129956,7 +129956,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Lightsworn Faceguard</Name>
+    <Name>Большой шлем клятвы Свету</Name>
     <Id>50862</Id>
     <Slot>Head</Slot>
   </Item>
@@ -130094,7 +130094,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Lightsworn Headpiece</Name>
+    <Name>Головной убор клятвы Свету</Name>
     <Id>50867</Id>
     <Slot>Head</Slot>
   </Item>
@@ -131172,7 +131172,7 @@
     <Speed>2.6</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Abomination Knuckles</Name>
+    <Name>Кастет поганища</Name>
     <Id>51003</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -131196,7 +131196,7 @@
     <Speed>2.2</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Lockjaw</Name>
+    <Name>Столбняк</Name>
     <Id>51004</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -138701,7 +138701,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Wrathful Gladiator's Spellblade</Name>
+    <Name>Чародейский клинок разгневанного гладиатора</Name>
     <Id>51397</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -138728,7 +138728,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Wrathful Gladiator's Blade of Celerity</Name>
+    <Name>Клинок проворства разгневанного гладиатора</Name>
     <Id>51398</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -138755,7 +138755,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Wrathful Gladiator's Mageblade</Name>
+    <Name>Магический клинок разгневанного гладиатора</Name>
     <Id>51399</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -138950,7 +138950,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Wrathful Gladiator's Blade of Alacrity</Name>
+    <Name>Клинок рвения разгневанного гладиатора</Name>
     <Id>51406</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -140169,7 +140169,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Wrathful Gladiator's Gavel</Name>
+    <Name>Молоток разгневанного гладиатора</Name>
     <Id>51453</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -140196,7 +140196,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Wrathful Gladiator's Salvation</Name>
+    <Name>Спасение разгневанного гладиатора</Name>
     <Id>51454</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -142056,7 +142056,7 @@
     <SocketBonus>
       <AttackPower>8</AttackPower>
     </SocketBonus>
-    <Name>Wrathful Gladiator's Right Ripper</Name>
+    <Name>Правый потрошитель разгневанного гладиатора</Name>
     <Id>51523</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -142082,7 +142082,7 @@
     <SocketBonus>
       <AttackPower>8</AttackPower>
     </SocketBonus>
-    <Name>Wrathful Gladiator's Grasp</Name>
+    <Name>Хватка разгневанного гладиатора</Name>
     <Id>51524</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -143525,7 +143525,7 @@
     <SocketBonus />
     <UniqueId>51788</UniqueId>
     <UniqueId>51815</UniqueId>
-    <Name>Bleak Coldarra Carver</Name>
+    <Name>Стылый хладаррский резак</Name>
     <Id>51788</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -143730,7 +143730,7 @@
     <Speed>2.2</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Valius, Gavel of the Lightbringer</Name>
+    <Name>Валий, молот Светоносного</Name>
     <Id>51798</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -143806,7 +143806,7 @@
     <Speed>2.6</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Pugius, Fist of Defiance</Name>
+    <Name>Пугиус, боевая перчатка неповиновения</Name>
     <Id>51801</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -143855,7 +143855,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Tel'thas, Dagger of the Blood King</Name>
+    <Name>Тель'тас, кинжал Кровавого короля</Name>
     <Id>51803</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -143990,7 +143990,7 @@
     </SocketBonus>
     <UniqueId>51788</UniqueId>
     <UniqueId>51815</UniqueId>
-    <Name>Bleak Coldarra Carver</Name>
+    <Name>Стылый хладаррский резак</Name>
     <Id>51815</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -145557,7 +145557,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Lockjaw</Name>
+    <Name>Столбняк</Name>
     <Id>51875</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -145584,7 +145584,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Abomination Knuckles</Name>
+    <Name>Кастет поганища</Name>
     <Id>51876</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -146377,7 +146377,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Ice-Reinforced Vrykul Helm</Name>
+    <Name>Укрепленный льдом врайкульский шлем</Name>
     <Id>51906</Id>
     <Slot>Head</Slot>
   </Item>
@@ -146484,7 +146484,7 @@
     </SocketBonus>
     <UniqueId>50793</UniqueId>
     <UniqueId>51910</UniqueId>
-    <Name>Midnight Sun</Name>
+    <Name>Полночное солнце</Name>
     <Id>51910</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -147064,7 +147064,7 @@
     </SocketBonus>
     <UniqueId>50771</UniqueId>
     <UniqueId>51932</UniqueId>
-    <Name>Frost Needle</Name>
+    <Name>Ледяная игла</Name>
     <Id>51932</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -147249,7 +147249,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Tel'thas, Dagger of the Blood King</Name>
+    <Name>Тель'тас, кинжал Кровавого короля</Name>
     <Id>51939</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -147303,7 +147303,7 @@
     <SocketBonus>
       <AttackPower>8</AttackPower>
     </SocketBonus>
-    <Name>Pugius, Fist of Defiance</Name>
+    <Name>Пугиус, боевая перчатка неповиновения</Name>
     <Id>51941</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -147386,7 +147386,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Valius, Gavel of the Lightbringer</Name>
+    <Name>Валий, молот Светоносного</Name>
     <Id>51944</Id>
     <Slot>MainHand</Slot>
   </Item>
@@ -147502,7 +147502,7 @@
     <MaxDamage>92</MaxDamage>
     <Speed>3</Speed>
     <SocketBonus />
-    <Name>Shatter Rounds</Name>
+    <Name>Осколочные патроны</Name>
     <Id>52020</Id>
     <Slot>Projectile</Slot>
   </Item>
@@ -147519,7 +147519,7 @@
     <MaxDamage>92</MaxDamage>
     <Speed>3</Speed>
     <SocketBonus />
-    <Name>Iceblade Arrow</Name>
+    <Name>Стрела с ледяным наконечником</Name>
     <Id>52021</Id>
     <Slot>Projectile</Slot>
   </Item>
