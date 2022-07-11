@@ -679,7 +679,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Green Winter Hat</Name>
+    <Name>Зеленый новогодний колпак</Name>
     <Id>21525</Id>
     <Slot>Head</Slot>
   </Item>
@@ -1630,7 +1630,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Helm of the Ley-Guardian</Name>
+    <Name>Латный шлем хранителя энергии</Name>
     <Id>36969</Id>
     <Slot>Head</Slot>
   </Item>
@@ -1655,7 +1655,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Headguard of Westrift</Name>
+    <Name>Кольчужный шлем Западной расселины</Name>
     <Id>36971</Id>
     <Slot>Head</Slot>
   </Item>
@@ -3412,7 +3412,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Helm of Anomalus</Name>
+    <Name>Шлем Аномалуса</Name>
     <Id>37149</Id>
     <Slot>Head</Slot>
   </Item>
@@ -6223,7 +6223,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Ground Tremor Helm</Name>
+    <Name>Шлем сотрясения земли</Name>
     <Id>37633</Id>
     <Slot>Head</Slot>
   </Item>
@@ -6289,7 +6289,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Helm of Cheated Fate</Name>
+    <Name>Шлем обманутой судьбы</Name>
     <Id>37636</Id>
     <Slot>Head</Slot>
   </Item>
@@ -7145,7 +7145,7 @@
     <SocketBonus>
       <HasteRating>8</HasteRating>
     </SocketBonus>
-    <Name>Forgotten Shadow Hood</Name>
+    <Name>Забытый теневой капюшон</Name>
     <Id>37684</Id>
     <Slot>Head</Slot>
   </Item>
@@ -11048,7 +11048,7 @@
     <SocketBonus>
       <HasteRating>8</HasteRating>
     </SocketBonus>
-    <Name>Helm of the Corrupted Mind</Name>
+    <Name>Шлем испорченного разума</Name>
     <Id>39260</Id>
     <Slot>Head</Slot>
   </Item>
@@ -15861,7 +15861,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Fire-Scorched Greathelm</Name>
+    <Name>Опаленный великий шлем</Name>
     <Id>39723</Id>
     <Slot>Head</Slot>
   </Item>
@@ -16056,7 +16056,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Faerlina's Madness</Name>
+    <Name>Безумие Фарлины</Name>
     <Id>39732</Id>
     <Slot>Head</Slot>
   </Item>
@@ -16232,7 +16232,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Helm of Diminished Pride</Name>
+    <Name>Шлем уязвленной гордости</Name>
     <Id>39760</Id>
     <Slot>Head</Slot>
   </Item>
@@ -21025,7 +21025,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Helm of Pilgrimage</Name>
+    <Name>Шлем паломничества</Name>
     <Id>40235</Id>
     <Slot>Head</Slot>
   </Item>
@@ -22353,7 +22353,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Faceguard of the Succumbed</Name>
+    <Name>Большой шлем павших</Name>
     <Id>40298</Id>
     <Slot>Head</Slot>
   </Item>
@@ -22492,7 +22492,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Headpiece of Fungal Bloom</Name>
+    <Name>Головной убор цветущего гриба</Name>
     <Id>40304</Id>
     <Slot>Head</Slot>
   </Item>
@@ -23134,7 +23134,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Gothik's Cowl</Name>
+    <Name>Клобук Готика</Name>
     <Id>40339</Id>
     <Slot>Head</Slot>
   </Item>
@@ -23250,7 +23250,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Helm of the Grave</Name>
+    <Name>Шлем могилы</Name>
     <Id>40344</Id>
     <Slot>Head</Slot>
   </Item>
@@ -30558,7 +30558,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Hateful Gladiator's Plate Helm</Name>
+    <Name>Латный шлем злобного гладиатора</Name>
     <Id>40819</Id>
     <Slot>Head</Slot>
   </Item>
@@ -30585,7 +30585,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Hateful Gladiator's Dreadplate Helm</Name>
+    <Name>Жуткий латный шлем злобного гладиатора</Name>
     <Id>40820</Id>
     <Slot>Head</Slot>
   </Item>
@@ -30612,7 +30612,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Hateful Gladiator's Scaled Helm</Name>
+    <Name>Чешуйчатый шлем злобного гладиатора</Name>
     <Id>40821</Id>
     <Slot>Head</Slot>
   </Item>
@@ -30751,7 +30751,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Furious Gladiator's Plate Helm</Name>
+    <Name>Латный шлем гневного гладиатора</Name>
     <Id>40826</Id>
     <Slot>Head</Slot>
   </Item>
@@ -30778,7 +30778,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Furious Gladiator's Dreadplate Helm</Name>
+    <Name>Жуткий латный шлем гневного гладиатора</Name>
     <Id>40827</Id>
     <Slot>Head</Slot>
   </Item>
@@ -30805,7 +30805,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Furious Gladiator's Scaled Helm</Name>
+    <Name>Чешуйчатый шлем гневного гладиатора</Name>
     <Id>40828</Id>
     <Slot>Head</Slot>
   </Item>
@@ -32319,7 +32319,7 @@
     <SocketBonus>
       <Mp5>3</Mp5>
     </SocketBonus>
-    <Name>Hateful Gladiator's Ornamented Headcover</Name>
+    <Name>Украшенный головной покров злобного гладиатора</Name>
     <Id>40931</Id>
     <Slot>Head</Slot>
   </Item>
@@ -32375,7 +32375,7 @@
     <SocketBonus>
       <Mp5>3</Mp5>
     </SocketBonus>
-    <Name>Furious Gladiator's Ornamented Headcover</Name>
+    <Name>Украшенный головной покров гневного гладиатора</Name>
     <Id>40933</Id>
     <Slot>Head</Slot>
   </Item>
@@ -33509,7 +33509,7 @@
     <SocketBonus>
       <Mp5>3</Mp5>
     </SocketBonus>
-    <Name>Hateful Gladiator's Ringmail Helm</Name>
+    <Name>Кольчатый шлем злобного гладиатора</Name>
     <Id>41011</Id>
     <Slot>Head</Slot>
   </Item>
@@ -33565,7 +33565,7 @@
     <SocketBonus>
       <Mp5>3</Mp5>
     </SocketBonus>
-    <Name>Furious Gladiator's Ringmail Helm</Name>
+    <Name>Кольчатый шлем гневного гладиатора</Name>
     <Id>41013</Id>
     <Slot>Head</Slot>
   </Item>
@@ -33649,7 +33649,7 @@
     <SocketBonus>
       <Mp5>3</Mp5>
     </SocketBonus>
-    <Name>Hateful Gladiator's Mail Helm</Name>
+    <Name>Кольчужный шлем злобного гладиатора</Name>
     <Id>41017</Id>
     <Slot>Head</Slot>
   </Item>
@@ -33705,7 +33705,7 @@
     <SocketBonus>
       <Mp5>3</Mp5>
     </SocketBonus>
-    <Name>Furious Gladiator's Mail Helm</Name>
+    <Name>Кольчужный шлем гневного гладиатора</Name>
     <Id>41019</Id>
     <Slot>Head</Slot>
   </Item>
@@ -35378,7 +35378,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Hateful Gladiator's Linked Helm</Name>
+    <Name>Клепаный шлем злобного гладиатора</Name>
     <Id>41149</Id>
     <Slot>Head</Slot>
   </Item>
@@ -35436,7 +35436,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Furious Gladiator's Linked Helm</Name>
+    <Name>Клепаный шлем гневного гладиатора</Name>
     <Id>41151</Id>
     <Slot>Head</Slot>
   </Item>
@@ -35523,7 +35523,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Hateful Gladiator's Chain Helm</Name>
+    <Name>Плетеный шлем злобного гладиатора</Name>
     <Id>41155</Id>
     <Slot>Head</Slot>
   </Item>
@@ -35581,7 +35581,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Furious Gladiator's Chain Helm</Name>
+    <Name>Плетеный шлем гневного гладиатора</Name>
     <Id>41157</Id>
     <Slot>Head</Slot>
   </Item>
@@ -37817,7 +37817,7 @@
     <SocketBonus>
       <Spirit>8</Spirit>
     </SocketBonus>
-    <Name>Hateful Gladiator's Kodohide Helm</Name>
+    <Name>Шлем злобного гладиатора из шкуры кодо</Name>
     <Id>41319</Id>
     <Slot>Head</Slot>
   </Item>
@@ -37873,7 +37873,7 @@
     <SocketBonus>
       <Spirit>8</Spirit>
     </SocketBonus>
-    <Name>Furious Gladiator's Kodohide Helm</Name>
+    <Name>Шлем гневного гладиатора из шкуры кодо</Name>
     <Id>41321</Id>
     <Slot>Head</Slot>
   </Item>
@@ -37957,7 +37957,7 @@
     <SocketBonus>
       <Spirit>8</Spirit>
     </SocketBonus>
-    <Name>Hateful Gladiator's Wyrmhide Helm</Name>
+    <Name>Шлем злобного гладиатора из шкуры змея</Name>
     <Id>41325</Id>
     <Slot>Head</Slot>
   </Item>
@@ -38013,7 +38013,7 @@
     <SocketBonus>
       <Spirit>8</Spirit>
     </SocketBonus>
-    <Name>Furious Gladiator's Wyrmhide Helm</Name>
+    <Name>Шлем гневного гладиатора из шкуры змея</Name>
     <Id>41327</Id>
     <Slot>Head</Slot>
   </Item>
@@ -38112,7 +38112,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Helm of Command</Name>
+    <Name>Шлем властности</Name>
     <Id>41344</Id>
     <Slot>Head</Slot>
   </Item>
@@ -41333,7 +41333,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Hateful Gladiator's Leather Helm</Name>
+    <Name>Кожаный шлем злобного гладиатора</Name>
     <Id>41670</Id>
     <Slot>Head</Slot>
   </Item>
@@ -41389,7 +41389,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Furious Gladiator's Leather Helm</Name>
+    <Name>Кожаный шлем гневного гладиатора</Name>
     <Id>41672</Id>
     <Slot>Head</Slot>
   </Item>
@@ -41473,7 +41473,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Hateful Gladiator's Dragonhide Helm</Name>
+    <Name>Шлем злобного гладиатора из драконьей шкуры</Name>
     <Id>41676</Id>
     <Slot>Head</Slot>
   </Item>
@@ -41529,7 +41529,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Furious Gladiator's Dragonhide Helm</Name>
+    <Name>Шлем гневного гладиатора из драконьей шкуры</Name>
     <Id>41678</Id>
     <Slot>Head</Slot>
   </Item>
@@ -42434,7 +42434,7 @@
     <SocketBonus>
       <Spirit>8</Spirit>
     </SocketBonus>
-    <Name>Hateful Gladiator's Mooncloth Hood</Name>
+    <Name>Капюшон злобного гладиатора из луноткани</Name>
     <Id>41852</Id>
     <Slot>Head</Slot>
   </Item>
@@ -42490,7 +42490,7 @@
     <SocketBonus>
       <Spirit>8</Spirit>
     </SocketBonus>
-    <Name>Furious Gladiator's Mooncloth Hood</Name>
+    <Name>Капюшон гневного гладиатора из луноткани</Name>
     <Id>41854</Id>
     <Slot>Head</Slot>
   </Item>
@@ -43464,7 +43464,7 @@
     <SocketBonus>
       <Resilience>8</Resilience>
     </SocketBonus>
-    <Name>Hateful Gladiator's Satin Hood</Name>
+    <Name>Атласный капюшон злобного гладиатора</Name>
     <Id>41913</Id>
     <Slot>Head</Slot>
   </Item>
@@ -43520,7 +43520,7 @@
     <SocketBonus>
       <Resilience>8</Resilience>
     </SocketBonus>
-    <Name>Furious Gladiator's Satin Hood</Name>
+    <Name>Атласный капюшон гневного гладиатора</Name>
     <Id>41915</Id>
     <Slot>Head</Slot>
   </Item>
@@ -44154,7 +44154,7 @@
     <SocketBonus>
       <Resilience>8</Resilience>
     </SocketBonus>
-    <Name>Hateful Gladiator's Silk Cowl</Name>
+    <Name>Шелковый клобук злобного гладиатора</Name>
     <Id>41944</Id>
     <Slot>Head</Slot>
   </Item>
@@ -44210,7 +44210,7 @@
     <SocketBonus>
       <Resilience>8</Resilience>
     </SocketBonus>
-    <Name>Furious Gladiator's Silk Cowl</Name>
+    <Name>Шелковый клобук гневного гладиатора</Name>
     <Id>41946</Id>
     <Slot>Head</Slot>
   </Item>
@@ -44813,7 +44813,7 @@
     <SocketBonus>
       <Intellect>8</Intellect>
     </SocketBonus>
-    <Name>Hat of Wintry Doom</Name>
+    <Name>Шляпа безрадостной судьбы</Name>
     <Id>41984</Id>
     <Slot>Head</Slot>
   </Item>
@@ -44911,7 +44911,7 @@
     <SocketBonus>
       <Resilience>8</Resilience>
     </SocketBonus>
-    <Name>Hateful Gladiator's Felweave Cowl</Name>
+    <Name>Клобук злобного гладиатора из ткани Скверны</Name>
     <Id>41991</Id>
     <Slot>Head</Slot>
   </Item>
@@ -44967,7 +44967,7 @@
     <SocketBonus>
       <Resilience>8</Resilience>
     </SocketBonus>
-    <Name>Furious Gladiator's Felweave Cowl</Name>
+    <Name>Клобук гневного гладиатора из ткани Скверны</Name>
     <Id>41993</Id>
     <Slot>Head</Slot>
   </Item>
@@ -47953,7 +47953,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Greensight Gogs</Name>
+    <Name>Очки с зелеными стеклами</Name>
     <Id>42554</Id>
     <Slot>Head</Slot>
   </Item>
@@ -49002,7 +49002,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Eviscerator's Facemask</Name>
+    <Name>Маска потрошителя</Name>
     <Id>43260</Id>
     <Slot>Head</Slot>
   </Item>
@@ -49207,7 +49207,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Faceguard of the Hammer Clan</Name>
+    <Name>Большой шлем клана Молота</Name>
     <Id>43280</Id>
     <Slot>Head</Slot>
   </Item>
@@ -51182,7 +51182,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Frostsavage Cowl</Name>
+    <Name>Клобук ледяной ярости</Name>
     <Id>43971</Id>
     <Slot>Head</Slot>
   </Item>
@@ -51707,7 +51707,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Headpiece of Reconciliation</Name>
+    <Name>Головной убор Примирения</Name>
     <Id>44007</Id>
     <Slot>Head</Slot>
   </Item>
@@ -53250,7 +53250,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Fang-Deflecting Faceguard</Name>
+    <Name>Большой шлем Защиты от клыков</Name>
     <Id>44247</Id>
     <Slot>Head</Slot>
   </Item>
@@ -53545,7 +53545,7 @@
     <SocketBonus>
       <Intellect>8</Intellect>
     </SocketBonus>
-    <Name>Helm of Purified Thoughts</Name>
+    <Name>Шлем чистых помыслов</Name>
     <Id>44296</Id>
     <Slot>Head</Slot>
   </Item>
@@ -54159,7 +54159,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Headguard of Retaliation</Name>
+    <Name>Наголовник возмездия</Name>
     <Id>44409</Id>
     <Slot>Head</Slot>
   </Item>
@@ -54222,7 +54222,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Faceguard of Punishment</Name>
+    <Name>Большой шлем наказания</Name>
     <Id>44412</Id>
     <Slot>Head</Slot>
   </Item>
@@ -56656,7 +56656,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Helm of the Furnace Master</Name>
+    <Name>Шлем хранителя горнов</Name>
     <Id>45164</Id>
     <Slot>Head</Slot>
   </Item>
@@ -63999,7 +63999,7 @@
     <SocketBonus>
       <DefenseRating>8</DefenseRating>
     </SocketBonus>
-    <Name>Helm of the Faceless</Name>
+    <Name>Шлем безликого</Name>
     <Id>45502</Id>
     <Slot>Head</Slot>
   </Item>
@@ -64504,7 +64504,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Garona's Guise</Name>
+    <Name>Маска Гароны</Name>
     <Id>45523</Id>
     <Slot>Head</Slot>
   </Item>
@@ -68283,7 +68283,7 @@
     <SocketBonus>
       <AttackPower>32</AttackPower>
     </SocketBonus>
-    <Name>Guise of the Midgard Serpent</Name>
+    <Name>Обличие мидгардского змея</Name>
     <Id>45893</Id>
     <Slot>Head</Slot>
   </Item>
@@ -69496,7 +69496,7 @@
     <SocketBonus>
       <Mp5>3</Mp5>
     </SocketBonus>
-    <Name>Faceguard of the Eyeless Horror</Name>
+    <Name>Большой шлем слепого ужаса</Name>
     <Id>46028</Id>
     <Slot>Head</Slot>
   </Item>
@@ -77405,7 +77405,7 @@
     <SocketBonus>
       <Intellect>8</Intellect>
     </SocketBonus>
-    <Name>Helm of the Bested Gallant</Name>
+    <Name>Шлем поверженной Доблести</Name>
     <Id>47172</Id>
     <Slot>Head</Slot>
   </Item>
@@ -78463,7 +78463,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Gaze of the Somber Keeper</Name>
+    <Name>Взгляд мрачного хранителя</Name>
     <Id>47217</Id>
     <Slot>Head</Slot>
   </Item>
@@ -83330,7 +83330,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Helm of the Crestfallen Challenger</Name>
+    <Name>Шлем павшего духом претендента</Name>
     <Id>47497</Id>
     <Slot>Head</Slot>
   </Item>
@@ -84457,7 +84457,7 @@
     <SocketBonus>
       <HitRating>8</HitRating>
     </SocketBonus>
-    <Name>Gaze of the Unknown</Name>
+    <Name>Взгляд неизвестных</Name>
     <Id>47564</Id>
     <Slot>Head</Slot>
   </Item>
@@ -86400,7 +86400,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Faceplate of Thunderous Rampage</Name>
+    <Name>Личина оглушительного буйства</Name>
     <Id>47675</Id>
     <Slot>Head</Slot>
   </Item>
@@ -86453,7 +86453,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Faceplate of the Honorbound</Name>
+    <Name>Личина слова чести</Name>
     <Id>47677</Id>
     <Slot>Head</Slot>
   </Item>
@@ -86479,7 +86479,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Headplate of the Honorbound</Name>
+    <Name>Латный шлем слова чести</Name>
     <Id>47678</Id>
     <Slot>Head</Slot>
   </Item>
@@ -86547,7 +86547,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Heaume of the Restless Watch</Name>
+    <Name>Топхельм неустанного дозора</Name>
     <Id>47681</Id>
     <Slot>Head</Slot>
   </Item>
@@ -86653,7 +86653,7 @@
     <SocketBonus>
       <AttackPower>16</AttackPower>
     </SocketBonus>
-    <Name>Helm of the Brooding Dragon</Name>
+    <Name>Шлем погруженного в раздумья дракона</Name>
     <Id>47685</Id>
     <Slot>Head</Slot>
   </Item>
@@ -86679,7 +86679,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Helm of Inner Warmth</Name>
+    <Name>Шлем внутреннего тепла</Name>
     <Id>47686</Id>
     <Slot>Head</Slot>
   </Item>
@@ -86705,7 +86705,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Headguard of Inner Warmth</Name>
+    <Name>Наголовник внутреннего тепла</Name>
     <Id>47687</Id>
     <Slot>Head</Slot>
   </Item>
@@ -86783,7 +86783,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Helm of Abundant Growth</Name>
+    <Name>Шлем обильного роста</Name>
     <Id>47690</Id>
     <Slot>Head</Slot>
   </Item>
@@ -86887,7 +86887,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Helm of Clouded Sight</Name>
+    <Name>Шлем затуманенного взора</Name>
     <Id>47694</Id>
     <Slot>Head</Slot>
   </Item>
@@ -87457,7 +87457,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Faceplate of the Silver Champion</Name>
+    <Name>Личина серебряного чемпиона</Name>
     <Id>47717</Id>
     <Slot>Head</Slot>
   </Item>
@@ -89564,7 +89564,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Gul'dan's Hood of Triumph</Name>
+    <Name>Капюшон триумфа Гул'дана</Name>
     <Id>47796</Id>
     <Slot>Head</Slot>
   </Item>
@@ -89702,7 +89702,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Gul'dan's Hood of Conquest</Name>
+    <Name>Капюшон завоеваний Гул'дана</Name>
     <Id>47801</Id>
     <Slot>Head</Slot>
   </Item>
@@ -89784,7 +89784,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Gul'dan's Hood of Triumph</Name>
+    <Name>Капюшон триумфа Гул'дана</Name>
     <Id>47804</Id>
     <Slot>Head</Slot>
   </Item>
@@ -91381,7 +91381,7 @@
     <SocketBonus>
       <Intellect>8</Intellect>
     </SocketBonus>
-    <Name>Helm of the High Mesa</Name>
+    <Name>Шлем высоких холмов</Name>
     <Id>47891</Id>
     <Slot>Head</Slot>
   </Item>
@@ -91535,7 +91535,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Helm of the Crypt Lord</Name>
+    <Name>Шлем владыки склепа</Name>
     <Id>47897</Id>
     <Slot>Head</Slot>
   </Item>
@@ -92683,7 +92683,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Faceplate of the Silver Champion</Name>
+    <Name>Личина серебряного чемпиона</Name>
     <Id>47943</Id>
     <Slot>Head</Slot>
   </Item>
@@ -95137,7 +95137,7 @@
     <SocketBonus>
       <Intellect>8</Intellect>
     </SocketBonus>
-    <Name>Helm of the High Mesa</Name>
+    <Name>Шлем высоких холмов</Name>
     <Id>48034</Id>
     <Slot>Head</Slot>
   </Item>
@@ -95352,7 +95352,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Helm of the Crypt Lord</Name>
+    <Name>Шлем владыки склепа</Name>
     <Id>48042</Id>
     <Slot>Head</Slot>
   </Item>
@@ -99946,7 +99946,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Garona's Helmet of Triumph</Name>
+    <Name>Полный шлем триумфа Гароны</Name>
     <Id>48235</Id>
     <Slot>Head</Slot>
   </Item>
@@ -100084,7 +100084,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Garona's Helmet of Triumph</Name>
+    <Name>Полный шлем триумфа Гароны</Name>
     <Id>48240</Id>
     <Slot>Head</Slot>
   </Item>
@@ -100222,7 +100222,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Garona's Helmet of Conquest</Name>
+    <Name>Полный шлем завоеваний Гароны</Name>
     <Id>48245</Id>
     <Slot>Head</Slot>
   </Item>
@@ -104128,7 +104128,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Hellscream's Helmet of Conquest</Name>
+    <Name>Полный шлем завоеваний Адского Крика</Name>
     <Id>48388</Id>
     <Slot>Head</Slot>
   </Item>
@@ -104261,7 +104261,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Hellscream's Helmet of Triumph</Name>
+    <Name>Полный шлем триумфа Адского Крика</Name>
     <Id>48393</Id>
     <Slot>Head</Slot>
   </Item>
@@ -104394,7 +104394,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Hellscream's Helmet of Triumph</Name>
+    <Name>Полный шлем триумфа Адского Крика</Name>
     <Id>48398</Id>
     <Slot>Head</Slot>
   </Item>
@@ -104944,7 +104944,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Hellscream's Greathelm of Conquest</Name>
+    <Name>Великий шлем завоеваний Адского Крика</Name>
     <Id>48458</Id>
     <Slot>Head</Slot>
   </Item>
@@ -105082,7 +105082,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Hellscream's Greathelm of Triumph</Name>
+    <Name>Великий шлем триумфа Адского Крика</Name>
     <Id>48463</Id>
     <Slot>Head</Slot>
   </Item>
@@ -105220,7 +105220,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Hellscream's Greathelm of Triumph</Name>
+    <Name>Великий шлем триумфа Адского Крика</Name>
     <Id>48468</Id>
     <Slot>Head</Slot>
   </Item>
@@ -111931,7 +111931,7 @@
     <SocketBonus>
       <DefenseRating>8</DefenseRating>
     </SocketBonus>
-    <Name>Faceguard of Wrath</Name>
+    <Name>Большой шлем гнева</Name>
     <Id>49320</Id>
     <Slot>Head</Slot>
   </Item>
@@ -111959,7 +111959,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Greathelm of Wrath</Name>
+    <Name>Великий шлем гнева</Name>
     <Id>49321</Id>
     <Slot>Head</Slot>
   </Item>
@@ -112190,7 +112190,7 @@
     <SocketBonus>
       <Mp5>4</Mp5>
     </SocketBonus>
-    <Name>Gaze of Ten Storms</Name>
+    <Name>Взгляд десяти бурь</Name>
     <Id>49329</Id>
     <Slot>Head</Slot>
   </Item>
@@ -112278,7 +112278,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Frostforged Ringhelm</Name>
+    <Name>Закаленный льдом кольцевой шлем</Name>
     <Id>49332</Id>
     <Slot>Head</Slot>
   </Item>
@@ -112306,7 +112306,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Frostforged Helmet</Name>
+    <Name>Закаленный льдом полный шлем</Name>
     <Id>49333</Id>
     <Slot>Head</Slot>
   </Item>
@@ -112408,7 +112408,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Frostforged Helm</Name>
+    <Name>Закаленный льдом шлем</Name>
     <Id>49466</Id>
     <Slot>Head</Slot>
   </Item>
@@ -112437,7 +112437,7 @@
     <SocketBonus>
       <Stamina>12</Stamina>
     </SocketBonus>
-    <Name>Frostforged Greathelm</Name>
+    <Name>Закаленный льдом великий шлем</Name>
     <Id>49467</Id>
     <Slot>Head</Slot>
   </Item>
@@ -112466,7 +112466,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Helm of Ten Storms</Name>
+    <Name>Шлем десяти бурь</Name>
     <Id>49468</Id>
     <Slot>Head</Slot>
   </Item>
@@ -112901,7 +112901,7 @@
     <SocketBonus>
       <Spirit>8</Spirit>
     </SocketBonus>
-    <Name>Halo of Transcendence</Name>
+    <Name>Ореол превосходства</Name>
     <Id>49483</Id>
     <Slot>Head</Slot>
   </Item>
@@ -114463,7 +114463,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Fallen Sentry's Hood</Name>
+    <Name>Капюшон падшего стража</Name>
     <Id>49830</Id>
     <Slot>Head</Slot>
   </Item>
@@ -114932,7 +114932,7 @@
     <SocketBonus>
       <Intellect>8</Intellect>
     </SocketBonus>
-    <Name>Greathelm of the Silver Hand</Name>
+    <Name>Великий шлем Серебряной длани</Name>
     <Id>49851</Id>
     <Slot>Head</Slot>
   </Item>
@@ -116959,7 +116959,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Helm of the Elder Moon</Name>
+    <Name>Шлем старой луны</Name>
     <Id>50026</Id>
     <Slot>Head</Slot>
   </Item>
@@ -117565,7 +117565,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Faceplate of the Forgotten</Name>
+    <Name>Личина забытых</Name>
     <Id>50060</Id>
     <Slot>Head</Slot>
   </Item>
@@ -117873,7 +117873,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Geistlord's Punishment Sack</Name>
+    <Name>Мешок для казни верховного упыря</Name>
     <Id>50073</Id>
     <Slot>Head</Slot>
   </Item>
@@ -119321,7 +119321,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Eyes of Bewilderment</Name>
+    <Name>Искреннее недоумение</Name>
     <Id>50197</Id>
     <Slot>Head</Slot>
   </Item>
@@ -119480,7 +119480,7 @@
     <SocketBonus>
       <HasteRating>8</HasteRating>
     </SocketBonus>
-    <Name>Frayed Scoundrel's Cap</Name>
+    <Name>Изношенная шапка негодяя</Name>
     <Id>50206</Id>
     <Slot>Head</Slot>
   </Item>
@@ -125872,7 +125872,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Helm of the Elder Moon</Name>
+    <Name>Шлем старой луны</Name>
     <Id>50679</Id>
     <Slot>Head</Slot>
   </Item>
@@ -126447,7 +126447,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Faceplate of the Forgotten</Name>
+    <Name>Личина забытых</Name>
     <Id>50701</Id>
     <Slot>Head</Slot>
   </Item>
@@ -126796,7 +126796,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Geistlord's Punishment Sack</Name>
+    <Name>Мешок для казни верховного упыря</Name>
     <Id>50713</Id>
     <Slot>Head</Slot>
   </Item>
@@ -129188,7 +129188,7 @@
     <SocketBonus>
       <AttackPower>16</AttackPower>
     </SocketBonus>
-    <Name>Frost Witch's Faceguard</Name>
+    <Name>Большой шлем ледяной ведьмы</Name>
     <Id>50832</Id>
     <Slot>Head</Slot>
   </Item>
@@ -129328,7 +129328,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Frost Witch's Headpiece</Name>
+    <Name>Головной убор ледяной ведьмы</Name>
     <Id>50837</Id>
     <Slot>Head</Slot>
   </Item>
@@ -129466,7 +129466,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Frost Witch's Helm</Name>
+    <Name>Шлем ледяной ведьмы</Name>
     <Id>50843</Id>
     <Slot>Head</Slot>
   </Item>
