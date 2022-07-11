@@ -4910,7 +4910,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Mask of the Watcher</Name>
+    <Name>Маска дозорного</Name>
     <Id>37293</Id>
     <Slot>Head</Slot>
   </Item>
@@ -10602,7 +10602,7 @@
     <SocketBonus>
       <Spirit>8</Spirit>
     </SocketBonus>
-    <Name>Noth's Curse</Name>
+    <Name>Проклятие Нота</Name>
     <Id>39240</Id>
     <Slot>Head</Slot>
   </Item>
@@ -48608,7 +48608,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Nightshock Hood</Name>
+    <Name>Капюшон ночного штурма</Name>
     <Id>43132</Id>
     <Slot>Head</Slot>
   </Item>
@@ -69006,7 +69006,7 @@
     <SocketBonus>
       <HitRating>8</HitRating>
     </SocketBonus>
-    <Name>Mimiron's Flight Goggles</Name>
+    <Name>Летные очки Мимирона</Name>
     <Id>45993</Id>
     <Slot>Head</Slot>
   </Item>
@@ -84082,7 +84082,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Mask of Distant Memory</Name>
+    <Name>Маска смутных воспоминаний</Name>
     <Id>47529</Id>
     <Slot>Head</Slot>
   </Item>
@@ -86731,7 +86731,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Mask of Lethal Intent</Name>
+    <Name>Маска смертоносного намерения</Name>
     <Id>47688</Id>
     <Slot>Head</Slot>
   </Item>
@@ -86809,7 +86809,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Mask of Abundant Growth</Name>
+    <Name>Маска изобилия</Name>
     <Id>47691</Id>
     <Slot>Head</Slot>
   </Item>
@@ -97352,7 +97352,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Malfurion's Headpiece of Triumph</Name>
+    <Name>Головной убор триумфа Малфуриона</Name>
     <Id>48141</Id>
     <Slot>Head</Slot>
   </Item>
@@ -101163,7 +101163,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Nobundo's Headpiece of Conquest</Name>
+    <Name>Головной убор завоеваний Нобундо</Name>
     <Id>48280</Id>
     <Slot>Head</Slot>
   </Item>
@@ -101356,7 +101356,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Nobundo's Headpiece of Triumph</Name>
+    <Name>Головной убор триумфа Нобундо</Name>
     <Id>48287</Id>
     <Slot>Head</Slot>
   </Item>
@@ -101494,7 +101494,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Nobundo's Headpiece of Triumph</Name>
+    <Name>Головной убор триумфа Нобундо</Name>
     <Id>48292</Id>
     <Slot>Head</Slot>
   </Item>
@@ -102046,7 +102046,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Nobundo's Helm of Conquest</Name>
+    <Name>Шлем завоеваний Нобундо</Name>
     <Id>48313</Id>
     <Slot>Head</Slot>
   </Item>
@@ -102184,7 +102184,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Nobundo's Helm of Triumph</Name>
+    <Name>Шлем триумфа Нобундо</Name>
     <Id>48318</Id>
     <Slot>Head</Slot>
   </Item>
@@ -102322,7 +102322,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Nobundo's Helm of Triumph</Name>
+    <Name>Шлем триумфа Нобундо</Name>
     <Id>48323</Id>
     <Slot>Head</Slot>
   </Item>
@@ -102877,7 +102877,7 @@
     <SocketBonus>
       <AttackPower>16</AttackPower>
     </SocketBonus>
-    <Name>Nobundo's Faceguard of Conquest</Name>
+    <Name>Большой шлем завоеваний Нобундо</Name>
     <Id>48343</Id>
     <Slot>Head</Slot>
   </Item>
@@ -103020,7 +103020,7 @@
     <SocketBonus>
       <AttackPower>16</AttackPower>
     </SocketBonus>
-    <Name>Nobundo's Faceguard of Triumph</Name>
+    <Name>Большой шлем триумфа Нобундо</Name>
     <Id>48348</Id>
     <Slot>Head</Slot>
   </Item>
@@ -103163,7 +103163,7 @@
     <SocketBonus>
       <AttackPower>16</AttackPower>
     </SocketBonus>
-    <Name>Nobundo's Faceguard of Triumph</Name>
+    <Name>Большой шлем триумфа Нобундо</Name>
     <Id>48353</Id>
     <Slot>Head</Slot>
   </Item>
@@ -111785,7 +111785,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Nemesis Skullcover</Name>
+    <Name>Черепник возмездия</Name>
     <Id>49315</Id>
     <Slot>Head</Slot>
   </Item>
@@ -111872,7 +111872,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Netherwind Hood</Name>
+    <Name>Капюшон ветра Пустоты</Name>
     <Id>49318</Id>
     <Slot>Head</Slot>
   </Item>
@@ -112843,7 +112843,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Netherwind Crown</Name>
+    <Name>Корона ветра Пустоты</Name>
     <Id>49481</Id>
     <Slot>Head</Slot>
   </Item>
@@ -112930,7 +112930,7 @@
     <SocketBonus>
       <CritRating>8</CritRating>
     </SocketBonus>
-    <Name>Nemesis Skullcap</Name>
+    <Name>Большой шлем возмездия</Name>
     <Id>49484</Id>
     <Slot>Head</Slot>
   </Item>
