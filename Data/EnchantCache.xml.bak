@@ -1723,7 +1723,7 @@
   </Enchant>
   <Enchant>
     <Id>3790</Id>
-    <Name>Чары для оружия - черная магия</Name>
+    <Name>Black Magic</Name>
     <Slot>OneHand</Slot>
     <Stats>
       <SpecialEffects>
@@ -1753,7 +1753,7 @@
   </Enchant>
   <Enchant>
     <Id>3225</Id>
-    <Name>Чары для оружия - палач</Name>
+    <Name>Executioner</Name>
     <Slot>OneHand</Slot>
     <Stats>
       <SpecialEffects>
@@ -1773,7 +1773,7 @@
   </Enchant>
   <Enchant>
     <Id>2673</Id>
-    <Name>Чары для оружия - мангуст</Name>
+    <Name>Mongoose</Name>
     <Slot>OneHand</Slot>
     <Stats>
       <SpecialEffects>
@@ -1794,7 +1794,7 @@
   </Enchant>
   <Enchant>
     <Id>3870</Id>
-    <Name>Чары для оружия - вытягивание крови</Name>
+    <Name>Blood Draining</Name>
     <Slot>OneHand</Slot>
     <Stats>
       <SpecialEffects>
@@ -1826,7 +1826,7 @@
   </Enchant>
   <Enchant>
     <Id>3239</Id>
-    <Name>Чары для оружия - ледорез</Name>
+    <Name>Icebreaker</Name>
     <Slot>OneHand</Slot>
     <Stats>
       <SpecialEffects>
