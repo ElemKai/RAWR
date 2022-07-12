@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ArrayOfBuff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<ArrayOfBuff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Buff>
     <Name>Expertise molten</Name>
     <Group>Debugging</Group>
@@ -42,6 +42,19 @@
       <CharacterClass>Shaman</CharacterClass>
       <CharacterClass>Warlock</CharacterClass>
       <CharacterClass>Warrior</CharacterClass>
+<<<<<<< Updated upstream
+=======
+      <CharacterClass>DeathKnight</CharacterClass>
+      <CharacterClass>Druid</CharacterClass>
+      <CharacterClass>Hunter</CharacterClass>
+      <CharacterClass>Mage</CharacterClass>
+      <CharacterClass>Paladin</CharacterClass>
+      <CharacterClass>Priest</CharacterClass>
+      <CharacterClass>Rogue</CharacterClass>
+      <CharacterClass>Shaman</CharacterClass>
+      <CharacterClass>Warlock</CharacterClass>
+      <CharacterClass>Warrior</CharacterClass>
+>>>>>>> Stashed changes
     </AllowedClasses>
     <Professions>
       <Profession>None</Profession>
@@ -80,11 +93,30 @@
       <Profession>Mining</Profession>
       <Profession>Skinning</Profession>
       <Profession>Tailoring</Profession>
+<<<<<<< Updated upstream
+=======
+      <Profession>None</Profession>
+      <Profession>Alchemy</Profession>
+      <Profession>Blacksmithing</Profession>
+      <Profession>Enchanting</Profession>
+      <Profession>Engineering</Profession>
+      <Profession>Herbalism</Profession>
+      <Profession>Inscription</Profession>
+      <Profession>Jewelcrafting</Profession>
+      <Profession>Leatherworking</Profession>
+      <Profession>Mining</Profession>
+      <Profession>Skinning</Profession>
+      <Profession>Tailoring</Profession>
+>>>>>>> Stashed changes
     </Professions>
     <ConflictingBuffs>
       <string xsi:nil="true" />
       <string xsi:nil="true" />
       <string xsi:nil="true" />
+<<<<<<< Updated upstream
+=======
+      <string xsi:nil="true" />
+>>>>>>> Stashed changes
     </ConflictingBuffs>
   </Buff>
   <Buff>
@@ -152,6 +184,19 @@
           <CharacterClass>Shaman</CharacterClass>
           <CharacterClass>Warlock</CharacterClass>
           <CharacterClass>Warrior</CharacterClass>
+<<<<<<< Updated upstream
+=======
+          <CharacterClass>DeathKnight</CharacterClass>
+          <CharacterClass>Druid</CharacterClass>
+          <CharacterClass>Hunter</CharacterClass>
+          <CharacterClass>Mage</CharacterClass>
+          <CharacterClass>Paladin</CharacterClass>
+          <CharacterClass>Priest</CharacterClass>
+          <CharacterClass>Rogue</CharacterClass>
+          <CharacterClass>Shaman</CharacterClass>
+          <CharacterClass>Warlock</CharacterClass>
+          <CharacterClass>Warrior</CharacterClass>
+>>>>>>> Stashed changes
         </AllowedClasses>
         <Professions>
           <Profession>None</Profession>
@@ -190,11 +235,30 @@
           <Profession>Mining</Profession>
           <Profession>Skinning</Profession>
           <Profession>Tailoring</Profession>
+<<<<<<< Updated upstream
+=======
+          <Profession>None</Profession>
+          <Profession>Alchemy</Profession>
+          <Profession>Blacksmithing</Profession>
+          <Profession>Enchanting</Profession>
+          <Profession>Engineering</Profession>
+          <Profession>Herbalism</Profession>
+          <Profession>Inscription</Profession>
+          <Profession>Jewelcrafting</Profession>
+          <Profession>Leatherworking</Profession>
+          <Profession>Mining</Profession>
+          <Profession>Skinning</Profession>
+          <Profession>Tailoring</Profession>
+>>>>>>> Stashed changes
         </Professions>
         <ConflictingBuffs>
           <string xsi:nil="true" />
           <string xsi:nil="true" />
           <string xsi:nil="true" />
+<<<<<<< Updated upstream
+=======
+          <string xsi:nil="true" />
+>>>>>>> Stashed changes
         </ConflictingBuffs>
       </Buff>
     </Improvements>
@@ -231,6 +295,19 @@
       <CharacterClass>Shaman</CharacterClass>
       <CharacterClass>Warlock</CharacterClass>
       <CharacterClass>Warrior</CharacterClass>
+<<<<<<< Updated upstream
+=======
+      <CharacterClass>DeathKnight</CharacterClass>
+      <CharacterClass>Druid</CharacterClass>
+      <CharacterClass>Hunter</CharacterClass>
+      <CharacterClass>Mage</CharacterClass>
+      <CharacterClass>Paladin</CharacterClass>
+      <CharacterClass>Priest</CharacterClass>
+      <CharacterClass>Rogue</CharacterClass>
+      <CharacterClass>Shaman</CharacterClass>
+      <CharacterClass>Warlock</CharacterClass>
+      <CharacterClass>Warrior</CharacterClass>
+>>>>>>> Stashed changes
     </AllowedClasses>
     <Professions>
       <Profession>None</Profession>
@@ -269,10 +346,29 @@
       <Profession>Mining</Profession>
       <Profession>Skinning</Profession>
       <Profession>Tailoring</Profession>
+<<<<<<< Updated upstream
+=======
+      <Profession>None</Profession>
+      <Profession>Alchemy</Profession>
+      <Profession>Blacksmithing</Profession>
+      <Profession>Enchanting</Profession>
+      <Profession>Engineering</Profession>
+      <Profession>Herbalism</Profession>
+      <Profession>Inscription</Profession>
+      <Profession>Jewelcrafting</Profession>
+      <Profession>Leatherworking</Profession>
+      <Profession>Mining</Profession>
+      <Profession>Skinning</Profession>
+      <Profession>Tailoring</Profession>
+>>>>>>> Stashed changes
     </Professions>
     <ConflictingBuffs>
       <string xsi:nil="true" />
       <string xsi:nil="true" />
+<<<<<<< Updated upstream
+=======
+      <string xsi:nil="true" />
+>>>>>>> Stashed changes
       <string>Damage Reduction (Minor %)</string>
     </ConflictingBuffs>
   </Buff>
@@ -330,6 +426,19 @@
           <CharacterClass>Shaman</CharacterClass>
           <CharacterClass>Warlock</CharacterClass>
           <CharacterClass>Warrior</CharacterClass>
+<<<<<<< Updated upstream
+=======
+          <CharacterClass>DeathKnight</CharacterClass>
+          <CharacterClass>Druid</CharacterClass>
+          <CharacterClass>Hunter</CharacterClass>
+          <CharacterClass>Mage</CharacterClass>
+          <CharacterClass>Paladin</CharacterClass>
+          <CharacterClass>Priest</CharacterClass>
+          <CharacterClass>Rogue</CharacterClass>
+          <CharacterClass>Shaman</CharacterClass>
+          <CharacterClass>Warlock</CharacterClass>
+          <CharacterClass>Warrior</CharacterClass>
+>>>>>>> Stashed changes
         </AllowedClasses>
         <Professions>
           <Profession>None</Profession>
@@ -368,11 +477,30 @@
           <Profession>Mining</Profession>
           <Profession>Skinning</Profession>
           <Profession>Tailoring</Profession>
+<<<<<<< Updated upstream
+=======
+          <Profession>None</Profession>
+          <Profession>Alchemy</Profession>
+          <Profession>Blacksmithing</Profession>
+          <Profession>Enchanting</Profession>
+          <Profession>Engineering</Profession>
+          <Profession>Herbalism</Profession>
+          <Profession>Inscription</Profession>
+          <Profession>Jewelcrafting</Profession>
+          <Profession>Leatherworking</Profession>
+          <Profession>Mining</Profession>
+          <Profession>Skinning</Profession>
+          <Profession>Tailoring</Profession>
+>>>>>>> Stashed changes
         </Professions>
         <ConflictingBuffs>
           <string xsi:nil="true" />
           <string xsi:nil="true" />
           <string xsi:nil="true" />
+<<<<<<< Updated upstream
+=======
+          <string xsi:nil="true" />
+>>>>>>> Stashed changes
         </ConflictingBuffs>
       </Buff>
     </Improvements>
@@ -409,6 +537,19 @@
       <CharacterClass>Shaman</CharacterClass>
       <CharacterClass>Warlock</CharacterClass>
       <CharacterClass>Warrior</CharacterClass>
+<<<<<<< Updated upstream
+=======
+      <CharacterClass>DeathKnight</CharacterClass>
+      <CharacterClass>Druid</CharacterClass>
+      <CharacterClass>Hunter</CharacterClass>
+      <CharacterClass>Mage</CharacterClass>
+      <CharacterClass>Paladin</CharacterClass>
+      <CharacterClass>Priest</CharacterClass>
+      <CharacterClass>Rogue</CharacterClass>
+      <CharacterClass>Shaman</CharacterClass>
+      <CharacterClass>Warlock</CharacterClass>
+      <CharacterClass>Warrior</CharacterClass>
+>>>>>>> Stashed changes
     </AllowedClasses>
     <Professions>
       <Profession>None</Profession>
@@ -447,10 +588,29 @@
       <Profession>Mining</Profession>
       <Profession>Skinning</Profession>
       <Profession>Tailoring</Profession>
+<<<<<<< Updated upstream
+=======
+      <Profession>None</Profession>
+      <Profession>Alchemy</Profession>
+      <Profession>Blacksmithing</Profession>
+      <Profession>Enchanting</Profession>
+      <Profession>Engineering</Profession>
+      <Profession>Herbalism</Profession>
+      <Profession>Inscription</Profession>
+      <Profession>Jewelcrafting</Profession>
+      <Profession>Leatherworking</Profession>
+      <Profession>Mining</Profession>
+      <Profession>Skinning</Profession>
+      <Profession>Tailoring</Profession>
+>>>>>>> Stashed changes
     </Professions>
     <ConflictingBuffs>
       <string xsi:nil="true" />
       <string xsi:nil="true" />
+<<<<<<< Updated upstream
+=======
+      <string xsi:nil="true" />
+>>>>>>> Stashed changes
       <string>Blessing of Kings</string>
     </ConflictingBuffs>
   </Buff>
