@@ -1199,7 +1199,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Amulet of Wills</Name>
+    <Name>Амулет желаний</Name>
     <Id>35680</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -2013,7 +2013,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Chaotic Spiral Amulet</Name>
+    <Name>Спиральный амулет хаоса</Name>
     <Id>36988</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -2444,7 +2444,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Amulet of Deflected Blows</Name>
+    <Name>Амулет избегания ударов</Name>
     <Id>37053</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -2941,7 +2941,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Necklace of the Chrono-Lord</Name>
+    <Name>Ожерелье хронолорда</Name>
     <Id>37096</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -3362,7 +3362,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Amulet of Dazzling Light</Name>
+    <Name>Амулет ослепительного света</Name>
     <Id>37141</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -4840,7 +4840,7 @@
     <Unique>true</Unique>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Dragon Prow Amulet</Name>
+    <Name>Амулет драккара</Name>
     <Id>37290</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -5443,7 +5443,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Gold Amulet of Kings</Name>
+    <Name>Золотой амулет королей</Name>
     <Id>37397</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -5757,7 +5757,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Necklace of Taldaram</Name>
+    <Name>Ожерелье Талдарама</Name>
     <Id>37595</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -6518,7 +6518,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Burning Skull Pendant</Name>
+    <Name>Подвеска Горящего черепа</Name>
     <Id>37646</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -8559,7 +8559,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Necklace of Arcane Spheres</Name>
+    <Name>Ожерелье Волшебных сфер</Name>
     <Id>37861</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -9468,7 +9468,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Chain of Fiery Orbs</Name>
+    <Name>Цепь огненных сфер</Name>
     <Id>38613</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -9861,7 +9861,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Collar of Dissolution</Name>
+    <Name>Ошейник растворения</Name>
     <Id>39146</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -10734,7 +10734,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Amulet of Autopsy</Name>
+    <Name>Амулет посмертного вскрытия</Name>
     <Id>39246</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -11412,7 +11412,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Bone-Linked Amulet</Name>
+    <Name>Амулет из сцепленных костей</Name>
     <Id>39282</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -12551,7 +12551,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Gem of Imprisoned Vassals</Name>
+    <Name>Самоцвет пленных вассалов</Name>
     <Id>39421</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -12761,7 +12761,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Medallion of the Disgraced</Name>
+    <Name>Медальон впавшего в немилость</Name>
     <Id>39470</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -12782,7 +12782,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Chain of Latent Energies</Name>
+    <Name>Цепь потаенной энергии</Name>
     <Id>39472</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -18735,7 +18735,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Fool's Trial</Name>
+    <Name>Испытание глупца</Name>
     <Id>40065</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -18756,7 +18756,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Heritage</Name>
+    <Name>Наследие</Name>
     <Id>40069</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -18777,7 +18777,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Chains of Adoration</Name>
+    <Name>Цепи благоговения</Name>
     <Id>40071</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -22727,7 +22727,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Totem of Dueling</Name>
+    <Name>Тотем поединка</Name>
     <Id>40322</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -23609,7 +23609,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Icy Blast Amulet</Name>
+    <Name>Амулет холодного взрыва</Name>
     <Id>40369</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -23746,7 +23746,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Cosmic Lights</Name>
+    <Name>Космические огни</Name>
     <Id>40374</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -23840,7 +23840,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Ceaseless Pity</Name>
+    <Name>Бесконечная жалость</Name>
     <Id>40378</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -24061,7 +24061,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Boundless Ambition</Name>
+    <Name>Безграничное честолюбие</Name>
     <Id>40387</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -24773,7 +24773,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Circle of Arcane Streams</Name>
+    <Name>Обруч Тайных потоков</Name>
     <Id>40427</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -28250,7 +28250,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Chained Military Gorget</Name>
+    <Name>Цепочечный военный латный воротник</Name>
     <Id>40679</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -28271,7 +28271,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Encircling Burnished Gold Chains</Name>
+    <Name>Обвивающие цепи полированного золота</Name>
     <Id>40680</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -28292,7 +28292,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Lattice Choker of Light</Name>
+    <Name>Плетеное колье Света</Name>
     <Id>40681</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -28909,7 +28909,7 @@
     <RequiredClasses>Shaman</RequiredClasses>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Totem of Forest Growth</Name>
+    <Name>Тотем растущих лесов</Name>
     <Id>40709</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -45566,7 +45566,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Deadly Gladiator's Pendant of Triumph</Name>
+    <Name>Подвеска триумфа смертоносного гладиатора</Name>
     <Id>42027</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -45587,7 +45587,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Deadly Gladiator's Pendant of Victory</Name>
+    <Name>Подвеска победы смертоносного гладиатора</Name>
     <Id>42028</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -45609,7 +45609,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Deadly Gladiator's Pendant of Dominance</Name>
+    <Name>Подвеска господства смертоносного гладиатора</Name>
     <Id>42029</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -45631,7 +45631,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Deadly Gladiator's Pendant of Ascendancy</Name>
+    <Name>Подвеска влияния смертоносного гладиатора</Name>
     <Id>42030</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -45653,7 +45653,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Deadly Gladiator's Pendant of Subjugation</Name>
+    <Name>Подвеска порабощения смертоносного гладиатора</Name>
     <Id>42031</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -45675,7 +45675,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Deadly Gladiator's Pendant of Deliverance</Name>
+    <Name>Подвеска избавления смертоносного гладиатора</Name>
     <Id>42032</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -45697,7 +45697,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Deadly Gladiator's Pendant of Salvation</Name>
+    <Name>Подвеска спасения смертоносного гладиатора</Name>
     <Id>42033</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -45718,7 +45718,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Furious Gladiator's Pendant of Triumph</Name>
+    <Name>Подвеска триумфа гневного гладиатора</Name>
     <Id>42034</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -45739,7 +45739,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Furious Gladiator's Pendant of Victory</Name>
+    <Name>Подвеска победы гневного гладиатора</Name>
     <Id>42035</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -45761,7 +45761,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Furious Gladiator's Pendant of Dominance</Name>
+    <Name>Подвеска господства гневного гладиатора</Name>
     <Id>42036</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -45783,7 +45783,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Furious Gladiator's Pendant of Ascendancy</Name>
+    <Name>Подвеска влияния гневного гладиатора</Name>
     <Id>42037</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -45805,7 +45805,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Furious Gladiator's Pendant of Subjugation</Name>
+    <Name>Подвеска порабощения гневного гладиатора</Name>
     <Id>42038</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -45827,7 +45827,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Furious Gladiator's Pendant of Deliverance</Name>
+    <Name>Подвеска избавления гневного гладиатора</Name>
     <Id>42039</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -45849,7 +45849,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Furious Gladiator's Pendant of Salvation</Name>
+    <Name>Подвеска спасения гневного гладиатора</Name>
     <Id>42040</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -47425,6 +47425,28 @@
     <Name>Mystic Dragon's Eye</Name>
     <Id>42158</Id>
     <Slot>Yellow</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>213</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_axe_97</IconPath>
+    <Stats>
+      <Stamina>51</Stamina>
+      <AttackPower>86</AttackPower>
+      <CritRating>29</CritRating>
+      <Resilience>28</Resilience>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>OneHandAxe</Type>
+    <Faction>Neutral</Faction>
+    <MinDamage>285</MinDamage>
+    <MaxDamage>530</MaxDamage>
+    <Speed>2.6</Speed>
+    <SocketBonus />
+    <Name>Колун смертоносного гладиатора</Name>
+    <Id>42208</Id>
+    <Slot>OneHand</Slot>
   </Item>
   <Item>
     <ItemLevel>200</ItemLevel>
@@ -49313,7 +49335,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Amulet of the Spell Flinger</Name>
+    <Name>Амулет мечущего заклятия</Name>
     <Id>43285</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -49599,7 +49621,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Zuramat's Necklace</Name>
+    <Name>Ожерелье Зурамата</Name>
     <Id>43404</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -51400,7 +51422,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Volitant Amulet</Name>
+    <Name>Амулет парения</Name>
     <Id>43992</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -54312,7 +54334,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Chain of the Ancient Wyrm</Name>
+    <Name>Цепь древнего змея</Name>
     <Id>44658</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -54360,7 +54382,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Drakescale Collar</Name>
+    <Name>Ошейник Драконьей чешуи</Name>
     <Id>44660</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -54408,7 +54430,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Life-Binder's Locket</Name>
+    <Name>Медальон Хранительницы Жизни</Name>
     <Id>44662</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -54432,7 +54454,7 @@
     <SocketBonus>
       <AttackPower>8</AttackPower>
     </SocketBonus>
-    <Name>Favor of the Dragon Queen</Name>
+    <Name>Милость королевы драконов</Name>
     <Id>44664</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -56441,7 +56463,7 @@
     <Faction>Alliance</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Choker of Spiral Focus</Name>
+    <Name>Колье напряженного внимания</Name>
     <Id>45155</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -56991,7 +57013,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Insurmountable Fervor</Name>
+    <Name>Безудержное Рвение</Name>
     <Id>45193</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -57080,7 +57102,7 @@
     <Faction>Horde</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Choker of Feral Fury</Name>
+    <Name>Колье звериного неистовства</Name>
     <Id>45206</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -57100,7 +57122,7 @@
     <Faction>Horde</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Necklace of Stolen Skulls</Name>
+    <Name>Ожерелье из черепов</Name>
     <Id>45207</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -57703,7 +57725,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Unblinking Eye</Name>
+    <Name>Немигающее Око</Name>
     <Id>45236</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -58721,7 +58743,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Might of the Leviathan</Name>
+    <Name>Мощь Левиафана</Name>
     <Id>45285</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -62696,7 +62718,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Charm of Meticulous Timing</Name>
+    <Name>Оберег обстоятельного расчета</Name>
     <Id>45443</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -63096,7 +63118,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Frigid Strength of Hodir</Name>
+    <Name>Застывшая сила Ходира</Name>
     <Id>45459</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -63620,7 +63642,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Bronze Pendant of the Vanir</Name>
+    <Name>Бронзовая подвеска Эзира</Name>
     <Id>45485</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -66595,7 +66617,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Mark of the Unyielding</Name>
+    <Name>Знак непреклонности</Name>
     <Id>45696</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -67021,7 +67043,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Emerald Choker</Name>
+    <Name>Изумрудное колье</Name>
     <Id>45812</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -67083,7 +67105,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Broach of the Wailing Night</Name>
+    <Name>Брошь ночных вздохов</Name>
     <Id>45820</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -67125,7 +67147,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Evoker's Charm</Name>
+    <Name>Оберег пробудителя</Name>
     <Id>45822</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -67146,7 +67168,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Frozen Tear of Elune</Name>
+    <Name>Застывшая слеза Элуны</Name>
     <Id>45823</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -69038,7 +69060,7 @@
     <Unique>true</Unique>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Forgotten Necklace</Name>
+    <Name>Забытое ожерелье</Name>
     <Id>45995</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -69107,7 +69129,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Choker of the Abyss</Name>
+    <Name>Колье бездны</Name>
     <Id>46008</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -73876,7 +73898,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Fervor of the Protectorate</Name>
+    <Name>Пыл Протектората</Name>
     <Id>46343</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -74037,7 +74059,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Furious Gladiator's Pendant of Sundering</Name>
+    <Name>Подвеска сокрушения гневного гладиатора</Name>
     <Id>46373</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -75172,7 +75194,7 @@
     <Faction>Alliance</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Charge of the Demon Lord</Name>
+    <Name>Рывок повелителя демонов</Name>
     <Id>47043</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -75392,7 +75414,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Charge of the Demon Lord</Name>
+    <Name>Рывок повелителя демонов</Name>
     <Id>47060</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -76379,7 +76401,7 @@
     <Faction>Alliance</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>The Executioner's Malice</Name>
+    <Name>Злоба палача</Name>
     <Id>47105</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -76502,7 +76524,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>The Executioner's Malice</Name>
+    <Name>Злоба палача</Name>
     <Id>47110</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -76659,7 +76681,7 @@
     <Faction>Alliance</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>The Arbiter's Muse</Name>
+    <Name>Муза вершителя судеб</Name>
     <Id>47116</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -76846,7 +76868,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>The Arbiter's Muse</Name>
+    <Name>Муза вершителя судеб</Name>
     <Id>47133</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -76888,7 +76910,7 @@
     <Faction>Alliance</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Wail of the Val'kyr</Name>
+    <Name>Стенания валькирии</Name>
     <Id>47139</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -77010,7 +77032,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Wail of the Val'kyr</Name>
+    <Name>Стенания валькирии</Name>
     <Id>47144</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -78512,7 +78534,7 @@
     <SocketBonus>
       <HitRating>4</HitRating>
     </SocketBonus>
-    <Name>Brilliant Hailstone Amulet</Name>
+    <Name>Амулет бриллиантового града</Name>
     <Id>47219</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -79716,7 +79738,7 @@
     <Faction>Horde</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Charge of the Eredar</Name>
+    <Name>Рывок эредаров</Name>
     <Id>47272</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -80320,7 +80342,7 @@
     <Faction>Horde</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>The Executioner's Vice</Name>
+    <Name>Порок палача</Name>
     <Id>47297</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -80521,7 +80543,7 @@
     <Faction>Horde</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Legionnaire's Gorget</Name>
+    <Name>Латный воротник легионера</Name>
     <Id>47305</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -80564,7 +80586,7 @@
     <Faction>Horde</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Cry of the Val'kyr</Name>
+    <Name>Плач валь'кир</Name>
     <Id>47307</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -81706,7 +81728,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Charge of the Eredar</Name>
+    <Name>Рывок эредаров</Name>
     <Id>47433</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -82353,7 +82375,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>The Executioner's Vice</Name>
+    <Name>Порок палача</Name>
     <Id>47458</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -82567,7 +82589,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Legionnaire's Gorget</Name>
+    <Name>Латный воротник легионера</Name>
     <Id>47466</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -82616,7 +82638,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Cry of the Val'kyr</Name>
+    <Name>Плач валь'кир</Name>
     <Id>47468</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -83258,7 +83280,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Ancient Pendant of Arathor</Name>
+    <Name>Древняя подвеска Аратора</Name>
     <Id>47494</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -85556,7 +85578,7 @@
     <Faction>Alliance</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Collar of Ceaseless Torment</Name>
+    <Name>Ошейник непрерывных мучений</Name>
     <Id>47607</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -85840,7 +85862,7 @@
     <Faction>Alliance</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Amulet of Binding Elements</Name>
+    <Name>Амулет связующих элементов</Name>
     <Id>47619</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -86087,7 +86109,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Totem of Calming Tides</Name>
+    <Name>Тотем успокаивающих приливов</Name>
     <Id>47665</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -86116,7 +86138,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Totem of Electrifying Wind</Name>
+    <Name>Тотем электризирующего ветра</Name>
     <Id>47666</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -86500,7 +86522,7 @@
     <Faction>Alliance</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Endurance of the Infernal</Name>
+    <Name>Выносливость инфернала</Name>
     <Id>47679</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -88211,7 +88233,7 @@
     <SocketBonus>
       <Intellect>4</Intellect>
     </SocketBonus>
-    <Name>Darkbane Pendant</Name>
+    <Name>Подвеска Погибели Тьмы</Name>
     <Id>47747</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -90319,7 +90341,7 @@
     <Faction>Horde</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Collar of Unending Torment</Name>
+    <Name>Ошейник непрекращающихся мучений</Name>
     <Id>47849</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -90674,7 +90696,7 @@
     <Faction>Horde</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Pendant of Binding Elements</Name>
+    <Name>Подвеска связующих элементов</Name>
     <Id>47864</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -90864,7 +90886,7 @@
     <Faction>Horde</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Fortitude of the Infernal</Name>
+    <Name>Стойкость инфернала</Name>
     <Id>47872</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -91355,7 +91377,7 @@
     <SocketBonus>
       <Intellect>4</Intellect>
     </SocketBonus>
-    <Name>Darkbane Amulet</Name>
+    <Name>Амулет Погибели Тьмы</Name>
     <Id>47890</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -91965,7 +91987,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Collar of Ceaseless Torment</Name>
+    <Name>Ошейник непрерывных мучений</Name>
     <Id>47915</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -92345,7 +92367,7 @@
     <SocketBonus>
       <Intellect>4</Intellect>
     </SocketBonus>
-    <Name>Amulet of Binding Elements</Name>
+    <Name>Амулет связующих элементов</Name>
     <Id>47930</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -92577,7 +92599,7 @@
     <SocketBonus>
       <DodgeRating>4</DodgeRating>
     </SocketBonus>
-    <Name>Endurance of the Infernal</Name>
+    <Name>Выносливость инфернала</Name>
     <Id>47939</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -93092,7 +93114,7 @@
     <SocketBonus>
       <Intellect>4</Intellect>
     </SocketBonus>
-    <Name>Darkbane Pendant</Name>
+    <Name>Подвеска Погибели Тьмы</Name>
     <Id>47957</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -93917,7 +93939,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Collar of Unending Torment</Name>
+    <Name>Ошейник непрекращающихся мучений</Name>
     <Id>47988</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -94297,7 +94319,7 @@
     <SocketBonus>
       <Intellect>4</Intellect>
     </SocketBonus>
-    <Name>Pendant of Binding Elements</Name>
+    <Name>Подвеска связующих элементов</Name>
     <Id>48003</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -94501,7 +94523,7 @@
     <SocketBonus>
       <DodgeRating>4</DodgeRating>
     </SocketBonus>
-    <Name>Fortitude of the Infernal</Name>
+    <Name>Стойкость инфернала</Name>
     <Id>48011</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -95031,7 +95053,7 @@
     <SocketBonus>
       <Intellect>4</Intellect>
     </SocketBonus>
-    <Name>Darkbane Amulet</Name>
+    <Name>Амулет Погибели Тьмы</Name>
     <Id>48030</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -111648,7 +111670,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Eskhandar's Choker</Name>
+    <Name>Колье Эсхандара</Name>
     <Id>49306</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -113084,7 +113106,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Eskhandar's Links</Name>
+    <Name>Узы Эсхандара</Name>
     <Id>49492</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -113787,7 +113809,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Coil of Missing Gems</Name>
+    <Name>Ожерелье из пропавших камней</Name>
     <Id>49799</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -115791,7 +115813,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Bone Sentinel's Amulet</Name>
+    <Name>Амулет костяного часового</Name>
     <Id>49975</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -116119,7 +116141,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Ahn'kahar Onyx Neckguard</Name>
+    <Name>Ониксовое воинское ожерелье Ан'кахара</Name>
     <Id>49989</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -116517,7 +116539,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Amulet of the Silent Eulogy</Name>
+    <Name>Амулет безгласного надгробного слова</Name>
     <Id>50005</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -116879,7 +116901,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Bile-Encrusted Medallion</Name>
+    <Name>Покрытый желчью медальон</Name>
     <Id>50023</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -117589,7 +117611,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Holiday's Grace</Name>
+    <Name>Праздничное очарование</Name>
     <Id>50061</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -118924,7 +118946,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Lana'thel's Chain of Flagellation</Name>
+    <Name>Истязающая цепь Лана'тель</Name>
     <Id>50180</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -118976,7 +118998,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Blood Queen's Crimson Choker</Name>
+    <Name>Багровое колье Кровавой королевы</Name>
     <Id>50182</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -119273,7 +119295,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Noose of Malachite</Name>
+    <Name>Малахитовая петля</Name>
     <Id>50195</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -119294,7 +119316,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Love's Prisoner</Name>
+    <Name>Узник любви</Name>
     <Id>50196</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -119591,7 +119613,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Arcane Loops of Anger</Name>
+    <Name>Чародейский кулон злости</Name>
     <Id>50211</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -119729,7 +119751,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Barbed Ymirheim Choker</Name>
+    <Name>Имирхеймское шипастое колье</Name>
     <Id>50228</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -121036,7 +121058,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Fossilized Ammonite Choker</Name>
+    <Name>Колье из окаменелого аммонита</Name>
     <Id>50310</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -123116,7 +123138,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Sindragosa's Cruel Claw</Name>
+    <Name>Коготь жестокости Синдрагосы</Name>
     <Id>50421</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -124172,7 +124194,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Bone Sentinel's Amulet</Name>
+    <Name>Амулет костяного часового</Name>
     <Id>50609</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -124644,7 +124666,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Noose of Malachite</Name>
+    <Name>Малахитовая петля</Name>
     <Id>50627</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -124799,7 +124821,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Sindragosa's Cruel Claw</Name>
+    <Name>Коготь жестокости Синдрагосы</Name>
     <Id>50633</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -125104,7 +125126,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Ahn'kahar Onyx Neckguard</Name>
+    <Name>Ониксовое воинское ожерелье Ан'кахара</Name>
     <Id>50647</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -125403,7 +125425,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Amulet of the Silent Eulogy</Name>
+    <Name>Амулет безгласного надгробного слова</Name>
     <Id>50658</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -125950,7 +125972,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Bile-Encrusted Medallion</Name>
+    <Name>Покрытый желчью медальон</Name>
     <Id>50682</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -126421,7 +126443,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Holiday's Grace</Name>
+    <Name>Праздничное очарование</Name>
     <Id>50700</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -127077,7 +127099,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Blood Queen's Crimson Choker</Name>
+    <Name>Багровое колье Кровавой королевы</Name>
     <Id>50724</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -127178,7 +127200,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Lana'thel's Chain of Flagellation</Name>
+    <Name>Истязающая цепь Лана'тель</Name>
     <Id>50728</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -127577,7 +127599,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Marrowgar's Scratching Choker</Name>
+    <Name>Колючий ошейник Ребрада</Name>
     <Id>50763</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -128752,7 +128774,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Soulcleave Pendant</Name>
+    <Name>Подвеска расколотой души</Name>
     <Id>50809</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -129683,7 +129705,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Precious's Putrid Collar</Name>
+    <Name>Прогнивший ошейник Прелести</Name>
     <Id>50852</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -131292,7 +131314,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Choker of Filthy Diamonds</Name>
+    <Name>Колье из порочных бриллиантов</Name>
     <Id>51008</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -131390,7 +131412,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Infected Choker</Name>
+    <Name>Зараженное колье</Name>
     <Id>51012</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -131492,7 +131514,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Pendant of Split Veins</Name>
+    <Name>Подвеска раздвоенных вен</Name>
     <Id>51016</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -142638,7 +142660,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Collar of Haughty Disdain</Name>
+    <Name>Ошейник высочайшего презрения</Name>
     <Id>51548</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -143345,7 +143367,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Rimetooth Pendant</Name>
+    <Name>Подвеска инеевого узора</Name>
     <Id>51779</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -144170,7 +144192,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Rimetooth Pendant</Name>
+    <Name>Подвеска инеевого узора</Name>
     <Id>51822</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -144697,7 +144719,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Collar of Haughty Disdain</Name>
+    <Name>Ошейник высочайшего презрения</Name>
     <Id>51842</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -145249,7 +145271,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Pendant of Split Veins</Name>
+    <Name>Подвеска раздвоенных вен</Name>
     <Id>51863</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -145350,7 +145372,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Infected Choker</Name>
+    <Name>Зараженное колье</Name>
     <Id>51867</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -145455,7 +145477,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Choker of Filthy Diamonds</Name>
+    <Name>Колье из порочных бриллиантов</Name>
     <Id>51871</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -145953,7 +145975,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Precious's Putrid Collar</Name>
+    <Name>Прогнивший ошейник Прелести</Name>
     <Id>51890</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -146056,7 +146078,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Soulcleave Pendant</Name>
+    <Name>Подвеска расколотой души</Name>
     <Id>51894</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -147113,7 +147135,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Marrowgar's Scratching Choker</Name>
+    <Name>Колючий ошейник Ребрада</Name>
     <Id>51934</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -147671,7 +147693,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Baltharus' Gift</Name>
+    <Name>Дар Балтара</Name>
     <Id>53103</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -148077,7 +148099,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Penumbra Pendant</Name>
+    <Name>Подвеска полутени</Name>
     <Id>53132</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -148308,7 +148330,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Baltharus' Gift</Name>
+    <Name>Дар Балтара</Name>
     <Id>54557</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -148866,7 +148888,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Penumbra Pendant</Name>
+    <Name>Подвеска полутени</Name>
     <Id>54581</Id>
     <Slot>Neck</Slot>
   </Item>
