@@ -1,5 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ArrayOfItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<ArrayOfItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Item>
+    <ItemLevel>226</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>ability_warrior_endlessrage</IconPath>
+    <Stats>
+      <SpecialEffects>
+        <SpecialEffect>
+          <Trigger>SpellCast</Trigger>
+          <Stats>
+            <SpellPower>335</SpellPower>
+          </Stats>
+          <Duration>15</Duration>
+          <Cooldown>45</Cooldown>
+          <Chance>0.1</Chance>
+          <MaxStack>1</MaxStack>
+        </SpecialEffect>
+      </SpecialEffects>
+      <SpecialEffectCount>1</SpecialEffectCount>
+      <HitRating>107</HitRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <Unique>true</Unique>
+    <SocketBonus />
+    <Name>Направленное чародейство гневного гладиатора</Name>
+    <Id>1</Id>
+    <Slot>Trinket</Slot>
+  </Item>
   <Item>
     <ItemLevel>1</ItemLevel>
     <DisplayId>9891</DisplayId>
@@ -757,6 +787,46 @@
     <ItemLevel>226</ItemLevel>
     <DisplayId>0</DisplayId>
     <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_jewelry_necklace_39</IconPath>
+    <Stats>
+      <Stamina>72</Stamina>
+      <Strength>72</Strength>
+      <CritRating>46</CritRating>
+      <HitRating>40</HitRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Собачья метка солдата</Name>
+    <Id>27495</Id>
+    <Slot>Neck</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>226</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_jewelry_ring_55</IconPath>
+    <Stats>
+      <Stamina>55</Stamina>
+      <Intellect>45</Intellect>
+      <SpellPower>72</SpellPower>
+      <HitRating>45</HitRating>
+      <HasteRating>38</HasteRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <Unique>true</Unique>
+    <SocketBonus />
+    <Name>Алмазное кольцо Экзарха</Name>
+    <Id>27523</Id>
+    <Slot>Finger</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>226</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
     <IconPath>inv_helmet_19</IconPath>
     <Stats>
       <Armor>1067</Armor>
@@ -861,6 +931,27 @@
     <Name>Наручи Охоты</Name>
     <Id>29259</Id>
     <Slot>Wrist</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>226</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>ability_hunter_mastermarksman</IconPath>
+    <Stats>
+      <SpecialEffects />
+      <Stamina>52</Stamina>
+      <Intellect>34</Intellect>
+      <SpellPower>64</SpellPower>
+      <CritRating>23</CritRating>
+      <Mp5>17</Mp5>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Талисман Дробителя</Name>
+    <Id>29347</Id>
+    <Slot>Neck</Slot>
   </Item>
   <Item>
     <ItemLevel>145</ItemLevel>
@@ -1317,7 +1408,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Timeless Beads of Eternos</Name>
+    <Name>Вневременные бусы Этерноса</Name>
     <Id>36943</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -7255,7 +7346,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Pendant of the Nathrezim</Name>
+    <Name>Натрезимская подвеска</Name>
     <Id>37689</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -10443,7 +10534,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Pendant of Lost Vocations</Name>
+    <Name>Подвеска несбывшихся надежд</Name>
     <Id>39232</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -11116,7 +11207,7 @@
     <SocketBonus>
       <DefenseRating>4</DefenseRating>
     </SocketBonus>
-    <Name>Abomination Shoulderblades</Name>
+    <Name>Наплечные лезвия поганища</Name>
     <Id>39267</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -12080,7 +12171,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Veiled Amulet of Life</Name>
+    <Name>Сокрытый амулет Жизни</Name>
     <Id>39392</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -18714,7 +18805,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Thunderstorm Amulet</Name>
+    <Name>Амулет грома и молний</Name>
     <Id>40064</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -28229,7 +28320,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Pendant of the Outcast Hero</Name>
+    <Name>Подвеска Отверженного героя</Name>
     <Id>40678</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -45870,7 +45961,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Relentless Gladiator's Pendant of Triumph</Name>
+    <Name>Подвеска триумфа неумолимого гладиатора</Name>
     <Id>42041</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -45891,7 +45982,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Relentless Gladiator's Pendant of Victory</Name>
+    <Name>Подвеска победы неумолимого гладиатора</Name>
     <Id>42042</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -45913,7 +46004,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Relentless Gladiator's Pendant of Dominance</Name>
+    <Name>Подвеска господства неумолимого гладиатора</Name>
     <Id>42043</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -45935,7 +46026,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Relentless Gladiator's Pendant of Ascendancy</Name>
+    <Name>Подвеска влияния неумолимого гладиатора</Name>
     <Id>42044</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -45957,7 +46048,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Relentless Gladiator's Pendant of Subjugation</Name>
+    <Name>Подвеска порабощения неумолимого гладиатора</Name>
     <Id>42045</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -45979,7 +46070,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Relentless Gladiator's Pendant of Deliverance</Name>
+    <Name>Подвеска избавления неумолимого гладиатора</Name>
     <Id>42046</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -46001,7 +46092,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Relentless Gladiator's Pendant of Salvation</Name>
+    <Name>Подвеска спасения неумолимого гладиатора</Name>
     <Id>42047</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -48095,7 +48186,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Titanium Impact Choker</Name>
+    <Name>Титановое колье сотрясения</Name>
     <Id>42645</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -48118,7 +48209,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Titanium Earthguard Chain</Name>
+    <Name>Титановая цепь стража земли</Name>
     <Id>42646</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -48141,7 +48232,7 @@
     <SocketBonus>
       <Intellect>4</Intellect>
     </SocketBonus>
-    <Name>Titanium Spellshock Necklace</Name>
+    <Name>Титановое ожерелье чародейского удара</Name>
     <Id>42647</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -49271,7 +49362,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Shadowseeker's Pendant</Name>
+    <Name>Подвеска Искательницы Теней</Name>
     <Id>43282</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -54310,7 +54401,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Torque of the Red Dragonflight</Name>
+    <Name>Ожерелье красных драконов</Name>
     <Id>44657</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -54358,7 +54449,7 @@
     <SocketBonus>
       <AttackPower>8</AttackPower>
     </SocketBonus>
-    <Name>Pendant of the Dragonsworn</Name>
+    <Name>Подвеска драконьего обета</Name>
     <Id>44659</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -54406,7 +54497,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Wyrmrest Necklace of Power</Name>
+    <Name>Ожерелье могущества Драконьего Покоя</Name>
     <Id>44661</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -54509,7 +54600,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Time-Forward Talisman</Name>
+    <Name>Ускоряющий время талисман</Name>
     <Id>44682</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -55934,7 +56025,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Pendant of Fiery Havoc</Name>
+    <Name>Подвеска опустошительного пожара</Name>
     <Id>45133</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -56423,7 +56514,7 @@
     <Faction>Alliance</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Susurrating Shell Necklace</Name>
+    <Name>Ожерелье из шелестящих чешуек</Name>
     <Id>45153</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -57492,7 +57583,7 @@
     <Faction>Horde</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Razor's Edge Pendant</Name>
+    <Name>Кулон из лезвия бритвы</Name>
     <Id>45223</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -57897,7 +57988,7 @@
     <SocketBonus>
       <Spirit>4</Spirit>
     </SocketBonus>
-    <Name>Sapphire Amulet of Renewal</Name>
+    <Name>Сапфировый амулет обновления</Name>
     <Id>45243</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -62645,7 +62736,7 @@
     <SocketBonus>
       <Mp5>2</Mp5>
     </SocketBonus>
-    <Name>Amice of the Stoic Watch</Name>
+    <Name>Амикт мужественного часового</Name>
     <Id>45440</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -62821,7 +62912,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Watchful Eye of Fate</Name>
+    <Name>Бдительное Око судьбы</Name>
     <Id>45447</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -64362,7 +64453,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Pendulum of Infinity</Name>
+    <Name>Маятник вечности</Name>
     <Id>45517</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -64852,7 +64943,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Titanstone Pendant</Name>
+    <Name>Подвеска из камня титанов</Name>
     <Id>45538</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -64873,7 +64964,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Pendant of Focused Energies</Name>
+    <Name>Подвеска сфокусированной энергии</Name>
     <Id>45539</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -66682,7 +66773,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Pendant of the Piercing Glare</Name>
+    <Name>Подвеска пронзающего взора</Name>
     <Id>45699</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -67064,7 +67155,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Sky Sapphire Amulet</Name>
+    <Name>Амулет из небесного сапфира</Name>
     <Id>45813</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -67084,7 +67175,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Spiked Battleguard Choker</Name>
+    <Name>Шипастое колье боевого стража</Name>
     <Id>45819</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -67126,7 +67217,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Shard of the Crystal Forest</Name>
+    <Name>Отзвук Хрустальной Песни</Name>
     <Id>45821</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -68510,7 +68601,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Pendant of the Shallow Grave</Name>
+    <Name>Подвеска неглубокой могилы</Name>
     <Id>45933</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -68682,7 +68773,7 @@
     <SocketBonus>
       <HitRating>4</HitRating>
     </SocketBonus>
-    <Name>Seed of Budding Carnage</Name>
+    <Name>Семя грядущей сечи</Name>
     <Id>45945</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -69285,7 +69376,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Pendant of Endless Despair</Name>
+    <Name>Подвеска безнадежного отчаяния</Name>
     <Id>46015</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -69802,7 +69893,7 @@
     <SocketBonus>
       <HitRating>4</HitRating>
     </SocketBonus>
-    <Name>Strength of the Heavens</Name>
+    <Name>Небесные силы</Name>
     <Id>46040</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -69979,7 +70070,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Pendant of the Somber Witness</Name>
+    <Name>Подвеска мрачного свидетеля</Name>
     <Id>46047</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -70397,7 +70488,7 @@
     <SocketBonus>
       <Spirit>6</Spirit>
     </SocketBonus>
-    <Name>Amice of Inconceivable Horror</Name>
+    <Name>Амикт неизъяснимого ужаса</Name>
     <Id>46068</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -71994,7 +72085,7 @@
     <SocketBonus>
       <HitRating>4</HitRating>
     </SocketBonus>
-    <Name>Conqueror's Aegis Shoulderplates</Name>
+    <Name>Наплечные пластины покровительства завоевателя</Name>
     <Id>46152</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -72653,7 +72744,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Conqueror's Aegis Shoulderguards</Name>
+    <Name>Наплечные щитки покровительства завоевателя</Name>
     <Id>46177</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -74079,7 +74170,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Relentless Gladiator's Pendant of Sundering</Name>
+    <Name>Подвеска сокрушения неумолимого гладиатора</Name>
     <Id>46374</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -84426,7 +84517,7 @@
     <SocketBonus>
       <Intellect>4</Intellect>
     </SocketBonus>
-    <Name>Symbol of Redemption</Name>
+    <Name>Символ возмездия</Name>
     <Id>47562</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -84520,7 +84611,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>The Warlord's Depravity</Name>
+    <Name>Порочность вождя</Name>
     <Id>47566</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -112973,7 +113064,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Sparkling Onyxia Tooth Pendant</Name>
+    <Name>Искрящаяся подвеска клыка Ониксии</Name>
     <Id>49485</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -113493,7 +113584,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Bewildering Shoulderpads</Name>
+    <Name>Ошеломляющие наплечные пластины</Name>
     <Id>49785</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -116514,7 +116605,7 @@
     <SocketBonus>
       <Stamina>9</Stamina>
     </SocketBonus>
-    <Name>Boneguard Commander's Pauldrons</Name>
+    <Name>Наплечье костяного командира</Name>
     <Id>50003</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -118601,7 +118692,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Ahn'Kahar Blood Hunter's Spaulders</Name>
+    <Name>Наплеч ан'кахарского охотника за кровью</Name>
     <Id>50117</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -120510,7 +120601,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Bloodmage Shoulderpads</Name>
+    <Name>Наплечные пластины волшебника крови</Name>
     <Id>50279</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -123466,7 +123557,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Wodin's Lucky Necklace</Name>
+    <Name>Счастливое ожерелье Водина</Name>
     <Id>50452</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -125474,7 +125565,7 @@
     <SocketBonus>
       <Stamina>9</Stamina>
     </SocketBonus>
-    <Name>Boneguard Commander's Pauldrons</Name>
+    <Name>Наплечье костяного командира</Name>
     <Id>50660</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -130803,7 +130894,7 @@
     <SocketBonus>
       <SpellPower>7</SpellPower>
     </SocketBonus>
-    <Name>Bloodstained Surgeon's Shoulderguards</Name>
+    <Name>Наплечные щитки кровавого хирурга</Name>
     <Id>50988</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -137155,7 +137246,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Wrathful Gladiator's Pendant of Dominance</Name>
+    <Name>Подвеска господства разгневанного гладиатора</Name>
     <Id>51331</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -137200,7 +137291,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Wrathful Gladiator's Pendant of Subjugation</Name>
+    <Name>Подвеска порабощения разгневанного гладиатора</Name>
     <Id>51333</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -137245,7 +137336,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Wrathful Gladiator's Pendant of Ascendancy</Name>
+    <Name>Подвеска влияния разгневанного гладиатора</Name>
     <Id>51335</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -137537,7 +137628,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Wrathful Gladiator's Pendant of Salvation</Name>
+    <Name>Подвеска спасения разгневанного гладиатора</Name>
     <Id>51347</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -137582,7 +137673,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Wrathful Gladiator's Pendant of Deliverance</Name>
+    <Name>Подвеска избавления разгневанного гладиатора</Name>
     <Id>51349</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -137681,7 +137772,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Wrathful Gladiator's Pendant of Sundering</Name>
+    <Name>Подвеска сокрушения разгневанного гладиатора</Name>
     <Id>51353</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -137724,7 +137815,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Wrathful Gladiator's Pendant of Triumph</Name>
+    <Name>Подвеска триумфа разгневанного гладиатора</Name>
     <Id>51355</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -137767,7 +137858,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Wrathful Gladiator's Pendant of Victory</Name>
+    <Name>Подвеска победы разгневанного гладиатора</Name>
     <Id>51357</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -143109,7 +143200,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Titan-Forged Pendant of Ascendancy</Name>
+    <Name>Подвеска влияния из кузни титанов</Name>
     <Id>51568</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -143133,7 +143224,7 @@
     <SocketBonus>
       <AttackPower>8</AttackPower>
     </SocketBonus>
-    <Name>Titan-Forged Pendant of Victory</Name>
+    <Name>Подвеска победы из кузни титанов</Name>
     <Id>51569</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -145791,7 +145882,7 @@
     <SocketBonus>
       <SpellPower>7</SpellPower>
     </SocketBonus>
-    <Name>Bloodstained Surgeon's Shoulderguards</Name>
+    <Name>Наплечные щитки кровавого хирурга</Name>
     <Id>51883</Id>
     <Slot>Shoulders</Slot>
   </Item>

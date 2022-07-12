@@ -544,4 +544,12 @@
     <Tree2>0</Tree2>
     <Tree3>54</Tree3>
   </SavedTalentSpec>
+  <SavedTalentSpec>
+    <Name>Элем</Name>
+    <Class>Shaman</Class>
+    <Spec>35300015232133513223013510050500310000000000000000000000000000000000000000000000.01000000000000000000000010100</Spec>
+    <Tree1>57</Tree1>
+    <Tree2>14</Tree2>
+    <Tree3>0</Tree3>
+  </SavedTalentSpec>
 </ArrayOfSavedTalentSpec>
