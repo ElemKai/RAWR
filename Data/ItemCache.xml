@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ArrayOfItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<ArrayOfItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Item>
     <ItemLevel>1</ItemLevel>
     <DisplayId>9891</DisplayId>
@@ -7120,7 +7120,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Necromancer's Amulet</Name>
+    <Name>Амулет некроманта</Name>
     <Id>37683</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -25795,7 +25795,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Necklace of the Glittering Chamber</Name>
+    <Name>Ожерелье блистающих покоев</Name>
     <Id>40486</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -41989,7 +41989,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Перчатки смертоносного гладиатора из драконьей шкуры</Name>
+    <Name>Deadly Gladiator's Dragonhide Gloves</Name>
     <Id>41772</Id>
     <Slot>Hands</Slot>
   </Item>
@@ -56443,7 +56443,7 @@
     <Faction>Alliance</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Necklace of Valiant Blood</Name>
+    <Name>Ожерелье бесстрашия</Name>
     <Id>45154</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -58333,7 +58333,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Necklace of Unerring Mettle</Name>
+    <Name>Ожерелье боевого ража</Name>
     <Id>45262</Id>
     <Slot>Neck</Slot>
   </Item>
