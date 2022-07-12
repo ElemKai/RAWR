@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ArrayOfItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<ArrayOfItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Item>
     <ItemLevel>1</ItemLevel>
     <DisplayId>9891</DisplayId>
@@ -67519,9 +67519,8 @@
     <Quality>Epic</Quality>
     <Type>Leather</Type>
     <Faction>Neutral</Faction>
-    <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Grips of the Secret Grove</Name>
+    <Name>Захваты потаенной рощи</Name>
     <Id>45839</Id>
     <Slot>Hands</Slot>
   </Item>
