@@ -24433,7 +24433,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Ousted Bead Necklace</Name>
+    <Name>Ожерелье с подвесными бусинами</Name>
     <Id>40412</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -54478,7 +54478,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Nexus War Champion Beads</Name>
+    <Name>Бусы героя войны Нексуса</Name>
     <Id>44665</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -56403,7 +56403,7 @@
     <Faction>Alliance</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Pendant of Azure Dreams</Name>
+    <Name>Подвеска лазурных снов</Name>
     <Id>45152</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -57259,7 +57259,7 @@
     <Faction>Horde</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Pendant of Emerald Crusader</Name>
+    <Name>Подвеска изумрудного рыцаря</Name>
     <Id>45213</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -63519,7 +63519,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Nymph Heart Charm</Name>
+    <Name>Оберег из сердца нимфы</Name>
     <Id>45480</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -69443,7 +69443,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Pendant of a Thousand Maws</Name>
+    <Name>Подвеска тысячи пастей</Name>
     <Id>46022</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -114198,7 +114198,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Painfully Sharp Choker</Name>
+    <Name>Мучительно острое колье</Name>
     <Id>49818</Id>
     <Slot>Neck</Slot>
   </Item>
@@ -147845,7 +147845,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Abduction's Cover</Name>
+    <Name>Покрывало похищения</Name>
     <Id>53115</Id>
     <Slot>Back</Slot>
   </Item>
@@ -148305,7 +148305,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Abduction's Cover</Name>
+    <Name>Покрывало похищения</Name>
     <Id>54556</Id>
     <Slot>Back</Slot>
   </Item>
