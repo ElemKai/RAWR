@@ -1,620 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfBuff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Buff>
-    <Name>Expertise molten</Name>
-    <Group>Debugging</Group>
-    <Stats>
-      <ExpertiseRating>41</ExpertiseRating>
-    </Stats>
-    <Source>Other</Source>
-    <SetThreshold>0</SetThreshold>
-    <Improvements />
-    <IsTargetDebuff>false</IsTargetDebuff>
-    <IsCustom>true</IsCustom>
-    <AllowedClasses>
-      <CharacterClass>DeathKnight</CharacterClass>
-      <CharacterClass>Druid</CharacterClass>
-      <CharacterClass>Hunter</CharacterClass>
-      <CharacterClass>Mage</CharacterClass>
-      <CharacterClass>Paladin</CharacterClass>
-      <CharacterClass>Priest</CharacterClass>
-      <CharacterClass>Rogue</CharacterClass>
-      <CharacterClass>Shaman</CharacterClass>
-      <CharacterClass>Warlock</CharacterClass>
-      <CharacterClass>Warrior</CharacterClass>
-      <CharacterClass>DeathKnight</CharacterClass>
-      <CharacterClass>Druid</CharacterClass>
-      <CharacterClass>Hunter</CharacterClass>
-      <CharacterClass>Mage</CharacterClass>
-      <CharacterClass>Paladin</CharacterClass>
-      <CharacterClass>Priest</CharacterClass>
-      <CharacterClass>Rogue</CharacterClass>
-      <CharacterClass>Shaman</CharacterClass>
-      <CharacterClass>Warlock</CharacterClass>
-      <CharacterClass>Warrior</CharacterClass>
-      <CharacterClass>DeathKnight</CharacterClass>
-      <CharacterClass>Druid</CharacterClass>
-      <CharacterClass>Hunter</CharacterClass>
-      <CharacterClass>Mage</CharacterClass>
-      <CharacterClass>Paladin</CharacterClass>
-      <CharacterClass>Priest</CharacterClass>
-      <CharacterClass>Rogue</CharacterClass>
-      <CharacterClass>Shaman</CharacterClass>
-      <CharacterClass>Warlock</CharacterClass>
-      <CharacterClass>Warrior</CharacterClass>
-<<<<<<< Updated upstream
-=======
-      <CharacterClass>DeathKnight</CharacterClass>
-      <CharacterClass>Druid</CharacterClass>
-      <CharacterClass>Hunter</CharacterClass>
-      <CharacterClass>Mage</CharacterClass>
-      <CharacterClass>Paladin</CharacterClass>
-      <CharacterClass>Priest</CharacterClass>
-      <CharacterClass>Rogue</CharacterClass>
-      <CharacterClass>Shaman</CharacterClass>
-      <CharacterClass>Warlock</CharacterClass>
-      <CharacterClass>Warrior</CharacterClass>
->>>>>>> Stashed changes
-    </AllowedClasses>
-    <Professions>
-      <Profession>None</Profession>
-      <Profession>Alchemy</Profession>
-      <Profession>Blacksmithing</Profession>
-      <Profession>Enchanting</Profession>
-      <Profession>Engineering</Profession>
-      <Profession>Herbalism</Profession>
-      <Profession>Inscription</Profession>
-      <Profession>Jewelcrafting</Profession>
-      <Profession>Leatherworking</Profession>
-      <Profession>Mining</Profession>
-      <Profession>Skinning</Profession>
-      <Profession>Tailoring</Profession>
-      <Profession>None</Profession>
-      <Profession>Alchemy</Profession>
-      <Profession>Blacksmithing</Profession>
-      <Profession>Enchanting</Profession>
-      <Profession>Engineering</Profession>
-      <Profession>Herbalism</Profession>
-      <Profession>Inscription</Profession>
-      <Profession>Jewelcrafting</Profession>
-      <Profession>Leatherworking</Profession>
-      <Profession>Mining</Profession>
-      <Profession>Skinning</Profession>
-      <Profession>Tailoring</Profession>
-      <Profession>None</Profession>
-      <Profession>Alchemy</Profession>
-      <Profession>Blacksmithing</Profession>
-      <Profession>Enchanting</Profession>
-      <Profession>Engineering</Profession>
-      <Profession>Herbalism</Profession>
-      <Profession>Inscription</Profession>
-      <Profession>Jewelcrafting</Profession>
-      <Profession>Leatherworking</Profession>
-      <Profession>Mining</Profession>
-      <Profession>Skinning</Profession>
-      <Profession>Tailoring</Profession>
-<<<<<<< Updated upstream
-=======
-      <Profession>None</Profession>
-      <Profession>Alchemy</Profession>
-      <Profession>Blacksmithing</Profession>
-      <Profession>Enchanting</Profession>
-      <Profession>Engineering</Profession>
-      <Profession>Herbalism</Profession>
-      <Profession>Inscription</Profession>
-      <Profession>Jewelcrafting</Profession>
-      <Profession>Leatherworking</Profession>
-      <Profession>Mining</Profession>
-      <Profession>Skinning</Profession>
-      <Profession>Tailoring</Profession>
->>>>>>> Stashed changes
-    </Professions>
-    <ConflictingBuffs>
-      <string xsi:nil="true" />
-      <string xsi:nil="true" />
-      <string xsi:nil="true" />
-<<<<<<< Updated upstream
-=======
-      <string xsi:nil="true" />
->>>>>>> Stashed changes
-    </ConflictingBuffs>
-  </Buff>
-  <Buff>
-    <Name>Blessing of Sanctuary</Name>
-    <Group>Damage Reduction (Minor %)</Group>
-    <Stats>
-      <SpecialEffects>
-        <SpecialEffect>
-          <Trigger>DamageAvoided</Trigger>
-          <Stats>
-            <ManaorEquivRestore>0.02</ManaorEquivRestore>
-          </Stats>
-          <Duration>0</Duration>
-          <Cooldown>0</Cooldown>
-          <Chance>1</Chance>
-          <MaxStack>1</MaxStack>
-        </SpecialEffect>
-      </SpecialEffects>
-      <SpecialEffectCount>1</SpecialEffectCount>
-      <DamageTakenMultiplier>-0.03</DamageTakenMultiplier>
-    </Stats>
-    <Source>Prot Paladin</Source>
-    <SetThreshold>0</SetThreshold>
-    <Improvements>
-      <Buff>
-        <Name>Blessing of Sanctuary (Str/Sta Bonus)</Name>
-        <Group>Stat Multiplier</Group>
-        <Stats>
-          <BonusStrengthMultiplier>0.1</BonusStrengthMultiplier>
-          <BonusStaminaMultiplier>0.1</BonusStaminaMultiplier>
-        </Stats>
-        <Source>Prot Paladin</Source>
-        <SetThreshold>0</SetThreshold>
-        <Improvements />
-        <IsTargetDebuff>false</IsTargetDebuff>
-        <IsCustom>true</IsCustom>
-        <AllowedClasses>
-          <CharacterClass>DeathKnight</CharacterClass>
-          <CharacterClass>Druid</CharacterClass>
-          <CharacterClass>Hunter</CharacterClass>
-          <CharacterClass>Mage</CharacterClass>
-          <CharacterClass>Paladin</CharacterClass>
-          <CharacterClass>Priest</CharacterClass>
-          <CharacterClass>Rogue</CharacterClass>
-          <CharacterClass>Shaman</CharacterClass>
-          <CharacterClass>Warlock</CharacterClass>
-          <CharacterClass>Warrior</CharacterClass>
-          <CharacterClass>DeathKnight</CharacterClass>
-          <CharacterClass>Druid</CharacterClass>
-          <CharacterClass>Hunter</CharacterClass>
-          <CharacterClass>Mage</CharacterClass>
-          <CharacterClass>Paladin</CharacterClass>
-          <CharacterClass>Priest</CharacterClass>
-          <CharacterClass>Rogue</CharacterClass>
-          <CharacterClass>Shaman</CharacterClass>
-          <CharacterClass>Warlock</CharacterClass>
-          <CharacterClass>Warrior</CharacterClass>
-          <CharacterClass>DeathKnight</CharacterClass>
-          <CharacterClass>Druid</CharacterClass>
-          <CharacterClass>Hunter</CharacterClass>
-          <CharacterClass>Mage</CharacterClass>
-          <CharacterClass>Paladin</CharacterClass>
-          <CharacterClass>Priest</CharacterClass>
-          <CharacterClass>Rogue</CharacterClass>
-          <CharacterClass>Shaman</CharacterClass>
-          <CharacterClass>Warlock</CharacterClass>
-          <CharacterClass>Warrior</CharacterClass>
-<<<<<<< Updated upstream
-=======
-          <CharacterClass>DeathKnight</CharacterClass>
-          <CharacterClass>Druid</CharacterClass>
-          <CharacterClass>Hunter</CharacterClass>
-          <CharacterClass>Mage</CharacterClass>
-          <CharacterClass>Paladin</CharacterClass>
-          <CharacterClass>Priest</CharacterClass>
-          <CharacterClass>Rogue</CharacterClass>
-          <CharacterClass>Shaman</CharacterClass>
-          <CharacterClass>Warlock</CharacterClass>
-          <CharacterClass>Warrior</CharacterClass>
->>>>>>> Stashed changes
-        </AllowedClasses>
-        <Professions>
-          <Profession>None</Profession>
-          <Profession>Alchemy</Profession>
-          <Profession>Blacksmithing</Profession>
-          <Profession>Enchanting</Profession>
-          <Profession>Engineering</Profession>
-          <Profession>Herbalism</Profession>
-          <Profession>Inscription</Profession>
-          <Profession>Jewelcrafting</Profession>
-          <Profession>Leatherworking</Profession>
-          <Profession>Mining</Profession>
-          <Profession>Skinning</Profession>
-          <Profession>Tailoring</Profession>
-          <Profession>None</Profession>
-          <Profession>Alchemy</Profession>
-          <Profession>Blacksmithing</Profession>
-          <Profession>Enchanting</Profession>
-          <Profession>Engineering</Profession>
-          <Profession>Herbalism</Profession>
-          <Profession>Inscription</Profession>
-          <Profession>Jewelcrafting</Profession>
-          <Profession>Leatherworking</Profession>
-          <Profession>Mining</Profession>
-          <Profession>Skinning</Profession>
-          <Profession>Tailoring</Profession>
-          <Profession>None</Profession>
-          <Profession>Alchemy</Profession>
-          <Profession>Blacksmithing</Profession>
-          <Profession>Enchanting</Profession>
-          <Profession>Engineering</Profession>
-          <Profession>Herbalism</Profession>
-          <Profession>Inscription</Profession>
-          <Profession>Jewelcrafting</Profession>
-          <Profession>Leatherworking</Profession>
-          <Profession>Mining</Profession>
-          <Profession>Skinning</Profession>
-          <Profession>Tailoring</Profession>
-<<<<<<< Updated upstream
-=======
-          <Profession>None</Profession>
-          <Profession>Alchemy</Profession>
-          <Profession>Blacksmithing</Profession>
-          <Profession>Enchanting</Profession>
-          <Profession>Engineering</Profession>
-          <Profession>Herbalism</Profession>
-          <Profession>Inscription</Profession>
-          <Profession>Jewelcrafting</Profession>
-          <Profession>Leatherworking</Profession>
-          <Profession>Mining</Profession>
-          <Profession>Skinning</Profession>
-          <Profession>Tailoring</Profession>
->>>>>>> Stashed changes
-        </Professions>
-        <ConflictingBuffs>
-          <string xsi:nil="true" />
-          <string xsi:nil="true" />
-          <string xsi:nil="true" />
-<<<<<<< Updated upstream
-=======
-          <string xsi:nil="true" />
->>>>>>> Stashed changes
-        </ConflictingBuffs>
-      </Buff>
-    </Improvements>
-    <IsTargetDebuff>false</IsTargetDebuff>
-    <IsCustom>true</IsCustom>
-    <AllowedClasses>
-      <CharacterClass>DeathKnight</CharacterClass>
-      <CharacterClass>Druid</CharacterClass>
-      <CharacterClass>Hunter</CharacterClass>
-      <CharacterClass>Mage</CharacterClass>
-      <CharacterClass>Paladin</CharacterClass>
-      <CharacterClass>Priest</CharacterClass>
-      <CharacterClass>Rogue</CharacterClass>
-      <CharacterClass>Shaman</CharacterClass>
-      <CharacterClass>Warlock</CharacterClass>
-      <CharacterClass>Warrior</CharacterClass>
-      <CharacterClass>DeathKnight</CharacterClass>
-      <CharacterClass>Druid</CharacterClass>
-      <CharacterClass>Hunter</CharacterClass>
-      <CharacterClass>Mage</CharacterClass>
-      <CharacterClass>Paladin</CharacterClass>
-      <CharacterClass>Priest</CharacterClass>
-      <CharacterClass>Rogue</CharacterClass>
-      <CharacterClass>Shaman</CharacterClass>
-      <CharacterClass>Warlock</CharacterClass>
-      <CharacterClass>Warrior</CharacterClass>
-      <CharacterClass>DeathKnight</CharacterClass>
-      <CharacterClass>Druid</CharacterClass>
-      <CharacterClass>Hunter</CharacterClass>
-      <CharacterClass>Mage</CharacterClass>
-      <CharacterClass>Paladin</CharacterClass>
-      <CharacterClass>Priest</CharacterClass>
-      <CharacterClass>Rogue</CharacterClass>
-      <CharacterClass>Shaman</CharacterClass>
-      <CharacterClass>Warlock</CharacterClass>
-      <CharacterClass>Warrior</CharacterClass>
-<<<<<<< Updated upstream
-=======
-      <CharacterClass>DeathKnight</CharacterClass>
-      <CharacterClass>Druid</CharacterClass>
-      <CharacterClass>Hunter</CharacterClass>
-      <CharacterClass>Mage</CharacterClass>
-      <CharacterClass>Paladin</CharacterClass>
-      <CharacterClass>Priest</CharacterClass>
-      <CharacterClass>Rogue</CharacterClass>
-      <CharacterClass>Shaman</CharacterClass>
-      <CharacterClass>Warlock</CharacterClass>
-      <CharacterClass>Warrior</CharacterClass>
->>>>>>> Stashed changes
-    </AllowedClasses>
-    <Professions>
-      <Profession>None</Profession>
-      <Profession>Alchemy</Profession>
-      <Profession>Blacksmithing</Profession>
-      <Profession>Enchanting</Profession>
-      <Profession>Engineering</Profession>
-      <Profession>Herbalism</Profession>
-      <Profession>Inscription</Profession>
-      <Profession>Jewelcrafting</Profession>
-      <Profession>Leatherworking</Profession>
-      <Profession>Mining</Profession>
-      <Profession>Skinning</Profession>
-      <Profession>Tailoring</Profession>
-      <Profession>None</Profession>
-      <Profession>Alchemy</Profession>
-      <Profession>Blacksmithing</Profession>
-      <Profession>Enchanting</Profession>
-      <Profession>Engineering</Profession>
-      <Profession>Herbalism</Profession>
-      <Profession>Inscription</Profession>
-      <Profession>Jewelcrafting</Profession>
-      <Profession>Leatherworking</Profession>
-      <Profession>Mining</Profession>
-      <Profession>Skinning</Profession>
-      <Profession>Tailoring</Profession>
-      <Profession>None</Profession>
-      <Profession>Alchemy</Profession>
-      <Profession>Blacksmithing</Profession>
-      <Profession>Enchanting</Profession>
-      <Profession>Engineering</Profession>
-      <Profession>Herbalism</Profession>
-      <Profession>Inscription</Profession>
-      <Profession>Jewelcrafting</Profession>
-      <Profession>Leatherworking</Profession>
-      <Profession>Mining</Profession>
-      <Profession>Skinning</Profession>
-      <Profession>Tailoring</Profession>
-<<<<<<< Updated upstream
-=======
-      <Profession>None</Profession>
-      <Profession>Alchemy</Profession>
-      <Profession>Blacksmithing</Profession>
-      <Profession>Enchanting</Profession>
-      <Profession>Engineering</Profession>
-      <Profession>Herbalism</Profession>
-      <Profession>Inscription</Profession>
-      <Profession>Jewelcrafting</Profession>
-      <Profession>Leatherworking</Profession>
-      <Profession>Mining</Profession>
-      <Profession>Skinning</Profession>
-      <Profession>Tailoring</Profession>
->>>>>>> Stashed changes
-    </Professions>
-    <ConflictingBuffs>
-      <string xsi:nil="true" />
-      <string xsi:nil="true" />
-<<<<<<< Updated upstream
-=======
-      <string xsi:nil="true" />
->>>>>>> Stashed changes
-      <string>Damage Reduction (Minor %)</string>
-    </ConflictingBuffs>
-  </Buff>
-  <Buff>
-    <Name>Blessing of Kings</Name>
-    <Group>Stat Multiplier</Group>
-    <Stats>
-      <BonusSpiritMultiplier>0.1</BonusSpiritMultiplier>
-      <BonusAgilityMultiplier>0.1</BonusAgilityMultiplier>
-      <BonusIntellectMultiplier>0.1</BonusIntellectMultiplier>
-    </Stats>
-    <Source>Paladin</Source>
-    <SetThreshold>0</SetThreshold>
-    <Improvements>
-      <Buff>
-        <Name>Blessing of Kings (Str/Sta Bonus)</Name>
-        <Group>Stat Multiplier</Group>
-        <Stats>
-          <BonusStrengthMultiplier>0.1</BonusStrengthMultiplier>
-          <BonusStaminaMultiplier>0.1</BonusStaminaMultiplier>
-        </Stats>
-        <Source>Paladin</Source>
-        <SetThreshold>0</SetThreshold>
-        <Improvements />
-        <IsTargetDebuff>false</IsTargetDebuff>
-        <IsCustom>true</IsCustom>
-        <AllowedClasses>
-          <CharacterClass>DeathKnight</CharacterClass>
-          <CharacterClass>Druid</CharacterClass>
-          <CharacterClass>Hunter</CharacterClass>
-          <CharacterClass>Mage</CharacterClass>
-          <CharacterClass>Paladin</CharacterClass>
-          <CharacterClass>Priest</CharacterClass>
-          <CharacterClass>Rogue</CharacterClass>
-          <CharacterClass>Shaman</CharacterClass>
-          <CharacterClass>Warlock</CharacterClass>
-          <CharacterClass>Warrior</CharacterClass>
-          <CharacterClass>DeathKnight</CharacterClass>
-          <CharacterClass>Druid</CharacterClass>
-          <CharacterClass>Hunter</CharacterClass>
-          <CharacterClass>Mage</CharacterClass>
-          <CharacterClass>Paladin</CharacterClass>
-          <CharacterClass>Priest</CharacterClass>
-          <CharacterClass>Rogue</CharacterClass>
-          <CharacterClass>Shaman</CharacterClass>
-          <CharacterClass>Warlock</CharacterClass>
-          <CharacterClass>Warrior</CharacterClass>
-          <CharacterClass>DeathKnight</CharacterClass>
-          <CharacterClass>Druid</CharacterClass>
-          <CharacterClass>Hunter</CharacterClass>
-          <CharacterClass>Mage</CharacterClass>
-          <CharacterClass>Paladin</CharacterClass>
-          <CharacterClass>Priest</CharacterClass>
-          <CharacterClass>Rogue</CharacterClass>
-          <CharacterClass>Shaman</CharacterClass>
-          <CharacterClass>Warlock</CharacterClass>
-          <CharacterClass>Warrior</CharacterClass>
-<<<<<<< Updated upstream
-=======
-          <CharacterClass>DeathKnight</CharacterClass>
-          <CharacterClass>Druid</CharacterClass>
-          <CharacterClass>Hunter</CharacterClass>
-          <CharacterClass>Mage</CharacterClass>
-          <CharacterClass>Paladin</CharacterClass>
-          <CharacterClass>Priest</CharacterClass>
-          <CharacterClass>Rogue</CharacterClass>
-          <CharacterClass>Shaman</CharacterClass>
-          <CharacterClass>Warlock</CharacterClass>
-          <CharacterClass>Warrior</CharacterClass>
->>>>>>> Stashed changes
-        </AllowedClasses>
-        <Professions>
-          <Profession>None</Profession>
-          <Profession>Alchemy</Profession>
-          <Profession>Blacksmithing</Profession>
-          <Profession>Enchanting</Profession>
-          <Profession>Engineering</Profession>
-          <Profession>Herbalism</Profession>
-          <Profession>Inscription</Profession>
-          <Profession>Jewelcrafting</Profession>
-          <Profession>Leatherworking</Profession>
-          <Profession>Mining</Profession>
-          <Profession>Skinning</Profession>
-          <Profession>Tailoring</Profession>
-          <Profession>None</Profession>
-          <Profession>Alchemy</Profession>
-          <Profession>Blacksmithing</Profession>
-          <Profession>Enchanting</Profession>
-          <Profession>Engineering</Profession>
-          <Profession>Herbalism</Profession>
-          <Profession>Inscription</Profession>
-          <Profession>Jewelcrafting</Profession>
-          <Profession>Leatherworking</Profession>
-          <Profession>Mining</Profession>
-          <Profession>Skinning</Profession>
-          <Profession>Tailoring</Profession>
-          <Profession>None</Profession>
-          <Profession>Alchemy</Profession>
-          <Profession>Blacksmithing</Profession>
-          <Profession>Enchanting</Profession>
-          <Profession>Engineering</Profession>
-          <Profession>Herbalism</Profession>
-          <Profession>Inscription</Profession>
-          <Profession>Jewelcrafting</Profession>
-          <Profession>Leatherworking</Profession>
-          <Profession>Mining</Profession>
-          <Profession>Skinning</Profession>
-          <Profession>Tailoring</Profession>
-<<<<<<< Updated upstream
-=======
-          <Profession>None</Profession>
-          <Profession>Alchemy</Profession>
-          <Profession>Blacksmithing</Profession>
-          <Profession>Enchanting</Profession>
-          <Profession>Engineering</Profession>
-          <Profession>Herbalism</Profession>
-          <Profession>Inscription</Profession>
-          <Profession>Jewelcrafting</Profession>
-          <Profession>Leatherworking</Profession>
-          <Profession>Mining</Profession>
-          <Profession>Skinning</Profession>
-          <Profession>Tailoring</Profession>
->>>>>>> Stashed changes
-        </Professions>
-        <ConflictingBuffs>
-          <string xsi:nil="true" />
-          <string xsi:nil="true" />
-          <string xsi:nil="true" />
-<<<<<<< Updated upstream
-=======
-          <string xsi:nil="true" />
->>>>>>> Stashed changes
-        </ConflictingBuffs>
-      </Buff>
-    </Improvements>
-    <IsTargetDebuff>false</IsTargetDebuff>
-    <IsCustom>true</IsCustom>
-    <AllowedClasses>
-      <CharacterClass>DeathKnight</CharacterClass>
-      <CharacterClass>Druid</CharacterClass>
-      <CharacterClass>Hunter</CharacterClass>
-      <CharacterClass>Mage</CharacterClass>
-      <CharacterClass>Paladin</CharacterClass>
-      <CharacterClass>Priest</CharacterClass>
-      <CharacterClass>Rogue</CharacterClass>
-      <CharacterClass>Shaman</CharacterClass>
-      <CharacterClass>Warlock</CharacterClass>
-      <CharacterClass>Warrior</CharacterClass>
-      <CharacterClass>DeathKnight</CharacterClass>
-      <CharacterClass>Druid</CharacterClass>
-      <CharacterClass>Hunter</CharacterClass>
-      <CharacterClass>Mage</CharacterClass>
-      <CharacterClass>Paladin</CharacterClass>
-      <CharacterClass>Priest</CharacterClass>
-      <CharacterClass>Rogue</CharacterClass>
-      <CharacterClass>Shaman</CharacterClass>
-      <CharacterClass>Warlock</CharacterClass>
-      <CharacterClass>Warrior</CharacterClass>
-      <CharacterClass>DeathKnight</CharacterClass>
-      <CharacterClass>Druid</CharacterClass>
-      <CharacterClass>Hunter</CharacterClass>
-      <CharacterClass>Mage</CharacterClass>
-      <CharacterClass>Paladin</CharacterClass>
-      <CharacterClass>Priest</CharacterClass>
-      <CharacterClass>Rogue</CharacterClass>
-      <CharacterClass>Shaman</CharacterClass>
-      <CharacterClass>Warlock</CharacterClass>
-      <CharacterClass>Warrior</CharacterClass>
-<<<<<<< Updated upstream
-=======
-      <CharacterClass>DeathKnight</CharacterClass>
-      <CharacterClass>Druid</CharacterClass>
-      <CharacterClass>Hunter</CharacterClass>
-      <CharacterClass>Mage</CharacterClass>
-      <CharacterClass>Paladin</CharacterClass>
-      <CharacterClass>Priest</CharacterClass>
-      <CharacterClass>Rogue</CharacterClass>
-      <CharacterClass>Shaman</CharacterClass>
-      <CharacterClass>Warlock</CharacterClass>
-      <CharacterClass>Warrior</CharacterClass>
->>>>>>> Stashed changes
-    </AllowedClasses>
-    <Professions>
-      <Profession>None</Profession>
-      <Profession>Alchemy</Profession>
-      <Profession>Blacksmithing</Profession>
-      <Profession>Enchanting</Profession>
-      <Profession>Engineering</Profession>
-      <Profession>Herbalism</Profession>
-      <Profession>Inscription</Profession>
-      <Profession>Jewelcrafting</Profession>
-      <Profession>Leatherworking</Profession>
-      <Profession>Mining</Profession>
-      <Profession>Skinning</Profession>
-      <Profession>Tailoring</Profession>
-      <Profession>None</Profession>
-      <Profession>Alchemy</Profession>
-      <Profession>Blacksmithing</Profession>
-      <Profession>Enchanting</Profession>
-      <Profession>Engineering</Profession>
-      <Profession>Herbalism</Profession>
-      <Profession>Inscription</Profession>
-      <Profession>Jewelcrafting</Profession>
-      <Profession>Leatherworking</Profession>
-      <Profession>Mining</Profession>
-      <Profession>Skinning</Profession>
-      <Profession>Tailoring</Profession>
-      <Profession>None</Profession>
-      <Profession>Alchemy</Profession>
-      <Profession>Blacksmithing</Profession>
-      <Profession>Enchanting</Profession>
-      <Profession>Engineering</Profession>
-      <Profession>Herbalism</Profession>
-      <Profession>Inscription</Profession>
-      <Profession>Jewelcrafting</Profession>
-      <Profession>Leatherworking</Profession>
-      <Profession>Mining</Profession>
-      <Profession>Skinning</Profession>
-      <Profession>Tailoring</Profession>
-<<<<<<< Updated upstream
-=======
-      <Profession>None</Profession>
-      <Profession>Alchemy</Profession>
-      <Profession>Blacksmithing</Profession>
-      <Profession>Enchanting</Profession>
-      <Profession>Engineering</Profession>
-      <Profession>Herbalism</Profession>
-      <Profession>Inscription</Profession>
-      <Profession>Jewelcrafting</Profession>
-      <Profession>Leatherworking</Profession>
-      <Profession>Mining</Profession>
-      <Profession>Skinning</Profession>
-      <Profession>Tailoring</Profession>
->>>>>>> Stashed changes
-    </Professions>
-    <ConflictingBuffs>
-      <string xsi:nil="true" />
-      <string xsi:nil="true" />
-<<<<<<< Updated upstream
-=======
-      <string xsi:nil="true" />
->>>>>>> Stashed changes
-      <string>Blessing of Kings</string>
-    </ConflictingBuffs>
-  </Buff>
-  <Buff>
     <Name>Strength of Earth Totem</Name>
     <Group>Agility and Strength</Group>
     <Stats>
@@ -1396,6 +782,103 @@
     </Professions>
     <ConflictingBuffs>
       <string>Damage (%)</string>
+    </ConflictingBuffs>
+  </Buff>
+  <Buff>
+    <Name>Blessing of Sanctuary</Name>
+    <Group>Damage Reduction (Minor %)</Group>
+    <Stats>
+      <SpecialEffects>
+        <SpecialEffect>
+          <Trigger>DamageAvoided</Trigger>
+          <Stats>
+            <ManaorEquivRestore>0.02</ManaorEquivRestore>
+          </Stats>
+          <Duration>0</Duration>
+          <Cooldown>0</Cooldown>
+          <Chance>1</Chance>
+          <MaxStack>1</MaxStack>
+        </SpecialEffect>
+      </SpecialEffects>
+      <SpecialEffectCount>1</SpecialEffectCount>
+      <DamageTakenMultiplier>-0.03</DamageTakenMultiplier>
+    </Stats>
+    <Source>Prot Paladin</Source>
+    <SetThreshold>0</SetThreshold>
+    <Improvements>
+      <Buff>
+        <Name>Blessing of Sanctuary (Str/Sta Bonus)</Name>
+        <Group>Stat Multiplier</Group>
+        <Stats>
+          <BonusStrengthMultiplier>0.1</BonusStrengthMultiplier>
+          <BonusStaminaMultiplier>0.1</BonusStaminaMultiplier>
+        </Stats>
+        <Source>Prot Paladin</Source>
+        <SetThreshold>0</SetThreshold>
+        <Improvements />
+        <IsTargetDebuff>false</IsTargetDebuff>
+        <IsCustom>false</IsCustom>
+        <AllowedClasses>
+          <CharacterClass>DeathKnight</CharacterClass>
+          <CharacterClass>Druid</CharacterClass>
+          <CharacterClass>Hunter</CharacterClass>
+          <CharacterClass>Mage</CharacterClass>
+          <CharacterClass>Paladin</CharacterClass>
+          <CharacterClass>Priest</CharacterClass>
+          <CharacterClass>Rogue</CharacterClass>
+          <CharacterClass>Shaman</CharacterClass>
+          <CharacterClass>Warlock</CharacterClass>
+          <CharacterClass>Warrior</CharacterClass>
+        </AllowedClasses>
+        <Professions>
+          <Profession>None</Profession>
+          <Profession>Alchemy</Profession>
+          <Profession>Blacksmithing</Profession>
+          <Profession>Enchanting</Profession>
+          <Profession>Engineering</Profession>
+          <Profession>Herbalism</Profession>
+          <Profession>Inscription</Profession>
+          <Profession>Jewelcrafting</Profession>
+          <Profession>Leatherworking</Profession>
+          <Profession>Mining</Profession>
+          <Profession>Skinning</Profession>
+          <Profession>Tailoring</Profession>
+        </Professions>
+        <ConflictingBuffs>
+          <string>SanctuaryKings</string>
+        </ConflictingBuffs>
+      </Buff>
+    </Improvements>
+    <IsTargetDebuff>false</IsTargetDebuff>
+    <IsCustom>false</IsCustom>
+    <AllowedClasses>
+      <CharacterClass>DeathKnight</CharacterClass>
+      <CharacterClass>Druid</CharacterClass>
+      <CharacterClass>Hunter</CharacterClass>
+      <CharacterClass>Mage</CharacterClass>
+      <CharacterClass>Paladin</CharacterClass>
+      <CharacterClass>Priest</CharacterClass>
+      <CharacterClass>Rogue</CharacterClass>
+      <CharacterClass>Shaman</CharacterClass>
+      <CharacterClass>Warlock</CharacterClass>
+      <CharacterClass>Warrior</CharacterClass>
+    </AllowedClasses>
+    <Professions>
+      <Profession>None</Profession>
+      <Profession>Alchemy</Profession>
+      <Profession>Blacksmithing</Profession>
+      <Profession>Enchanting</Profession>
+      <Profession>Engineering</Profession>
+      <Profession>Herbalism</Profession>
+      <Profession>Inscription</Profession>
+      <Profession>Jewelcrafting</Profession>
+      <Profession>Leatherworking</Profession>
+      <Profession>Mining</Profession>
+      <Profession>Skinning</Profession>
+      <Profession>Tailoring</Profession>
+    </Professions>
+    <ConflictingBuffs>
+      <string>Damage Reduction (Minor %)</string>
     </ConflictingBuffs>
   </Buff>
   <Buff>
@@ -3538,6 +3021,92 @@
     </Professions>
     <ConflictingBuffs>
       <string>Mark of the Wild</string>
+    </ConflictingBuffs>
+  </Buff>
+  <Buff>
+    <Name>Blessing of Kings</Name>
+    <Group>Stat Multiplier</Group>
+    <Stats>
+      <BonusSpiritMultiplier>0.1</BonusSpiritMultiplier>
+      <BonusAgilityMultiplier>0.1</BonusAgilityMultiplier>
+      <BonusIntellectMultiplier>0.1</BonusIntellectMultiplier>
+    </Stats>
+    <Source>Paladin</Source>
+    <SetThreshold>0</SetThreshold>
+    <Improvements>
+      <Buff>
+        <Name>Blessing of Kings (Str/Sta Bonus)</Name>
+        <Group>Stat Multiplier</Group>
+        <Stats>
+          <BonusStrengthMultiplier>0.1</BonusStrengthMultiplier>
+          <BonusStaminaMultiplier>0.1</BonusStaminaMultiplier>
+        </Stats>
+        <Source>Paladin</Source>
+        <SetThreshold>0</SetThreshold>
+        <Improvements />
+        <IsTargetDebuff>false</IsTargetDebuff>
+        <IsCustom>false</IsCustom>
+        <AllowedClasses>
+          <CharacterClass>DeathKnight</CharacterClass>
+          <CharacterClass>Druid</CharacterClass>
+          <CharacterClass>Hunter</CharacterClass>
+          <CharacterClass>Mage</CharacterClass>
+          <CharacterClass>Paladin</CharacterClass>
+          <CharacterClass>Priest</CharacterClass>
+          <CharacterClass>Rogue</CharacterClass>
+          <CharacterClass>Shaman</CharacterClass>
+          <CharacterClass>Warlock</CharacterClass>
+          <CharacterClass>Warrior</CharacterClass>
+        </AllowedClasses>
+        <Professions>
+          <Profession>None</Profession>
+          <Profession>Alchemy</Profession>
+          <Profession>Blacksmithing</Profession>
+          <Profession>Enchanting</Profession>
+          <Profession>Engineering</Profession>
+          <Profession>Herbalism</Profession>
+          <Profession>Inscription</Profession>
+          <Profession>Jewelcrafting</Profession>
+          <Profession>Leatherworking</Profession>
+          <Profession>Mining</Profession>
+          <Profession>Skinning</Profession>
+          <Profession>Tailoring</Profession>
+        </Professions>
+        <ConflictingBuffs>
+          <string>SanctuaryKings</string>
+        </ConflictingBuffs>
+      </Buff>
+    </Improvements>
+    <IsTargetDebuff>false</IsTargetDebuff>
+    <IsCustom>false</IsCustom>
+    <AllowedClasses>
+      <CharacterClass>DeathKnight</CharacterClass>
+      <CharacterClass>Druid</CharacterClass>
+      <CharacterClass>Hunter</CharacterClass>
+      <CharacterClass>Mage</CharacterClass>
+      <CharacterClass>Paladin</CharacterClass>
+      <CharacterClass>Priest</CharacterClass>
+      <CharacterClass>Rogue</CharacterClass>
+      <CharacterClass>Shaman</CharacterClass>
+      <CharacterClass>Warlock</CharacterClass>
+      <CharacterClass>Warrior</CharacterClass>
+    </AllowedClasses>
+    <Professions>
+      <Profession>None</Profession>
+      <Profession>Alchemy</Profession>
+      <Profession>Blacksmithing</Profession>
+      <Profession>Enchanting</Profession>
+      <Profession>Engineering</Profession>
+      <Profession>Herbalism</Profession>
+      <Profession>Inscription</Profession>
+      <Profession>Jewelcrafting</Profession>
+      <Profession>Leatherworking</Profession>
+      <Profession>Mining</Profession>
+      <Profession>Skinning</Profession>
+      <Profession>Tailoring</Profession>
+    </Professions>
+    <ConflictingBuffs>
+      <string>Blessing of Kings</string>
     </ConflictingBuffs>
   </Buff>
   <Buff>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ArrayOfItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<ArrayOfItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Item>
     <ItemLevel>1</ItemLevel>
     <DisplayId>9891</DisplayId>
@@ -752,6 +752,27 @@
     <Name>Initiate's Shirt</Name>
     <Id>24143</Id>
     <Slot>Shirt</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>226</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_jewelry_ring_55</IconPath>
+    <Stats>
+      <Stamina>55</Stamina>
+      <Intellect>45</Intellect>
+      <SpellPower>72</SpellPower>
+      <HitRating>45</HitRating>
+      <HasteRating>38</HasteRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <Unique>true</Unique>
+    <SocketBonus />
+    <Name>Алмазное кольцо Экзарха</Name>
+    <Id>27523</Id>
+    <Slot>Finger</Slot>
   </Item>
   <Item>
     <ItemLevel>226</ItemLevel>
