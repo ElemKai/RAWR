@@ -1500,7 +1500,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Centrifuge Core Cloak</Name>
+    <Name>Кожух стержня центрифуги</Name>
     <Id>36947</Id>
     <Slot>Back</Slot>
   </Item>
@@ -2019,7 +2019,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Cape of Seething Steam</Name>
+    <Name>Накидка клубящегося пара</Name>
     <Id>36983</Id>
     <Slot>Back</Slot>
   </Item>
@@ -2777,7 +2777,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Ceremonial Pyre Mantle</Name>
+    <Name>Оплечье церемониального костра</Name>
     <Id>37067</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -3301,7 +3301,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Crusader's Square Pauldrons</Name>
+    <Name>Полевое наплечье рыцаря</Name>
     <Id>37115</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -4952,7 +4952,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Ancient Dragon Spirit Cape</Name>
+    <Name>Древняя накидка духа дракона</Name>
     <Id>37291</Id>
     <Slot>Back</Slot>
   </Item>
@@ -6629,7 +6629,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Cloak of Bloodied Waters</Name>
+    <Name>Плащ Кровавых вод</Name>
     <Id>37647</Id>
     <Slot>Back</Slot>
   </Item>
@@ -7765,7 +7765,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Cloak of the Enemy</Name>
+    <Name>Плащ недруга</Name>
     <Id>37728</Id>
     <Slot>Back</Slot>
   </Item>
@@ -10392,7 +10392,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Cloak of Armed Strife</Name>
+    <Name>Плащ вооруженного столкновения</Name>
     <Id>39225</Id>
     <Slot>Back</Slot>
   </Item>
@@ -10715,7 +10715,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Dark Shroud of the Scourge</Name>
+    <Name>Темная накидка Плети</Name>
     <Id>39241</Id>
     <Slot>Back</Slot>
   </Item>
@@ -11748,7 +11748,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Cloak of Darkening</Name>
+    <Name>Плащ затемнения</Name>
     <Id>39297</Id>
     <Slot>Back</Slot>
   </Item>
@@ -12405,7 +12405,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Cloak of Mastery</Name>
+    <Name>Плащ мастерства</Name>
     <Id>39404</Id>
     <Slot>Back</Slot>
   </Item>
@@ -12736,7 +12736,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Cloak of the Dying</Name>
+    <Name>Плащ умирания</Name>
     <Id>39425</Id>
     <Slot>Back</Slot>
   </Item>
@@ -21448,7 +21448,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Aged Winter Cloak</Name>
+    <Name>Старый зимний плащ</Name>
     <Id>40250</Id>
     <Slot>Back</Slot>
   </Item>
@@ -21492,7 +21492,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Cloak of the Shadowed Sun</Name>
+    <Name>Плащ затемненного солнца</Name>
     <Id>40252</Id>
     <Slot>Back</Slot>
   </Item>
@@ -21536,7 +21536,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Cloak of Averted Crisis</Name>
+    <Name>Плащ предотвращенной беды</Name>
     <Id>40254</Id>
     <Slot>Back</Slot>
   </Item>
@@ -23110,7 +23110,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Burdened Shoulderplates</Name>
+    <Name>Отягощенные латные наплечники</Name>
     <Id>40334</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -24387,7 +24387,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Cape of the Unworthy Wizard</Name>
+    <Name>Накидка недостойного волшебника</Name>
     <Id>40405</Id>
     <Slot>Back</Slot>
   </Item>
@@ -25043,7 +25043,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Concealment Shoulderpads</Name>
+    <Name>Наплечные пластины маскировки</Name>
     <Id>40437</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -25065,7 +25065,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Council Chamber Epaulets</Name>
+    <Name>Эполеты чертога совета</Name>
     <Id>40438</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -29315,7 +29315,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Cloak of Kea Feathers</Name>
+    <Name>Плащ из перьев кеа</Name>
     <Id>40724</Id>
     <Slot>Back</Slot>
   </Item>
@@ -46115,7 +46115,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Deadly Gladiator's Cloak of Dominance</Name>
+    <Name>Плащ господства смертоносного гладиатора</Name>
     <Id>42062</Id>
     <Slot>Back</Slot>
   </Item>
@@ -46138,7 +46138,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Deadly Gladiator's Cloak of Subjugation</Name>
+    <Name>Плащ порабощения смертоносного гладиатора</Name>
     <Id>42063</Id>
     <Slot>Back</Slot>
   </Item>
@@ -46161,7 +46161,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Deadly Gladiator's Cloak of Ascendancy</Name>
+    <Name>Плащ влияния смертоносного гладиатора</Name>
     <Id>42064</Id>
     <Slot>Back</Slot>
   </Item>
@@ -46184,7 +46184,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Deadly Gladiator's Cloak of Salvation</Name>
+    <Name>Плащ спасения смертоносного гладиатора</Name>
     <Id>42065</Id>
     <Slot>Back</Slot>
   </Item>
@@ -46207,7 +46207,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Deadly Gladiator's Cloak of Deliverance</Name>
+    <Name>Плащ избавления смертоносного гладиатора</Name>
     <Id>42066</Id>
     <Slot>Back</Slot>
   </Item>
@@ -49757,7 +49757,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Cloak of the Gushing Wound</Name>
+    <Name>Плащ кровоточащей раны</Name>
     <Id>43406</Id>
     <Slot>Back</Slot>
   </Item>
@@ -52771,7 +52771,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Cloak of Peaceful Resolutions</Name>
+    <Name>Плащ мирных решений</Name>
     <Id>44188</Id>
     <Slot>Back</Slot>
   </Item>
@@ -53187,7 +53187,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Cloak of Holy Extermination</Name>
+    <Name>Плащ священного истребления</Name>
     <Id>44216</Id>
     <Slot>Back</Slot>
   </Item>
@@ -53278,7 +53278,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Dark Soldier Cape</Name>
+    <Name>Накидка темного воина</Name>
     <Id>44242</Id>
     <Slot>Back</Slot>
   </Item>
@@ -59639,7 +59639,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Cloak of the Makers</Name>
+    <Name>Плащ Творцов</Name>
     <Id>45319</Id>
     <Slot>Back</Slot>
   </Item>
@@ -59707,7 +59707,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Cloak of the Iron Council</Name>
+    <Name>Плащ Железного Собрания</Name>
     <Id>45322</Id>
     <Slot>Back</Slot>
   </Item>
@@ -63938,7 +63938,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Asimov's Drape</Name>
+    <Name>Плащ Азимова</Name>
     <Id>45493</Id>
     <Slot>Back</Slot>
   </Item>
@@ -67093,7 +67093,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Cloak of Crimson Snow</Name>
+    <Name>Плащ багрового снега</Name>
     <Id>45810</Id>
     <Slot>Back</Slot>
   </Item>
@@ -71186,7 +71186,7 @@
     <SocketBonus>
       <HitRating>4</HitRating>
     </SocketBonus>
-    <Name>Conqueror's Darkruned Shoulderplates</Name>
+    <Name>Темнорунические латные наплечники завоевателя</Name>
     <Id>46117</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -71324,7 +71324,7 @@
     <SocketBonus>
       <DodgeRating>4</DodgeRating>
     </SocketBonus>
-    <Name>Conqueror's Darkruned Pauldrons</Name>
+    <Name>Темноруническое наплечье завоевателя</Name>
     <Id>46122</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -71462,7 +71462,7 @@
     <SocketBonus>
       <AttackPower>8</AttackPower>
     </SocketBonus>
-    <Name>Conqueror's Terrorblade Pauldrons</Name>
+    <Name>Клинковое наплечье завоевателя</Name>
     <Id>46127</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -71627,7 +71627,7 @@
     <SocketBonus>
       <Intellect>4</Intellect>
     </SocketBonus>
-    <Name>Conqueror's Kirin Tor Shoulderpads</Name>
+    <Name>Кирин-торские наплечные пластины завоевателя</Name>
     <Id>46134</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -71681,7 +71681,7 @@
     <SocketBonus>
       <HitRating>4</HitRating>
     </SocketBonus>
-    <Name>Conqueror's Deathbringer Shoulderpads</Name>
+    <Name>Латные наплечные пластины несущего смерть завоевателя</Name>
     <Id>46136</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -71926,7 +71926,7 @@
     <SocketBonus>
       <HasteRating>4</HasteRating>
     </SocketBonus>
-    <Name>Conqueror's Scourgestalker Spaulders</Name>
+    <Name>Наплеч преследующего Плеть завоевателя</Name>
     <Id>46145</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -72005,7 +72005,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Conqueror's Siegebreaker Shoulderplates</Name>
+    <Name>Осадные наплечные щитки завоевателя</Name>
     <Id>46149</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -72219,7 +72219,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Conqueror's Nightsong Shoulderpads</Name>
+    <Name>Наплечные пластины завоевателя ночной песни</Name>
     <Id>46157</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -72439,7 +72439,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Conqueror's Mantle of Sanctification</Name>
+    <Name>Оплечье посвящения завоевателя</Name>
     <Id>46165</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -72494,7 +72494,7 @@
     <SocketBonus>
       <DefenseRating>4</DefenseRating>
     </SocketBonus>
-    <Name>Conqueror's Siegebreaker Pauldrons</Name>
+    <Name>Осадное наплечье завоевателя</Name>
     <Id>46167</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -72882,7 +72882,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Conqueror's Aegis Spaulders</Name>
+    <Name>Наплеч покровительства завоевателя</Name>
     <Id>46182</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -73020,7 +73020,7 @@
     <SocketBonus>
       <Spirit>4</Spirit>
     </SocketBonus>
-    <Name>Conqueror's Nightsong Spaulders</Name>
+    <Name>Наплеч завоевателя ночной песни</Name>
     <Id>46187</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -73101,7 +73101,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Conqueror's Shoulderpads of Sanctification</Name>
+    <Name>Наплечные пластины посвящения завоевателя</Name>
     <Id>46190</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -73268,7 +73268,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Conqueror's Nightsong Mantle</Name>
+    <Name>Оплечье завоевателя ночной песни</Name>
     <Id>46196</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -73463,7 +73463,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Conqueror's Worldbreaker Shoulderguards</Name>
+    <Name>Наплечные щитки разрушающего миры завоевателя</Name>
     <Id>46203</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -73490,7 +73490,7 @@
     <SocketBonus>
       <Mp5>2</Mp5>
     </SocketBonus>
-    <Name>Conqueror's Worldbreaker Spaulders</Name>
+    <Name>Наплеч разрушающего миры завоевателя</Name>
     <Id>46204</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -73686,7 +73686,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Conqueror's Worldbreaker Shoulderpads</Name>
+    <Name>Наплечные пластины разрушающего миры завоевателя</Name>
     <Id>46211</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -74080,7 +74080,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Cloak of the Dormant Blaze</Name>
+    <Name>Плащ дремлющего огня</Name>
     <Id>46347</Id>
     <Slot>Back</Slot>
   </Item>
@@ -76220,7 +76220,7 @@
     <Faction>Alliance</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Cloak of Displacement</Name>
+    <Name>Плащ перемещения</Name>
     <Id>47089</Id>
     <Slot>Back</Slot>
   </Item>
@@ -76343,7 +76343,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Cloak of Displacement</Name>
+    <Name>Плащ перемещения</Name>
     <Id>47095</Id>
     <Slot>Back</Slot>
   </Item>
@@ -79453,7 +79453,7 @@
     <Faction>Horde</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Cloak of the Untamed Predator</Name>
+    <Name>Плащ дикого хищника</Name>
     <Id>47257</Id>
     <Slot>Back</Slot>
   </Item>
@@ -81419,7 +81419,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Cloak of the Untamed Predator</Name>
+    <Name>Плащ дикого хищника</Name>
     <Id>47418</Id>
     <Slot>Back</Slot>
   </Item>
@@ -84342,7 +84342,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Cairne's Endurance</Name>
+    <Name>Стойкость Кэрна</Name>
     <Id>47550</Id>
     <Slot>Back</Slot>
   </Item>
@@ -84367,7 +84367,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Aethas' Intensity</Name>
+    <Name>Сила Этаса</Name>
     <Id>47551</Id>
     <Slot>Back</Slot>
   </Item>
@@ -84417,7 +84417,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Bolvar's Devotion</Name>
+    <Name>Преданность Болвара</Name>
     <Id>47553</Id>
     <Slot>Back</Slot>
   </Item>
@@ -109566,7 +109566,7 @@
     <SocketBonus>
       <AttackPower>8</AttackPower>
     </SocketBonus>
-    <Name>Cloak of Serrated Blades</Name>
+    <Name>Плащ зазубренных клинков</Name>
     <Id>48668</Id>
     <Slot>Back</Slot>
   </Item>
@@ -109590,7 +109590,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Cloak of the Triumphant Combatant</Name>
+    <Name>Плащ торжествующего бойца</Name>
     <Id>48669</Id>
     <Slot>Back</Slot>
   </Item>
@@ -109615,7 +109615,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Cloak of the Unflinching Guardian</Name>
+    <Name>Плащ стойкого стража</Name>
     <Id>48670</Id>
     <Slot>Back</Slot>
   </Item>
@@ -109690,7 +109690,7 @@
     <SocketBonus>
       <AttackPower>8</AttackPower>
     </SocketBonus>
-    <Name>Cloak of the Silver Covenant</Name>
+    <Name>Плащ Серебряного союза</Name>
     <Id>48673</Id>
     <Slot>Back</Slot>
   </Item>
@@ -109714,7 +109714,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Cloak of the Victorious Combatant</Name>
+    <Name>Плащ победившего бойца</Name>
     <Id>48674</Id>
     <Slot>Back</Slot>
   </Item>
@@ -109739,7 +109739,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Cloak of the Unmoving Guardian</Name>
+    <Name>Плащ неподвижного стража</Name>
     <Id>48675</Id>
     <Slot>Back</Slot>
   </Item>
@@ -113741,7 +113741,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Accursed Crawling Cape</Name>
+    <Name>Проклятая измятая накидка</Name>
     <Id>49792</Id>
     <Slot>Back</Slot>
   </Item>
@@ -114407,7 +114407,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Cloak of the Fallen Cardinal</Name>
+    <Name>Плащ падшего кардинала</Name>
     <Id>49823</Id>
     <Slot>Back</Slot>
   </Item>
@@ -116180,7 +116180,7 @@
     <SocketBonus>
       <Agility>6</Agility>
     </SocketBonus>
-    <Name>Cultist's Bloodsoaked Spaulders</Name>
+    <Name>Омоченный кровью наплеч сектанта</Name>
     <Id>49987</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -122662,7 +122662,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Crimson Acolyte Mantle</Name>
+    <Name>Мантия послушника из Багрового Легиона</Name>
     <Id>50396</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -125193,7 +125193,7 @@
     <SocketBonus>
       <Agility>6</Agility>
     </SocketBonus>
-    <Name>Cultist's Bloodsoaked Spaulders</Name>
+    <Name>Омоченный кровью наплеч сектанта</Name>
     <Id>50646</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -127796,7 +127796,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Crimson Acolyte Shoulderpads</Name>
+    <Name>Наплечные пластины послушника из Багрового Легиона</Name>
     <Id>50767</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -129985,7 +129985,7 @@
     <SocketBonus>
       <DodgeRating>4</DodgeRating>
     </SocketBonus>
-    <Name>Cloak of Many Skins</Name>
+    <Name>Многослойный кожаный плащ</Name>
     <Id>50859</Id>
     <Slot>Back</Slot>
   </Item>
@@ -146014,7 +146014,7 @@
     <SocketBonus>
       <DodgeRating>4</DodgeRating>
     </SocketBonus>
-    <Name>Cloak of Many Skins</Name>
+    <Name>Многослойный кожаный плащ</Name>
     <Id>51888</Id>
     <Slot>Back</Slot>
   </Item>
@@ -148344,7 +148344,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Cloak of Burning Dusk</Name>
+    <Name>Плащ горящего заката</Name>
     <Id>53489</Id>
     <Slot>Back</Slot>
   </Item>
@@ -149028,7 +149028,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Cloak of Burning Dusk</Name>
+    <Name>Плащ горящего заката</Name>
     <Id>54583</Id>
     <Slot>Back</Slot>
   </Item>
@@ -149386,7 +149386,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Cloak of the Frigid Winds</Name>
+    <Name>Плащ леденящих ветров</Name>
     <Id>54805</Id>
     <Slot>Back</Slot>
   </Item>
