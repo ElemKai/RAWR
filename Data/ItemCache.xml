@@ -3638,7 +3638,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Bulwark of the Noble Protector</Name>
+    <Name>Оплот благородного защитника</Name>
     <Id>37162</Id>
     <Slot>OffHand</Slot>
   </Item>
@@ -5666,7 +5666,7 @@
     <Speed>2</Speed>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Tracker's Balanced Knives</Name>
+    <Name>Сбалансированные ножи следопыта</Name>
     <Id>37410</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -5695,7 +5695,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Libram of Furious Blows</Name>
+    <Name>Манускрипт яростных ударов</Name>
     <Id>37574</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -5937,7 +5937,7 @@
     <Speed>2.9</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Titanium Compound Bow</Name>
+    <Name>Титановый составной лук</Name>
     <Id>37615</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -9518,7 +9518,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Totem of the Bay</Name>
+    <Name>Тотем залива</Name>
     <Id>38368</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -10557,7 +10557,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Aegis of Damnation</Name>
+    <Name>Эгида проклятия</Name>
     <Id>39233</Id>
     <Slot>OffHand</Slot>
   </Item>
@@ -11726,7 +11726,7 @@
     <Speed>2.8</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Accursed Bow of the Elite</Name>
+    <Name>Проклятый лук гвардейца</Name>
     <Id>39296</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -16058,7 +16058,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Totem of Misery</Name>
+    <Name>Тотем мучительной боли</Name>
     <Id>39728</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -20708,7 +20708,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Accursed Spine</Name>
+    <Name>Проклятый хребет</Name>
     <Id>40192</Id>
     <Slot>OffHand</Slot>
   </Item>
@@ -21818,7 +21818,7 @@
     <Speed>2.8</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Arrowsong</Name>
+    <Name>Песнь стрелы</Name>
     <Id>40265</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -21858,7 +21858,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Totem of Hex</Name>
+    <Name>Тотем сглаза</Name>
     <Id>40267</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -23177,7 +23177,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Libram of Resurgence</Name>
+    <Name>Манускрипт восстановления</Name>
     <Id>40337</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -23314,7 +23314,7 @@
     <Speed>3.4</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Armageddon</Name>
+    <Name>Армагеддон</Name>
     <Id>40343</Id>
     <Slot>TwoHand</Slot>
   </Item>
@@ -25865,7 +25865,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Barricade of Eternity</Name>
+    <Name>Баррикада вечности</Name>
     <Id>40475</Id>
     <Slot>OffHand</Slot>
   </Item>
@@ -28922,7 +28922,7 @@
     <RequiredClasses>Paladin</RequiredClasses>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Libram of Reciprocation</Name>
+    <Name>Манускрипт ответных действий</Name>
     <Id>40706</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -28952,7 +28952,7 @@
     <RequiredClasses>Paladin</RequiredClasses>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Libram of Obstruction</Name>
+    <Name>Манускрипт преграды</Name>
     <Id>40707</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -28982,7 +28982,7 @@
     <RequiredClasses>Shaman</RequiredClasses>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Totem of the Elemental Plane</Name>
+    <Name>Тотем Обители стихий</Name>
     <Id>40708</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -29018,7 +29018,7 @@
     <RequiredClasses>Shaman</RequiredClasses>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Totem of Splintering</Name>
+    <Name>Тотем расщепления</Name>
     <Id>40710</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -29075,7 +29075,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Idol of the Ravenous Beast</Name>
+    <Name>Идол прожорливого зверя</Name>
     <Id>40713</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -35818,7 +35818,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Armor Plated Combat Shotgun</Name>
+    <Name>Бронированный боевой дробовик</Name>
     <Id>41168</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -49406,7 +49406,7 @@
     <Speed>2.9</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Amanitar Skullbow</Name>
+    <Name>Аманитарский самострел</Name>
     <Id>43284</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -53321,7 +53321,7 @@
     <Speed>3.6</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Argent Skeleton Crusher</Name>
+    <Name>Серебряный сокрушитель скелетов</Name>
     <Id>44244</Id>
     <Slot>TwoHand</Slot>
   </Item>
@@ -56878,7 +56878,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Totem of the Dancing Flame</Name>
+    <Name>Тотем плящущего пламени</Name>
     <Id>45169</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -58616,7 +58616,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Idol of the Crying Wind</Name>
+    <Name>Идол воющего ветра</Name>
     <Id>45270</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -64283,7 +64283,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Libram of Discord</Name>
+    <Name>Манускрипт раздора</Name>
     <Id>45510</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -65679,7 +65679,7 @@
     <SocketBonus>
       <DefenseRating>4</DefenseRating>
     </SocketBonus>
-    <Name>Bulwark of Algalon</Name>
+    <Name>Бастион Алганона</Name>
     <Id>45587</Id>
     <Slot>OffHand</Slot>
   </Item>
@@ -67992,7 +67992,7 @@
     <SocketBonus>
       <Strength>6</Strength>
     </SocketBonus>
-    <Name>Aesir's Edge</Name>
+    <Name>Острие Эзира</Name>
     <Id>45868</Id>
     <Slot>TwoHand</Slot>
   </Item>
@@ -69399,7 +69399,7 @@
     <Speed>3.4</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Abaddon</Name>
+    <Name>Аваддон</Name>
     <Id>46016</Id>
     <Slot>TwoHand</Slot>
   </Item>
@@ -75955,7 +75955,7 @@
     <Faction>Alliance</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Bastion of Purity</Name>
+    <Name>Бастион чистоты</Name>
     <Id>47079</Id>
     <Slot>OffHand</Slot>
   </Item>
@@ -76114,7 +76114,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Bastion of Purity</Name>
+    <Name>Бастион чистоты</Name>
     <Id>47085</Id>
     <Slot>OffHand</Slot>
   </Item>
@@ -77169,7 +77169,7 @@
     <Faction>Alliance</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Chalice of Searing Light</Name>
+    <Name>Чаша опаляющего света</Name>
     <Id>47146</Id>
     <Slot>OffHand</Slot>
   </Item>
@@ -78960,7 +78960,7 @@
     <SocketBonus>
       <AttackPower>8</AttackPower>
     </SocketBonus>
-    <Name>Archon Glaive</Name>
+    <Name>Глефа архонта</Name>
     <Id>47233</Id>
     <Slot>TwoHand</Slot>
   </Item>
@@ -79113,7 +79113,7 @@
     <SocketBonus>
       <AttackPower>12</AttackPower>
     </SocketBonus>
-    <Name>Archon Glaive</Name>
+    <Name>Глефа архонта</Name>
     <Id>47239</Id>
     <Slot>TwoHand</Slot>
   </Item>
@@ -80184,7 +80184,7 @@
     <Faction>Horde</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Bastion of Resolve</Name>
+    <Name>Бастион решимости</Name>
     <Id>47287</Id>
     <Slot>OffHand</Slot>
   </Item>
@@ -82202,7 +82202,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Bastion of Resolve</Name>
+    <Name>Бастион решимости</Name>
     <Id>47448</Id>
     <Slot>OffHand</Slot>
   </Item>
@@ -86131,7 +86131,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Libram of Veracity</Name>
+    <Name>Манускрипт правдивости</Name>
     <Id>47662</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -86182,7 +86182,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Libram of Defiance</Name>
+    <Name>Манускрипт неповиновения</Name>
     <Id>47664</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -86257,7 +86257,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Totem of Quaking Earth</Name>
+    <Name>Тотем колыхающейся земли</Name>
     <Id>47667</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -90334,7 +90334,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Bulwark of the Royal Guard</Name>
+    <Name>Щит королевского стражника</Name>
     <Id>47835</Id>
     <Slot>OffHand</Slot>
   </Item>
@@ -91974,7 +91974,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Aegis of the Coliseum</Name>
+    <Name>Эгида Колизея</Name>
     <Id>47910</Id>
     <Slot>OffHand</Slot>
   </Item>
@@ -92001,7 +92001,7 @@
     <SocketBonus>
       <ArmorPenetrationRating>4</ArmorPenetrationRating>
     </SocketBonus>
-    <Name>Anguish</Name>
+    <Name>Тоска</Name>
     <Id>47911</Id>
     <Slot>TwoHand</Slot>
   </Item>
@@ -93757,7 +93757,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Bulwark of the Royal Guard</Name>
+    <Name>Щит королевского стражника</Name>
     <Id>47978</Id>
     <Slot>OffHand</Slot>
   </Item>
@@ -95807,7 +95807,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Aegis of the Coliseum</Name>
+    <Name>Эгида Колизея</Name>
     <Id>48055</Id>
     <Slot>OffHand</Slot>
   </Item>
@@ -95835,7 +95835,7 @@
     <SocketBonus>
       <ArmorPenetrationRating>4</ArmorPenetrationRating>
     </SocketBonus>
-    <Name>Anguish</Name>
+    <Name>Тоска</Name>
     <Id>48056</Id>
     <Slot>TwoHand</Slot>
   </Item>
@@ -110048,7 +110048,7 @@
     <SocketBonus>
       <Agility>6</Agility>
     </SocketBonus>
-    <Name>Attrition</Name>
+    <Name>Неистинное раскаяние</Name>
     <Id>48705</Id>
     <Slot>TwoHand</Slot>
   </Item>
@@ -111804,7 +111804,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Antique Cornerstone Grimoire</Name>
+    <Name>Древний краеугольный гримуар</Name>
     <Id>49308</Id>
     <Slot>OffHand</Slot>
   </Item>
@@ -113150,7 +113150,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Antediluvian Cornerstone Grimoire</Name>
+    <Name>Допотопный краеугольный гримуар</Name>
     <Id>49490</Id>
     <Slot>OffHand</Slot>
   </Item>
@@ -115926,7 +115926,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Bulwark of Smouldering Steel</Name>
+    <Name>Сила тлеющей стали</Name>
     <Id>49976</Id>
     <Slot>OffHand</Slot>
   </Item>
@@ -117371,7 +117371,7 @@
     <SocketBonus>
       <Agility>6</Agility>
     </SocketBonus>
-    <Name>Distant Land</Name>
+    <Name>Далекая земля</Name>
     <Id>50040</Id>
     <Slot>TwoHand</Slot>
   </Item>
@@ -118979,7 +118979,7 @@
     <SocketBonus>
       <AttackPower>12</AttackPower>
     </SocketBonus>
-    <Name>Bloodfall</Name>
+    <Name>Кровавая пучина</Name>
     <Id>50178</Id>
     <Slot>TwoHand</Slot>
   </Item>
@@ -123126,7 +123126,7 @@
     <SocketBonus>
       <Strength>6</Strength>
     </SocketBonus>
-    <Name>Bryntroll, the Bone Arbiter</Name>
+    <Name>Бринтролль, Костяной Судья</Name>
     <Id>50415</Id>
     <Slot>TwoHand</Slot>
   </Item>
@@ -123405,7 +123405,7 @@
     <SocketBonus>
       <SpellPower>7</SpellPower>
     </SocketBonus>
-    <Name>Archus, Greatstaff of Antonidas</Name>
+    <Name>Аркус, большой посох Антонидаса</Name>
     <Id>50429</Id>
     <Slot>TwoHand</Slot>
   </Item>
@@ -123847,7 +123847,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Libram of the Eternal Tower</Name>
+    <Name>Манускрипт башни вечности</Name>
     <Id>50461</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -123906,7 +123906,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Totem of the Avalanche</Name>
+    <Name>Тотем застывшей лавины</Name>
     <Id>50463</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -123923,7 +123923,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Totem of the Surging Sea</Name>
+    <Name>Тотем бушующего моря</Name>
     <Id>50464</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -124468,7 +124468,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Bulwark of Smouldering Steel</Name>
+    <Name>Сила тлеющей стали</Name>
     <Id>50616</Id>
     <Slot>OffHand</Slot>
   </Item>
@@ -126403,7 +126403,7 @@
     <SocketBonus>
       <Agility>8</Agility>
     </SocketBonus>
-    <Name>Distant Land</Name>
+    <Name>Далекая земля</Name>
     <Id>50695</Id>
     <Slot>TwoHand</Slot>
   </Item>
@@ -126803,7 +126803,7 @@
     <SocketBonus>
       <Strength>8</Strength>
     </SocketBonus>
-    <Name>Bryntroll, the Bone Arbiter</Name>
+    <Name>Бринтролль, Костяной Судья</Name>
     <Id>50709</Id>
     <Slot>TwoHand</Slot>
   </Item>
@@ -127267,7 +127267,7 @@
     <SocketBonus>
       <AttackPower>16</AttackPower>
     </SocketBonus>
-    <Name>Bloodfall</Name>
+    <Name>Кровавая пучина</Name>
     <Id>50727</Id>
     <Slot>TwoHand</Slot>
   </Item>
@@ -127372,7 +127372,7 @@
     <SocketBonus>
       <SpellPower>9</SpellPower>
     </SocketBonus>
-    <Name>Archus, Greatstaff of Antonidas</Name>
+    <Name>Аркус, большой посох Антонидаса</Name>
     <Id>50731</Id>
     <Slot>TwoHand</Slot>
   </Item>
@@ -127638,7 +127638,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Citadel Enforcer's Claymore</Name>
+    <Name>Клеймор охранника цитадели</Name>
     <Id>50761</Id>
     <Slot>TwoHand</Slot>
   </Item>
@@ -130315,7 +130315,7 @@
     <SocketBonus>
       <HasteRating>6</HasteRating>
     </SocketBonus>
-    <Name>Abracadaver</Name>
+    <Name>Абракадавр</Name>
     <Id>50966</Id>
     <Slot>TwoHand</Slot>
   </Item>
@@ -140183,7 +140183,7 @@
     <Speed>3</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Wrathful Gladiator's Rifle</Name>
+    <Name>Винтовка разгневанного гладиатора</Name>
     <Id>51449</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -142855,7 +142855,7 @@
     <Speed>2.2</Speed>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Lana'thel's Bloody Nail</Name>
+    <Name>Кровавый ноготь Лана'тель</Name>
     <Id>51553</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -145989,7 +145989,7 @@
     <SocketBonus>
       <HasteRating>8</HasteRating>
     </SocketBonus>
-    <Name>Abracadaver</Name>
+    <Name>Абракадавр</Name>
     <Id>51887</Id>
     <Slot>TwoHand</Slot>
   </Item>
@@ -147279,7 +147279,7 @@
     <SocketBonus>
       <Strength>6</Strength>
     </SocketBonus>
-    <Name>Citadel Enforcer's Claymore</Name>
+    <Name>Клеймор охранника цитадели</Name>
     <Id>51936</Id>
     <Slot>TwoHand</Slot>
   </Item>
