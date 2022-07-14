@@ -11278,7 +11278,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Drape of Surgery</Name>
+    <Name>Пелерина хирургии</Name>
     <Id>39272</Id>
     <Slot>Back</Slot>
   </Item>
@@ -29293,7 +29293,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Disguise of the Kumiho</Name>
+    <Name>Маскировка Кумихо</Name>
     <Id>40723</Id>
     <Slot>Back</Slot>
   </Item>
@@ -40329,7 +40329,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Deathchill Cloak</Name>
+    <Name>Плащ смертельной стужи</Name>
     <Id>41610</Id>
     <Slot>Back</Slot>
   </Item>
@@ -46229,7 +46229,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Deadly Gladiator's Cloak of Triumph</Name>
+    <Name>Плащ триумфа смертоносного гладиатора</Name>
     <Id>42067</Id>
     <Slot>Back</Slot>
   </Item>
@@ -46251,7 +46251,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Deadly Gladiator's Cloak of Victory</Name>
+    <Name>Плащ победы смертоносного гладиатора</Name>
     <Id>42068</Id>
     <Slot>Back</Slot>
   </Item>
@@ -47271,7 +47271,7 @@
     <DisplaySlot>0</DisplaySlot>
     <IconPath>inv_jewelcrafting_dragonseye05</IconPath>
     <Stats>
-      <SpellPower>39</SpellPower>
+      <SpellPower>51</SpellPower>
     </Stats>
     <Quality>Epic</Quality>
     <Type>None</Type>
@@ -47279,7 +47279,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Runed Dragon's Eye</Name>
+    <Name>Руническое Око дракона</Name>
     <Id>42144</Id>
     <Slot>Red</Slot>
   </Item>
@@ -47361,7 +47361,7 @@
     <DisplaySlot>0</DisplaySlot>
     <IconPath>inv_jewelcrafting_dragonseye03</IconPath>
     <Stats>
-      <HasteRating>34</HasteRating>
+      <HasteRating>45</HasteRating>
     </Stats>
     <Quality>Epic</Quality>
     <Type>None</Type>
@@ -47369,7 +47369,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Quick Dragon's Eye</Name>
+    <Name>Мягкое око дракона</Name>
     <Id>42150</Id>
     <Slot>Yellow</Slot>
   </Item>
@@ -57964,7 +57964,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Drape of Mortal Downfall</Name>
+    <Name>Пелерина смертельного исхода</Name>
     <Id>45242</Id>
     <Slot>Back</Slot>
   </Item>
@@ -59617,7 +59617,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Drape of Fuming Anger</Name>
+    <Name>Пелерина искрящего гнева</Name>
     <Id>45318</Id>
     <Slot>Back</Slot>
   </Item>
@@ -63259,7 +63259,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Drape of Icy Intent</Name>
+    <Name>Пелерина холодного расчета</Name>
     <Id>45461</Id>
     <Slot>Back</Slot>
   </Item>
@@ -109640,7 +109640,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Drape of Bitter Incantation</Name>
+    <Name>Пелерина мучительных заклинаний</Name>
     <Id>48671</Id>
     <Slot>Back</Slot>
   </Item>
