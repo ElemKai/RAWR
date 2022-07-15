@@ -7056,7 +7056,7 @@
     <SocketBonus>
       <Spirit>4</Spirit>
     </SocketBonus>
-    <Name>Dark Runic Mantle</Name>
+    <Name>Черное руническое оплечье</Name>
     <Id>37673</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -31564,7 +31564,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Deadly Gladiator's Plate Shoulders</Name>
+    <Name>Латные наплечники смертоносного гладиатора</Name>
     <Id>40862</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -31590,7 +31590,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Deadly Gladiator's Dreadplate Shoulders</Name>
+    <Name>Жуткие латные наплечники смертоносного гладиатора</Name>
     <Id>40863</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -32715,7 +32715,7 @@
     <SocketBonus>
       <Mp5>2</Mp5>
     </SocketBonus>
-    <Name>Deadly Gladiator's Ornamented Spaulders</Name>
+    <Name>Украшенный наплеч смертоносного гладиатора</Name>
     <Id>40962</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -34320,7 +34320,7 @@
     <SocketBonus>
       <Mp5>2</Mp5>
     </SocketBonus>
-    <Name>Deadly Gladiator's Mail Spaulders</Name>
+    <Name>Кольчужный наплеч смертоносного гладиатора</Name>
     <Id>41043</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -36134,7 +36134,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Deadly Gladiator's Linked Spaulders</Name>
+    <Name>Клепаный наплеч смертоносного гладиатора</Name>
     <Id>41210</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -36274,7 +36274,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Deadly Gladiator's Chain Spaulders</Name>
+    <Name>Плетеный наплеч смертоносного гладиатора</Name>
     <Id>41216</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -36909,7 +36909,7 @@
     <SocketBonus>
       <Spirit>4</Spirit>
     </SocketBonus>
-    <Name>Deadly Gladiator's Kodohide Spaulders</Name>
+    <Name>Нарамник смертоносного гладиатора из ткани Скверны</Name>
     <Id>41274</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -41702,7 +41702,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Deadly Gladiator's Leather Spaulders</Name>
+    <Name>Кожаный наплеч смертоносного гладиатора</Name>
     <Id>41682</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -41837,7 +41837,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Deadly Gladiator's Dragonhide Spaulders</Name>
+    <Name>Наплеч смертоносного гладиатора из драконьей шкуры</Name>
     <Id>41714</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -42887,7 +42887,7 @@
     <SocketBonus>
       <Spirit>4</Spirit>
     </SocketBonus>
-    <Name>Deadly Gladiator's Mooncloth Mantle</Name>
+    <Name>Мантия смертоносного гладиатора из луноткани</Name>
     <Id>41868</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -45447,7 +45447,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Deadly Gladiator's Felweave Amice</Name>
+    <Name>Нарамник смертоносного гладиатора из ткани Скверны</Name>
     <Id>42010</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -120101,7 +120101,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Dark Coven Shoulderpads</Name>
+    <Name>Наплечные пластины мрачного шабаша</Name>
     <Id>50244</Id>
     <Slot>Shoulders</Slot>
   </Item>
