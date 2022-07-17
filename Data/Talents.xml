@@ -552,4 +552,12 @@
     <Tree2>14</Tree2>
     <Tree3>0</Tree3>
   </SavedTalentSpec>
+  <SavedTalentSpec>
+    <Name>Анхоли</Name>
+    <Class>DeathKnight</Class>
+    <Spec>2305020500000000000000000000000000000000000000000000000002302003350032152000150003133151.000000100000000010000001000110010</Spec>
+    <Tree1>17</Tree1>
+    <Tree2>0</Tree2>
+    <Tree3>54</Tree3>
+  </SavedTalentSpec>
 </ArrayOfSavedTalentSpec>

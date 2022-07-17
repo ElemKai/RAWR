@@ -156,7 +156,7 @@
         <SpecialEffect>
           <Trigger>SpellHit</Trigger>
           <Stats>
-            <SpellPower>1087</SpellPower>
+            <SpellPower>287</SpellPower>
           </Stats>
           <Duration>10</Duration>
           <Cooldown>45</Cooldown>
@@ -936,6 +936,30 @@
     <ItemLevel>226</ItemLevel>
     <DisplayId>0</DisplayId>
     <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_chest_leather_08</IconPath>
+    <Stats>
+      <Armor>591</Armor>
+      <Agility>108</Agility>
+      <Stamina>115</Stamina>
+      <AttackPower>150</AttackPower>
+      <CritRating>70</CritRating>
+      <HitRating>66</HitRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>Leather</Type>
+    <Faction>Neutral</Faction>
+    <SocketColor1>Blue</SocketColor1>
+    <SocketBonus>
+      <AttackPower>8</AttackPower>
+    </SocketBonus>
+    <Name>Нагрудный доспех лесного хищника</Name>
+    <Id>27461</Id>
+    <Slot>Chest</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>226</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
     <IconPath>inv_jewelry_necklace_39</IconPath>
     <Stats>
       <Stamina>72</Stamina>
@@ -950,6 +974,30 @@
     <Name>Собачья метка солдата</Name>
     <Id>27495</Id>
     <Slot>Neck</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>226</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_helmet_12</IconPath>
+    <Stats>
+      <Armor>1907</Armor>
+      <Stamina>138</Stamina>
+      <Strength>108</Strength>
+      <CritRating>77</CritRating>
+      <HitRating>55</HitRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>Plate</Type>
+    <Faction>Neutral</Faction>
+    <SocketColor1>Meta</SocketColor1>
+    <SocketColor2>Yellow</SocketColor2>
+    <SocketBonus>
+      <Strength>8</Strength>
+    </SocketBonus>
+    <Name>Рубиновый шлем Состязания</Name>
+    <Id>27505</Id>
+    <Slot>Head</Slot>
   </Item>
   <Item>
     <ItemLevel>226</ItemLevel>
@@ -1195,6 +1243,48 @@
     <ItemLevel>226</ItemLevel>
     <DisplayId>0</DisplayId>
     <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_axe_70</IconPath>
+    <Stats>
+      <Stamina>130</Stamina>
+      <Strength>130</Strength>
+      <CritRating>82</CritRating>
+      <HitRating>66</HitRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>TwoHandAxe</Type>
+    <Faction>Neutral</Faction>
+    <MinDamage>530</MinDamage>
+    <MaxDamage>985</MaxDamage>
+    <Speed>3.4</Speed>
+    <SocketBonus />
+    <Name>Топор Соправителей</Name>
+    <Id>27829</Id>
+    <Slot>TwoHand</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>226</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_jewelry_ring_38</IconPath>
+    <Stats>
+      <Stamina>70</Stamina>
+      <Strength>70</Strength>
+      <CritRating>45</CritRating>
+      <ExpertiseRating>45</ExpertiseRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <Unique>true</Unique>
+    <SocketBonus />
+    <Name>Кольцо решимости духовного пастыря</Name>
+    <Id>27869</Id>
+    <Slot>Finger</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>226</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
     <IconPath>inv_potion_130</IconPath>
     <Stats>
       <SpecialEffects>
@@ -1260,6 +1350,33 @@
     <Name>Самоцвет таинственного чудотворца</Name>
     <Id>27900</Id>
     <Slot>Trinket</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>226</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_axe_69</IconPath>
+    <Stats>
+      <Stamina>111</Stamina>
+      <Strength>94</Strength>
+      <HitRating>85</HitRating>
+      <HasteRating>63</HasteRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>TwoHandAxe</Type>
+    <Faction>Neutral</Faction>
+    <MinDamage>546</MinDamage>
+    <MaxDamage>1014</MaxDamage>
+    <Speed>3.5</Speed>
+    <SocketColor1>Red</SocketColor1>
+    <SocketColor2>Red</SocketColor2>
+    <SocketColor3>Red</SocketColor3>
+    <SocketBonus>
+      <Stamina>6</Stamina>
+    </SocketBonus>
+    <Name>Жнец Воронье крыло</Name>
+    <Id>27986</Id>
+    <Slot>TwoHand</Slot>
   </Item>
   <Item>
     <ItemLevel>226</ItemLevel>
@@ -1452,6 +1569,26 @@
     <Slot>Neck</Slot>
   </Item>
   <Item>
+    <ItemLevel>226</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_jewelry_necklace_06</IconPath>
+    <Stats>
+      <Agility>61</Agility>
+      <Stamina>57</Stamina>
+      <AttackPower>93</AttackPower>
+      <CritRating>40</CritRating>
+      <HasteRating>42</HasteRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Адамантиновая цепь несломленных</Name>
+    <Id>29349</Id>
+    <Slot>Neck</Slot>
+  </Item>
+  <Item>
     <ItemLevel>145</ItemLevel>
     <DisplayId>44356</DisplayId>
     <DisplaySlot>24</DisplaySlot>
@@ -1484,6 +1621,47 @@
     <Name>Scryers Tabard</Name>
     <Id>31780</Id>
     <Slot>Tabard</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>226</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_jewelry_ring_51naxxramas</IconPath>
+    <Stats>
+      <Stamina>46</Stamina>
+      <Strength>54</Strength>
+      <ArmorPenetrationRating>29</ArmorPenetrationRating>
+      <CritRating>38</CritRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <Unique>true</Unique>
+    <SocketBonus />
+    <Name>Кольцо жестокости Шаффара</Name>
+    <Id>31920</Id>
+    <Slot>Finger</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>226</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_shoulder_16</IconPath>
+    <Stats>
+      <Armor>1760</Armor>
+      <Stamina>119</Stamina>
+      <Strength>82</Strength>
+      <DodgeRating>45</DodgeRating>
+      <ParryRating>44</ParryRating>
+      <DefenseRating>48</DefenseRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Наплеч безумия</Name>
+    <Id>32073</Id>
+    <Slot>Shoulders</Slot>
   </Item>
   <Item>
     <ItemLevel>1</ItemLevel>
@@ -49112,6 +49290,35 @@
     <SocketBonus />
     <Name>Карта Новолуния: Смерть</Name>
     <Id>42990</Id>
+    <Slot>Trinket</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>1</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_jewelry_talisman_01</IconPath>
+    <Stats>
+      <SpecialEffects>
+        <SpecialEffect>
+          <Trigger>DeathStrikeHit</Trigger>
+          <Stats>
+            <BonusHealingDoneMultiplier>2</BonusHealingDoneMultiplier>
+          </Stats>
+          <Duration>0</Duration>
+          <Cooldown>0</Cooldown>
+          <Chance>1</Chance>
+          <MaxStack>1</MaxStack>
+        </SpecialEffect>
+      </SpecialEffects>
+      <SpecialEffectCount>1</SpecialEffectCount>
+      <HasteRating>64</HasteRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Стремительная рука правосудия</Name>
+    <Id>42991</Id>
     <Slot>Trinket</Slot>
   </Item>
   <Item>
