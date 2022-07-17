@@ -31,6 +31,155 @@
     <Slot>Trinket</Slot>
   </Item>
   <Item>
+    <ItemLevel>213</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_jewelry_necklace_38</IconPath>
+    <Stats>
+      <SpecialEffects>
+        <SpecialEffect>
+          <Trigger>MeleeHit</Trigger>
+          <Stats>
+            <AttackPower>400</AttackPower>
+          </Stats>
+          <Duration>10</Duration>
+          <Cooldown>45</Cooldown>
+          <Chance>0.15</Chance>
+          <MaxStack>1</MaxStack>
+        </SpecialEffect>
+        <SpecialEffect>
+          <Trigger>RangedHit</Trigger>
+          <Stats>
+            <AttackPower>400</AttackPower>
+          </Stats>
+          <Duration>10</Duration>
+          <Cooldown>45</Cooldown>
+          <Chance>0.15</Chance>
+          <MaxStack>1</MaxStack>
+        </SpecialEffect>
+      </SpecialEffects>
+      <SpecialEffectCount>2</SpecialEffectCount>
+      <Agility>36</Agility>
+      <Stamina>50</Stamina>
+      <AttackPower>96</AttackPower>
+      <ArmorPenetrationRating>24</ArmorPenetrationRating>
+      <CritRating>39</CritRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Подвеска мощи Расколотого Солнца</Name>
+    <Id>2</Id>
+    <Slot>Neck</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>213</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_jewelry_necklace_39</IconPath>
+    <Stats>
+      <SpecialEffects>
+        <SpecialEffect>
+          <Trigger>MeleeHit</Trigger>
+          <Stats>
+            <AttackPower>400</AttackPower>
+          </Stats>
+          <Duration>10</Duration>
+          <Cooldown>45</Cooldown>
+          <Chance>0.15</Chance>
+          <MaxStack>1</MaxStack>
+        </SpecialEffect>
+      </SpecialEffects>
+      <SpecialEffectCount>1</SpecialEffectCount>
+      <DodgeRating>28</DodgeRating>
+      <ParryRating>24</ParryRating>
+      <DefenseRating>37</DefenseRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Подвеска решительности воина Расколотого Солнца</Name>
+    <Id>3</Id>
+    <Slot>Neck</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>213</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_jewelry_necklace_38</IconPath>
+    <Stats>
+      <SpecialEffects>
+        <SpecialEffect>
+          <Trigger>MeleeHit</Trigger>
+          <Stats>
+            <AttackPower>400</AttackPower>
+          </Stats>
+          <Duration>15</Duration>
+          <Cooldown>45</Cooldown>
+          <Chance>0.15</Chance>
+          <MaxStack>1</MaxStack>
+        </SpecialEffect>
+        <SpecialEffect>
+          <Trigger>RangedHit</Trigger>
+          <Stats>
+            <AttackPower>400</AttackPower>
+          </Stats>
+          <Duration>10</Duration>
+          <Cooldown>45</Cooldown>
+          <Chance>0.15</Chance>
+          <MaxStack>1</MaxStack>
+        </SpecialEffect>
+      </SpecialEffects>
+      <SpecialEffectCount>2</SpecialEffectCount>
+      <Stamina>62</Stamina>
+      <Strength>61</Strength>
+      <CritRating>29</CritRating>
+      <ExpertiseRating>29</ExpertiseRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Подвеска мощи воина Расколотого Солнца</Name>
+    <Id>4</Id>
+    <Slot>Neck</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>213</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_jewelry_necklace_32</IconPath>
+    <Stats>
+      <SpecialEffects>
+        <SpecialEffect>
+          <Trigger>SpellHit</Trigger>
+          <Stats>
+            <SpellPower>1087</SpellPower>
+          </Stats>
+          <Duration>10</Duration>
+          <Cooldown>45</Cooldown>
+          <Chance>0.15</Chance>
+          <MaxStack>1</MaxStack>
+        </SpecialEffect>
+      </SpecialEffects>
+      <SpecialEffectCount>1</SpecialEffectCount>
+      <Stamina>49</Stamina>
+      <Intellect>39</Intellect>
+      <SpellPower>60</SpellPower>
+      <HitRating>24</HitRating>
+      <HasteRating>34</HasteRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Подвеска проницательности воина Расколотого Солнца</Name>
+    <Id>5</Id>
+    <Slot>Neck</Slot>
+  </Item>
+  <Item>
     <ItemLevel>1</ItemLevel>
     <DisplayId>9891</DisplayId>
     <DisplaySlot>4</DisplaySlot>
@@ -824,6 +973,66 @@
     <Slot>Finger</Slot>
   </Item>
   <Item>
+    <ItemLevel>239</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_qirajidol_rebirth</IconPath>
+    <Stats>
+      <SpecialEffects>
+        <SpecialEffect>
+          <Trigger>Use</Trigger>
+          <Stats>
+            <Armor>11028</Armor>
+          </Stats>
+          <Duration>20</Duration>
+          <Cooldown>120</Cooldown>
+          <Chance>1</Chance>
+          <MaxStack>1</MaxStack>
+        </SpecialEffect>
+      </SpecialEffects>
+      <SpecialEffectCount>1</SpecialEffectCount>
+      <BlockRating>120</BlockRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <Unique>true</Unique>
+    <SocketBonus />
+    <Name>Статуэтка Колосса</Name>
+    <Id>27529</Id>
+    <Slot>Trinket</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>226</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_misc_gem_pearl_01</IconPath>
+    <Stats>
+      <SpecialEffects>
+        <SpecialEffect>
+          <Trigger>Use</Trigger>
+          <Stats>
+            <CritRating>980</CritRating>
+          </Stats>
+          <Duration>20</Duration>
+          <Cooldown>60</Cooldown>
+          <Chance>1</Chance>
+          <MaxStack>1</MaxStack>
+        </SpecialEffect>
+      </SpecialEffects>
+      <SpecialEffectCount>1</SpecialEffectCount>
+      <SpellPower>94</SpellPower>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <Unique>true</Unique>
+    <SocketBonus />
+    <Name>Око Зыбуна</Name>
+    <Id>27683</Id>
+    <Slot>Trinket</Slot>
+  </Item>
+  <Item>
     <ItemLevel>226</ItemLevel>
     <DisplayId>0</DisplayId>
     <DisplaySlot>0</DisplaySlot>
@@ -874,6 +1083,35 @@
     <ItemLevel>226</ItemLevel>
     <DisplayId>0</DisplayId>
     <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_misc_armorkit_22</IconPath>
+    <Stats>
+      <SpecialEffects>
+        <SpecialEffect>
+          <Trigger>Use</Trigger>
+          <Stats>
+            <DamageAbsorbed>17400</DamageAbsorbed>
+          </Stats>
+          <Duration>10</Duration>
+          <Cooldown>120</Cooldown>
+          <Chance>1</Chance>
+          <MaxStack>1</MaxStack>
+        </SpecialEffect>
+      </SpecialEffects>
+      <SpecialEffectCount>1</SpecialEffectCount>
+      <Stamina>159</Stamina>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Аргуссианский компас</Name>
+    <Id>27770</Id>
+    <Slot>Trinket</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>226</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
     <IconPath>inv_shield_34</IconPath>
     <Stats>
       <Armor>7891</Armor>
@@ -892,6 +1130,266 @@
     <Name>Щит обновления</Name>
     <Id>27772</Id>
     <Slot>OffHand</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>239</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_qirajidol_sage</IconPath>
+    <Stats>
+      <SpecialEffects>
+        <SpecialEffect>
+          <Trigger>Use</Trigger>
+          <Stats>
+            <Health>8292</Health>
+          </Stats>
+          <Duration>15</Duration>
+          <Cooldown>120</Cooldown>
+          <Chance>1</Chance>
+          <MaxStack>1</MaxStack>
+        </SpecialEffect>
+      </SpecialEffects>
+      <SpecialEffectCount>1</SpecialEffectCount>
+      <DodgeRating>120</DodgeRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <Unique>true</Unique>
+    <SocketBonus />
+    <Name>Адамантиновая статуэтка</Name>
+    <Id>27821</Id>
+    <Slot>Trinket</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>226</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_scarab_crystal</IconPath>
+    <Stats>
+      <SpecialEffects>
+        <SpecialEffect>
+          <Trigger>DamageSpellCast</Trigger>
+          <Stats>
+            <SpellPower>19</SpellPower>
+          </Stats>
+          <Duration>15</Duration>
+          <Cooldown>0</Cooldown>
+          <Chance>0.2</Chance>
+          <MaxStack>10</MaxStack>
+        </SpecialEffect>
+      </SpecialEffects>
+      <SpecialEffectCount>1</SpecialEffectCount>
+      <CritRating>77</CritRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <Unique>true</Unique>
+    <SocketBonus />
+    <Name>Покореженная скарабеем брошь</Name>
+    <Id>27828</Id>
+    <Slot>Trinket</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>226</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_potion_130</IconPath>
+    <Stats>
+      <SpecialEffects>
+        <SpecialEffect>
+          <Trigger>DamageSpellHit</Trigger>
+          <Stats>
+            <Mp5>195</Mp5>
+          </Stats>
+          <Duration>15</Duration>
+          <Cooldown>0</Cooldown>
+          <Chance>0.2</Chance>
+          <MaxStack>1</MaxStack>
+        </SpecialEffect>
+      </SpecialEffects>
+      <SpecialEffectCount>1</SpecialEffectCount>
+      <Spirit>79</Spirit>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <Unique>true</Unique>
+    <SocketBonus />
+    <Name>Перегонный куб мощи преисподней</Name>
+    <Id>27896</Id>
+    <Slot>Trinket</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>239</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_misc_gem_lionseye_01</IconPath>
+    <Stats>
+      <SpecialEffects>
+        <SpecialEffect>
+          <Trigger>MeleeHit</Trigger>
+          <Stats>
+            <HasteRating>726</HasteRating>
+          </Stats>
+          <Duration>10</Duration>
+          <Cooldown>45</Cooldown>
+          <Chance>0.2</Chance>
+          <MaxStack>1</MaxStack>
+        </SpecialEffect>
+        <SpecialEffect>
+          <Trigger>RangedHit</Trigger>
+          <Stats>
+            <HasteRating>726</HasteRating>
+          </Stats>
+          <Duration>10</Duration>
+          <Cooldown>45</Cooldown>
+          <Chance>0.2</Chance>
+          <MaxStack>1</MaxStack>
+        </SpecialEffect>
+      </SpecialEffects>
+      <SpecialEffectCount>2</SpecialEffectCount>
+      <AttackPower>240</AttackPower>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <Unique>true</Unique>
+    <SocketBonus />
+    <Name>Самоцвет таинственного чудотворца</Name>
+    <Id>27900</Id>
+    <Slot>Trinket</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>226</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_brd_banner</IconPath>
+    <Stats>
+      <SpecialEffects>
+        <SpecialEffect>
+          <Trigger>MeleeHit</Trigger>
+          <Stats>
+            <ArmorPenetrationRating>665</ArmorPenetrationRating>
+          </Stats>
+          <Duration>10</Duration>
+          <Cooldown>45</Cooldown>
+          <Chance>0.2</Chance>
+          <MaxStack>1</MaxStack>
+        </SpecialEffect>
+        <SpecialEffect>
+          <Trigger>RangedHit</Trigger>
+          <Stats>
+            <ArmorPenetrationRating>665</ArmorPenetrationRating>
+          </Stats>
+          <Duration>10</Duration>
+          <Cooldown>45</Cooldown>
+          <Chance>0.2</Chance>
+          <MaxStack>1</MaxStack>
+        </SpecialEffect>
+      </SpecialEffects>
+      <SpecialEffectCount>2</SpecialEffectCount>
+      <HitRating>96</HitRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <Unique>true</Unique>
+    <SocketBonus />
+    <Name>Хоругвь непреклонной отваги</Name>
+    <Id>28121</Id>
+    <Slot>Trinket</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>239</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_misc_enggizmos_18</IconPath>
+    <Stats>
+      <SpecialEffects>
+        <SpecialEffect>
+          <Trigger>SpellHit</Trigger>
+          <Stats>
+            <HasteRating>865</HasteRating>
+          </Stats>
+          <Duration>20</Duration>
+          <Cooldown>45</Cooldown>
+          <Chance>0.2</Chance>
+          <MaxStack>1</MaxStack>
+        </SpecialEffect>
+      </SpecialEffects>
+      <SpecialEffectCount>1</SpecialEffectCount>
+      <CritRating>120</CritRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <Unique>true</Unique>
+    <SocketBonus />
+    <Name>Абак Сильных расхождений</Name>
+    <Id>28288</Id>
+    <Slot>Trinket</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>239</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_jewelry_necklace_27</IconPath>
+    <Stats>
+      <SpecialEffects>
+        <SpecialEffect>
+          <Trigger>DamageSpellCast</Trigger>
+          <Stats>
+            <Mp5>241</Mp5>
+          </Stats>
+          <Duration>15</Duration>
+          <Cooldown>0</Cooldown>
+          <Chance>0.1</Chance>
+          <MaxStack>1</MaxStack>
+        </SpecialEffect>
+      </SpecialEffects>
+      <SpecialEffectCount>1</SpecialEffectCount>
+      <SpellPower>140</SpellPower>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <Unique>true</Unique>
+    <SocketBonus />
+    <Name>Браслет Нескончаемого Блаженства</Name>
+    <Id>28370</Id>
+    <Slot>Trinket</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>239</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_gizmo_elementalblastingpowder</IconPath>
+    <Stats>
+      <SpecialEffects>
+        <SpecialEffect>
+          <Trigger>DamageSpellHit</Trigger>
+          <Stats>
+            <SpellPower>850</SpellPower>
+          </Stats>
+          <Duration>10</Duration>
+          <Cooldown>45</Cooldown>
+          <Chance>0.2</Chance>
+          <MaxStack>0</MaxStack>
+        </SpecialEffect>
+      </SpecialEffects>
+      <SpecialEffectCount>1</SpecialEffectCount>
+      <CritRating>120</CritRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <Unique>true</Unique>
+    <SocketBonus />
+    <Name>Астральный рог Шиффара</Name>
+    <Id>28418</Id>
+    <Slot>Trinket</Slot>
   </Item>
   <Item>
     <ItemLevel>60</ItemLevel>
@@ -1777,7 +2275,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Tome of Arcane Phenomena</Name>
+    <Name>Фолиант магических феноменов</Name>
     <Id>36972</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -2209,7 +2707,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Seal of the Pantheon</Name>
+    <Name>Печать Пантеона</Name>
     <Id>36993</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -2710,7 +3208,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Vestige of Haldor</Name>
+    <Name>Останки Галдора</Name>
     <Id>37064</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -3162,7 +3660,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Discarded Silver Hand Spaulders</Name>
+    <Name>Бракованный наплеч Серебряной длани</Name>
     <Id>37109</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -3215,7 +3713,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Soul Preserver</Name>
+    <Name>Резервуар для душ</Name>
     <Id>37111</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -3322,7 +3820,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Epaulets of Market Row</Name>
+    <Name>Эполеты торгового ряда</Name>
     <Id>37116</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -3694,7 +4192,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Sphere of Red Dragon's Blood</Name>
+    <Name>Сфера крови красного дракона</Name>
     <Id>37166</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -4366,7 +4864,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Essence of Gossamer</Name>
+    <Name>Квинтэссенция паутины</Name>
     <Id>37220</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -4661,7 +5159,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Super Simian Sphere</Name>
+    <Name>Сфера сверхобезьяны</Name>
     <Id>37254</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -4868,7 +5366,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Pendulum of Telluric Currents</Name>
+    <Name>Маятник теллурических токов</Name>
     <Id>37264</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -5362,7 +5860,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Ferocious Pauldrons of the Rhino</Name>
+    <Name>Панцирное наплечье свирепости</Name>
     <Id>37376</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -5490,7 +5988,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Meteorite Whetstone</Name>
+    <Name>Метеоритный оселок</Name>
     <Id>37390</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -6435,7 +6933,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Offering of Sacrifice</Name>
+    <Name>Жертвоприношение</Name>
     <Id>37638</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -6827,7 +7325,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Spark of Life</Name>
+    <Name>Искра жизни</Name>
     <Id>37657</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -6882,7 +7380,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Forge Ember</Name>
+    <Name>Кузнечный жар</Name>
     <Id>37660</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -7680,7 +8178,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Incisor Fragment</Name>
+    <Name>Кусок резца</Name>
     <Id>37723</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -7906,7 +8404,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Talisman of Troll Divinity</Name>
+    <Name>Талисман тролльского божества</Name>
     <Id>37734</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -8204,7 +8702,7 @@
     <Unique>true</Unique>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Je'Tze's Bell</Name>
+    <Name>Колокол Дже'Тце</Name>
     <Id>37835</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -8322,7 +8820,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Winged Talisman</Name>
+    <Name>Крылатый талисман</Name>
     <Id>37844</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -8816,7 +9314,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Lavanthor's Talisman</Name>
+    <Name>Талисман Лавантора</Name>
     <Id>37872</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -8847,7 +9345,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Mark of the War Prisoner</Name>
+    <Name>Метка арестанта</Name>
     <Id>37873</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -9070,7 +9568,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Death Knight's Anguish</Name>
+    <Name>Мука рыцаря смерти</Name>
     <Id>38212</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -9243,7 +9741,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Arcane Revitalizer</Name>
+    <Name>Магический оживитель</Name>
     <Id>38358</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -9261,7 +9759,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Goblin Repetition Reducer</Name>
+    <Name>Гоблинский гаситель повторений</Name>
     <Id>38359</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -9714,7 +10212,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Mendicant's Charm</Name>
+    <Name>Оберег монаха</Name>
     <Id>38760</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -9744,7 +10242,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Talon of Hatred</Name>
+    <Name>Коготь ненависти</Name>
     <Id>38761</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -9774,7 +10272,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Insignia of Bloody Fire</Name>
+    <Name>Знак кровавого пекла</Name>
     <Id>38762</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -9804,7 +10302,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Futuresight Rune</Name>
+    <Name>Руна предвидения</Name>
     <Id>38763</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -9834,7 +10332,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Rune of Finite Variation</Name>
+    <Name>Руна конечной вариации</Name>
     <Id>38764</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -9864,7 +10362,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Rune of Infinite Power</Name>
+    <Name>Руна беспредельной силы</Name>
     <Id>38765</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -10469,7 +10967,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Embrace of the Spider</Name>
+    <Name>Облачение Паука</Name>
     <Id>39229</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -11061,7 +11559,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Loatheb's Shadow</Name>
+    <Name>Тень Лотхиба</Name>
     <Id>39257</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -11627,7 +12125,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Repelling Charge</Name>
+    <Name>Опровергатель</Name>
     <Id>39292</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -12080,7 +12578,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Spirit-World Glass</Name>
+    <Name>Стеклышко духовного мира</Name>
     <Id>39388</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -15997,7 +16495,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Epaulets of the Grieving Servant</Name>
+    <Name>Эполеты скорбящего слуги</Name>
     <Id>39725</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -16533,7 +17031,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Badge of the Infiltrator</Name>
+    <Name>Знак засланца</Name>
     <Id>39811</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -16563,7 +17061,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Spiritist's Focus</Name>
+    <Name>Средоточие медиума</Name>
     <Id>39821</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -16623,7 +17121,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Horn of Argent Fury</Name>
+    <Name>Рог серебряного неистовства</Name>
     <Id>39889</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -21567,7 +22065,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Dying Curse</Name>
+    <Name>Исчезающее проклятие</Name>
     <Id>40255</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -21598,7 +22096,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Grim Toll</Name>
+    <Name>Мрачный перезвон</Name>
     <Id>40256</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -21629,7 +22127,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Defender's Code</Name>
+    <Name>Кодекс защитника</Name>
     <Id>40257</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -23753,7 +24251,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Bandit's Insignia</Name>
+    <Name>Знак отличия Бандита</Name>
     <Id>40371</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -23784,7 +24282,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Rune of Repulsion</Name>
+    <Name>Руна отражения</Name>
     <Id>40372</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -23816,7 +24314,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Extract of Necromantic Power</Name>
+    <Name>Экстракт некромантского могущества</Name>
     <Id>40373</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -24036,7 +24534,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Soul of the Dead</Name>
+    <Name>Душа умершего</Name>
     <Id>40382</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -24939,7 +25437,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Majestic Dragon Figurine</Name>
+    <Name>Величественная статуэтка дракона</Name>
     <Id>40430</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -24969,7 +25467,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Fury of the Five Flights</Name>
+    <Name>Неистовство Пяти полетов</Name>
     <Id>40431</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -24999,7 +25497,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Illustration of the Dragon Soul</Name>
+    <Name>Изображение Души Дракона</Name>
     <Id>40432</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -26992,7 +27490,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Mark of Norgannon</Name>
+    <Name>Знак Норганнона</Name>
     <Id>40531</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -27023,7 +27521,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Living Ice Crystals</Name>
+    <Name>Кристаллы живого льда</Name>
     <Id>40532</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -28209,7 +28707,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Elevated Lair Pauldrons</Name>
+    <Name>Наплечье высокого гнезда</Name>
     <Id>40590</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -28414,7 +28912,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Sundial of the Exiled</Name>
+    <Name>Солнечные часы изгнанника</Name>
     <Id>40682</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -28445,7 +28943,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Valor Medal of the First War</Name>
+    <Name>Медаль Первой войны "За отвагу"</Name>
     <Id>40683</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -28476,7 +28974,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Mirror of Truth</Name>
+    <Name>Правдивое зеркальце</Name>
     <Id>40684</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -28507,7 +29005,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>The Egg of Mortal Essence</Name>
+    <Name>Яйцо смертной сущности</Name>
     <Id>40685</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -29741,7 +30239,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Sonic Booster</Name>
+    <Name>Усилитель звука</Name>
     <Id>40767</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -31616,7 +32114,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Deadly Gladiator's Scaled Shoulders</Name>
+    <Name>Чешуйчатые наплечники смертоносного гладиатора</Name>
     <Id>40864</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -31646,7 +32144,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Noise Machine</Name>
+    <Name>Генератор шума</Name>
     <Id>40865</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -34185,7 +34683,7 @@
     <SocketBonus>
       <Mp5>2</Mp5>
     </SocketBonus>
-    <Name>Deadly Gladiator's Ringmail Spaulders</Name>
+    <Name>Кольчатый наплеч смертоносного гладиатора</Name>
     <Id>41037</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -35131,7 +35629,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Gnomish Lightning Generator</Name>
+    <Name>Гномский генератор молний</Name>
     <Id>41121</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -37044,7 +37542,7 @@
     <SocketBonus>
       <Spirit>4</Spirit>
     </SocketBonus>
-    <Name>Deadly Gladiator's Wyrmhide Spaulders</Name>
+    <Name>Наплеч смертоносного гладиатора из шкуры змея</Name>
     <Id>41280</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -44000,7 +44498,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Deadly Gladiator's Satin Mantle</Name>
+    <Name>Атласная мантия смертоносного гладиатора</Name>
     <Id>41933</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -44690,7 +45188,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Deadly Gladiator's Silk Amice</Name>
+    <Name>Шелковый нарамник смертоносного гладиатора</Name>
     <Id>41964</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -46906,7 +47404,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Medallion of the Alliance</Name>
+    <Name>Медальон Альянса</Name>
     <Id>42124</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -46925,7 +47423,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Medallion of the Horde</Name>
+    <Name>Медальон Орды</Name>
     <Id>42126</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -46955,7 +47453,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Battlemaster's Hostility</Name>
+    <Name>Злость Военачальника</Name>
     <Id>42128</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -46985,7 +47483,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Battlemaster's Accuracy</Name>
+    <Name>Меткость Военачальника</Name>
     <Id>42129</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -47015,7 +47513,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Battlemaster's Avidity</Name>
+    <Name>Алчность Военачальника</Name>
     <Id>42130</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -47045,7 +47543,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Battlemaster's Conviction</Name>
+    <Name>Убежденность Военачальника</Name>
     <Id>42131</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -47075,7 +47573,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Battlemaster's Bravery</Name>
+    <Name>Смелость Военачальника</Name>
     <Id>42132</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -47105,7 +47603,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Battlemaster's Fury</Name>
+    <Name>Ярость военачальника</Name>
     <Id>42133</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -47135,7 +47633,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Battlemaster's Precision</Name>
+    <Name>Точность военачальника</Name>
     <Id>42134</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -47165,7 +47663,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Battlemaster's Vivacity</Name>
+    <Name>Бодрость военачальника</Name>
     <Id>42135</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -47195,7 +47693,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Battlemaster's Rage</Name>
+    <Name>Неистовство военачальника</Name>
     <Id>42136</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -47225,7 +47723,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Battlemaster's Ruination</Name>
+    <Name>Опустошение военачальника</Name>
     <Id>42137</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -47570,7 +48068,7 @@
     <SocketBonus>
       <Stamina>9</Stamina>
     </SocketBonus>
-    <Name>Figurine - Ruby Hare</Name>
+    <Name>Статуэтка рубинового зайца</Name>
     <Id>42341</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -47815,7 +48313,7 @@
     <SocketBonus>
       <SpellPower>7</SpellPower>
     </SocketBonus>
-    <Name>Figurine - Twilight Serpent</Name>
+    <Name>Статуэтка сумеречного змея</Name>
     <Id>42395</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -47850,7 +48348,7 @@
     <SocketBonus>
       <Mp5>2</Mp5>
     </SocketBonus>
-    <Name>Figurine - Sapphire Owl</Name>
+    <Name>Статуэтка сапфировой совы</Name>
     <Id>42413</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -47872,7 +48370,7 @@
     <SocketBonus>
       <AttackPower>12</AttackPower>
     </SocketBonus>
-    <Name>Figurine - Emerald Boar</Name>
+    <Name>Статуэтка изумрудного вепря</Name>
     <Id>42418</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -48531,7 +49029,7 @@
     <Unique>true</Unique>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Darkmoon Card: Greatness</Name>
+    <Name>Карта Новолуния: Величие</Name>
     <Id>42987</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -48562,7 +49060,7 @@
     <Unique>true</Unique>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Darkmoon Card: Illusion</Name>
+    <Name>Карта Новолуния: Иллюзия</Name>
     <Id>42988</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -48580,7 +49078,7 @@
     <Unique>true</Unique>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Darkmoon Card: Berserker!</Name>
+    <Name>Карта Новолуния: Берсерк!</Name>
     <Id>42989</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -48612,7 +49110,7 @@
     <Unique>true</Unique>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Darkmoon Card: Death</Name>
+    <Name>Карта Новолуния: Смерть</Name>
     <Id>42990</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -49870,7 +50368,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Eviscerator's Shoulderpads</Name>
+    <Name>Наплечные пластины потрошителя</Name>
     <Id>43433</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -50642,7 +51140,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Deputy Pa'trolla Badge</Name>
+    <Name>Знак делегата Па'тролла</Name>
     <Id>43555</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -50715,7 +51213,7 @@
     <Unique>true</Unique>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Tears of Bitter Anguish</Name>
+    <Name>Слезы горькой тоски</Name>
     <Id>43573</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -51126,7 +51624,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Crusader's Locket</Name>
+    <Name>Медальон рыцаря</Name>
     <Id>43829</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -51156,7 +51654,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Thorny Rose Brooch</Name>
+    <Name>Брошь в виде розы с шипами</Name>
     <Id>43836</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -51186,7 +51684,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Softly Glowing Orb</Name>
+    <Name>Мягко светящаяся сфера</Name>
     <Id>43837</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -51226,7 +51724,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Chuchu's Tiny Box of Horrors</Name>
+    <Name>Шкатулочка страхов Чучу</Name>
     <Id>43838</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -51994,7 +52492,7 @@
     <SocketBonus>
       <Stamina>9</Stamina>
     </SocketBonus>
-    <Name>Figurine - Monarch Crab</Name>
+    <Name>Статуэтка королевского краба</Name>
     <Id>44063</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -52028,7 +52526,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Frenzyheart Insignia of Fury</Name>
+    <Name>Знак неистовства Бешеного Сердца</Name>
     <Id>44073</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -52045,7 +52543,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Oracle Talisman of Ablution</Name>
+    <Name>Оракульский талисман омовения</Name>
     <Id>44074</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -53461,7 +53959,7 @@
     <Unique>true</Unique>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Darkmoon Card: Greatness</Name>
+    <Name>Карта Новолуния: Величие</Name>
     <Id>44253</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -53492,7 +53990,7 @@
     <Unique>true</Unique>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Darkmoon Card: Greatness</Name>
+    <Name>Карта Новолуния: Величие</Name>
     <Id>44254</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -53523,7 +54021,7 @@
     <Unique>true</Unique>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Darkmoon Card: Greatness</Name>
+    <Name>Карта Новолуния: Величие</Name>
     <Id>44255</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -53937,7 +54435,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Mercurial Alchemist Stone</Name>
+    <Name>Переменчивый алхимический камень</Name>
     <Id>44322</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -53958,7 +54456,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Indestructible Alchemist's Stone</Name>
+    <Name>Несокрушимый алхимический камень</Name>
     <Id>44323</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -53979,7 +54477,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Mighty Alchemist's Stone</Name>
+    <Name>Могущественный алхимический камень</Name>
     <Id>44324</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -55240,7 +55738,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Flow of Knowledge</Name>
+    <Name>Поток знаний</Name>
     <Id>44912</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -55271,7 +55769,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Anvil of Titans</Name>
+    <Name>Наковальня Титанов</Name>
     <Id>44914</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -55974,7 +56472,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Jouster's Fury</Name>
+    <Name>Ярость бретера</Name>
     <Id>45131</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -56404,7 +56902,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Living Flame</Name>
+    <Name>Живой жар</Name>
     <Id>45148</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -56631,7 +57129,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Heart of Iron</Name>
+    <Name>Железное сердце</Name>
     <Id>45158</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -57492,7 +57990,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Jouster's Fury</Name>
+    <Name>Ярость бретера</Name>
     <Id>45219</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -58455,7 +58953,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Wrathstone</Name>
+    <Name>Колдовской камень</Name>
     <Id>45263</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -58865,7 +59363,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Pyrite Infuser</Name>
+    <Name>Колчедановый нагнетатель</Name>
     <Id>45286</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -58991,7 +59489,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Energy Siphon</Name>
+    <Name>Вытягивание энергии</Name>
     <Id>45292</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -59507,7 +60005,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Furnace Stone</Name>
+    <Name>Печной камень</Name>
     <Id>45313</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -63366,7 +63864,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Scale of Fates</Name>
+    <Name>Чешуйка судеб</Name>
     <Id>45466</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -63866,7 +64364,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Pandora's Plea</Name>
+    <Name>Мольба Пандоры</Name>
     <Id>45490</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -64201,7 +64699,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>The General's Heart</Name>
+    <Name>Сердце генерала</Name>
     <Id>45507</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -64484,7 +64982,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Flare of the Heavens</Name>
+    <Name>Небесная вспышка</Name>
     <Id>45518</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -64591,7 +65089,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Blood of the Old God</Name>
+    <Name>Кровь древнего бога</Name>
     <Id>45522</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -64869,7 +65367,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Show of Faith</Name>
+    <Name>Доказательство веры</Name>
     <Id>45535</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -65863,7 +66361,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Comet's Trail</Name>
+    <Name>Хвост кометы</Name>
     <Id>45609</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -66863,7 +67361,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Spark of Hope</Name>
+    <Name>Искра надежды</Name>
     <Id>45703</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -67939,7 +68437,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Elemental Focus Stone</Name>
+    <Name>Камень средоточия стихий</Name>
     <Id>45866</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -68519,7 +69017,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Sif's Remembrance</Name>
+    <Name>Воспоминание Сиф</Name>
     <Id>45929</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -68577,7 +69075,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Mjolnir Runestone</Name>
+    <Name>Рунический камень Мьольнира</Name>
     <Id>45931</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -69514,7 +70012,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Royal Seal of King Llane</Name>
+    <Name>Печать короля Ллейна</Name>
     <Id>46021</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -69844,7 +70342,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Dark Matter</Name>
+    <Name>Темная сущность</Name>
     <Id>46038</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -70165,7 +70663,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Meteorite Crystal</Name>
+    <Name>Метеоритный кристалл</Name>
     <Id>46051</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -70786,7 +71284,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Titan-Forged Rune of Audacity</Name>
+    <Name>Руна отваги из кузни титанов</Name>
     <Id>46081</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -70805,7 +71303,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Titan-Forged Rune of Determination</Name>
+    <Name>Руна решимости из кузни титанов</Name>
     <Id>46082</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -70824,7 +71322,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Titan-Forged Rune of Accuracy</Name>
+    <Name>Руна меткости из кузни титанов</Name>
     <Id>46083</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -70843,7 +71341,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Titan-Forged Rune of Cruelty</Name>
+    <Name>Руна жестокости из кузни титанов</Name>
     <Id>46084</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -70862,7 +71360,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Titan-Forged Rune of Alacrity</Name>
+    <Name>Руна рвения из кузни титанов</Name>
     <Id>46085</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -70893,7 +71391,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Platinum Disks of Battle</Name>
+    <Name>Платиновые диски битвы</Name>
     <Id>46086</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -70911,7 +71409,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Platinum Disks of Sorcery</Name>
+    <Name>Платиновые диски с печатью колдовства</Name>
     <Id>46087</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -70942,7 +71440,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Platinum Disks of Swiftness</Name>
+    <Name>Платиновые диски быстроты</Name>
     <Id>46088</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -73733,7 +74231,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Vanquished Clutches of Yogg-Saron</Name>
+    <Name>Ослабшая хватка Йогг-Сарона</Name>
     <Id>46312</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -75241,7 +75739,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Solace of the Defeated</Name>
+    <Name>Утешение поверженных</Name>
     <Id>47041</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -75480,7 +75978,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Solace of the Defeated</Name>
+    <Name>Утешение поверженных</Name>
     <Id>47059</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -75986,7 +76484,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Satrina's Impeding Scarab</Name>
+    <Name>Упрямый скарабей Сатрины</Name>
     <Id>47080</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -76198,7 +76696,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Satrina's Impeding Scarab</Name>
+    <Name>Упрямый скарабей Сатрины</Name>
     <Id>47088</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -76750,7 +77248,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Death's Verdict</Name>
+    <Name>Приговор смерти</Name>
     <Id>47115</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -76908,7 +77406,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Death's Verdict</Name>
+    <Name>Приговор смерти</Name>
     <Id>47131</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -77718,7 +78216,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Reign of the Unliving</Name>
+    <Name>Власть неживых</Name>
     <Id>47182</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -77875,7 +78373,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Reign of the Unliving</Name>
+    <Name>Власть неживых</Name>
     <Id>47188</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -78456,7 +78954,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Abyssal Rune</Name>
+    <Name>Руна Бездны</Name>
     <Id>47213</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -78487,7 +78985,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Banner of Victory</Name>
+    <Name>Знамя победы</Name>
     <Id>47214</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -78518,7 +79016,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Tears of the Vanquished</Name>
+    <Name>Слезы поверженных</Name>
     <Id>47215</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -78549,7 +79047,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>The Black Heart</Name>
+    <Name>Черное сердце</Name>
     <Id>47216</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -79807,7 +80305,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Solace of the Fallen</Name>
+    <Name>Утешение павших</Name>
     <Id>47271</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -80266,7 +80764,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Juggernaut's Vitality</Name>
+    <Name>Жизненная сила слепого поклонения</Name>
     <Id>47290</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -80587,7 +81085,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Death's Choice</Name>
+    <Name>Выбор смерти</Name>
     <Id>47303</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -80897,7 +81395,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Reign of the Dead</Name>
+    <Name>Власть мертвых</Name>
     <Id>47316</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -81794,7 +82292,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Solace of the Fallen</Name>
+    <Name>Утешение павших</Name>
     <Id>47432</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -82286,7 +82784,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Juggernaut's Vitality</Name>
+    <Name>Жизненная сила слепого поклонения</Name>
     <Id>47451</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -82629,7 +83127,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Death's Choice</Name>
+    <Name>Выбор смерти</Name>
     <Id>47464</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -82963,7 +83461,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Reign of the Dead</Name>
+    <Name>Власть мертвых</Name>
     <Id>47477</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -87246,7 +87744,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Epaulets of the Devourer</Name>
+    <Name>Эполеты пожирателя</Name>
     <Id>47704</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -87347,7 +87845,7 @@
     <SocketBonus>
       <AttackPower>8</AttackPower>
     </SocketBonus>
-    <Name>Duskstalker Shoulderpads</Name>
+    <Name>Наплечные пластины закатного ловца</Name>
     <Id>47708</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -87372,7 +87870,7 @@
     <SocketBonus>
       <AttackPower>8</AttackPower>
     </SocketBonus>
-    <Name>Duskstalker Pauldrons</Name>
+    <Name>Наплечье закатного ловца</Name>
     <Id>47709</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -87397,7 +87895,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Epaulets of the Fateful Accord</Name>
+    <Name>Эполеты рокового союза</Name>
     <Id>47710</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -87742,7 +88240,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Victor's Call</Name>
+    <Name>Зов победителя</Name>
     <Id>47725</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -87760,7 +88258,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Talisman of Volatile Power</Name>
+    <Name>Талисман неустойчивой силы</Name>
     <Id>47726</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -87803,7 +88301,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Fervor of the Frostborn</Name>
+    <Name>Рвение Зиморожденного</Name>
     <Id>47727</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -87846,7 +88344,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Binding Light</Name>
+    <Name>Связующий свет</Name>
     <Id>47728</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -87986,7 +88484,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Mark of Supremacy</Name>
+    <Name>Знак превосходства</Name>
     <Id>47734</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -88017,7 +88515,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Glyph of Indomitability</Name>
+    <Name>Символ неукротимости</Name>
     <Id>47735</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -91149,7 +91647,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Fetish of Volatile Power</Name>
+    <Name>Фетиш неустойчивой силы</Name>
     <Id>47879</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -91192,7 +91690,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Binding Stone</Name>
+    <Name>Связующий камень</Name>
     <Id>47880</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -91223,7 +91721,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Vengeance of the Forsaken</Name>
+    <Name>Отмщение Отрекшихся</Name>
     <Id>47881</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -91266,7 +91764,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Eitrigg's Oath</Name>
+    <Name>Клятва Эйтригга</Name>
     <Id>47882</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -92865,7 +93363,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Talisman of Volatile Power</Name>
+    <Name>Талисман неустойчивой силы</Name>
     <Id>47946</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -92908,7 +93406,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Binding Light</Name>
+    <Name>Связующий свет</Name>
     <Id>47947</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -92951,7 +93449,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Victor's Call</Name>
+    <Name>Зов победителя</Name>
     <Id>47948</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -92994,7 +93492,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Fervor of the Frostborn</Name>
+    <Name>Рвение Зиморожденного</Name>
     <Id>47949</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -94789,7 +95287,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Fetish of Volatile Power</Name>
+    <Name>Фетиш неустойчивой силы</Name>
     <Id>48018</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -94832,7 +95330,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Binding Stone</Name>
+    <Name>Связующий камень</Name>
     <Id>48019</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -94863,7 +95361,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Vengeance of the Forsaken</Name>
+    <Name>Отмщение Отрекшихся</Name>
     <Id>48020</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -94906,7 +95404,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Eitrigg's Oath</Name>
+    <Name>Клятва Эйтригга</Name>
     <Id>48021</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -110316,7 +110814,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Shard of the Crystal Heart</Name>
+    <Name>Осколок хрустального сердца</Name>
     <Id>48722</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -110347,7 +110845,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Talisman of Resurgence</Name>
+    <Name>Талисман восстановления</Name>
     <Id>48724</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -111015,7 +111513,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Coren's Chromium Coaster</Name>
+    <Name>Хромированная подставка Корена</Name>
     <Id>49074</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -111046,7 +111544,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Mithril Pocketwatch</Name>
+    <Name>Мифриловые карманные часы</Name>
     <Id>49076</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -111077,7 +111575,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Ancient Pickled Egg</Name>
+    <Name>Древнее маринованное яйцо</Name>
     <Id>49078</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -111108,7 +111606,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Brawler's Souvenir</Name>
+    <Name>Сувенир буяна</Name>
     <Id>49080</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -111162,7 +111660,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Bitter Balebrew Charm</Name>
+    <Name>Амулет горького темного пива</Name>
     <Id>49116</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -111180,7 +111678,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Bubbling Brightbrew Charm</Name>
+    <Name>Амулет пузырящегося светлого пива</Name>
     <Id>49118</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -111848,7 +112346,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Purified Shard of the Scale</Name>
+    <Name>Очищенный обломок чешуи</Name>
     <Id>49310</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -111868,7 +112366,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Purified Onyxia Blood Talisman</Name>
+    <Name>Очищенный кровный талисман Ониксии</Name>
     <Id>49312</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -112455,7 +112953,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Purified Shard of the Flame</Name>
+    <Name>Очищенная сфера пламени</Name>
     <Id>49463</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -112474,7 +112972,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Shiny Shard of the Flame</Name>
+    <Name>Блестящая сфера пламени</Name>
     <Id>49464</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -113105,7 +113603,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Shiny Shard of the Scale</Name>
+    <Name>Блестящий обломок чешуи</Name>
     <Id>49488</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -116967,7 +117465,7 @@
     <SocketBonus>
       <Agility>6</Agility>
     </SocketBonus>
-    <Name>Dual-Bladed Pauldrons</Name>
+    <Name>Наплечье заостренных лезвий</Name>
     <Id>50022</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -119464,7 +119962,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Needle-Encrusted Scorpion</Name>
+    <Name>Покрытый иглами скорпион</Name>
     <Id>50198</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -119963,7 +120461,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Ick's Rotting Thumb</Name>
+    <Name>Гниющий палец Ика</Name>
     <Id>50235</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -120148,7 +120646,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Nevermelting Ice Crystal</Name>
+    <Name>Нетающий кристалл льда</Name>
     <Id>50259</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -120188,7 +120686,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Ephemeral Snowflake</Name>
+    <Name>Эфемерная снежинка</Name>
     <Id>50260</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -121504,7 +122002,7 @@
     <SocketBonus />
     <UniqueId>50339</UniqueId>
     <UniqueId>50346</UniqueId>
-    <Name>Sliver of Pure Ice</Name>
+    <Name>Осколок чистейшего льда</Name>
     <Id>50339</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -121537,7 +122035,7 @@
     <SocketBonus />
     <UniqueId>50340</UniqueId>
     <UniqueId>50345</UniqueId>
-    <Name>Muradin's Spyglass</Name>
+    <Name>Подзорная труба Мурадина</Name>
     <Id>50340</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -121570,7 +122068,7 @@
     <SocketBonus />
     <UniqueId>50341</UniqueId>
     <UniqueId>50344</UniqueId>
-    <Name>Unidentifiable Organ</Name>
+    <Name>Неизвестный орган</Name>
     <Id>50341</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -121603,7 +122101,7 @@
     <SocketBonus />
     <UniqueId>50342</UniqueId>
     <UniqueId>50343</UniqueId>
-    <Name>Whispering Fanged Skull</Name>
+    <Name>Шепчущий клыкастый череп</Name>
     <Id>50342</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -121636,7 +122134,7 @@
     <SocketBonus />
     <UniqueId>50342</UniqueId>
     <UniqueId>50343</UniqueId>
-    <Name>Whispering Fanged Skull</Name>
+    <Name>Шепчущий клыкастый череп</Name>
     <Id>50343</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -121669,7 +122167,7 @@
     <SocketBonus />
     <UniqueId>50341</UniqueId>
     <UniqueId>50344</UniqueId>
-    <Name>Unidentifiable Organ</Name>
+    <Name>Неизвестный орган</Name>
     <Id>50344</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -121702,7 +122200,7 @@
     <SocketBonus />
     <UniqueId>50340</UniqueId>
     <UniqueId>50345</UniqueId>
-    <Name>Muradin's Spyglass</Name>
+    <Name>Подзорная труба Мурадина</Name>
     <Id>50345</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -121735,7 +122233,7 @@
     <SocketBonus />
     <UniqueId>50339</UniqueId>
     <UniqueId>50346</UniqueId>
-    <Name>Sliver of Pure Ice</Name>
+    <Name>Осколок чистейшего льда</Name>
     <Id>50346</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -121768,7 +122266,7 @@
     <SocketBonus />
     <UniqueId>50353</UniqueId>
     <UniqueId>50348</UniqueId>
-    <Name>Dislodged Foreign Object</Name>
+    <Name>Объект из другого измерения</Name>
     <Id>50348</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -121801,7 +122299,7 @@
     <SocketBonus />
     <UniqueId>50352</UniqueId>
     <UniqueId>50349</UniqueId>
-    <Name>Corpse Tongue Coin</Name>
+    <Name>Монета на удачу</Name>
     <Id>50349</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -121834,7 +122332,7 @@
     <SocketBonus />
     <UniqueId>50351</UniqueId>
     <UniqueId>50706</UniqueId>
-    <Name>Tiny Abomination in a Jar</Name>
+    <Name>Миниатюрное поганище в колбе</Name>
     <Id>50351</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -121867,7 +122365,7 @@
     <SocketBonus />
     <UniqueId>50352</UniqueId>
     <UniqueId>50349</UniqueId>
-    <Name>Corpse Tongue Coin</Name>
+    <Name>Монета на удачу</Name>
     <Id>50352</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -121900,7 +122398,7 @@
     <SocketBonus />
     <UniqueId>50353</UniqueId>
     <UniqueId>50348</UniqueId>
-    <Name>Dislodged Foreign Object</Name>
+    <Name>Объект из другого измерения</Name>
     <Id>50353</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -121920,7 +122418,7 @@
     <SocketBonus />
     <UniqueId>50354</UniqueId>
     <UniqueId>50726</UniqueId>
-    <Name>Bauble of True Blood</Name>
+    <Name>Подвеска истинной крови</Name>
     <Id>50354</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -121951,7 +122449,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Herkuml War Token</Name>
+    <Name>Геркумлийский боевой знак</Name>
     <Id>50355</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -121982,7 +122480,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Corroded Skeleton Key</Name>
+    <Name>Проржавевший костяной ключ</Name>
     <Id>50356</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -122013,7 +122511,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Maghia's Misguided Quill</Name>
+    <Name>Заговоренное перо Магхиа</Name>
     <Id>50357</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -122044,7 +122542,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Purified Lunar Dust</Name>
+    <Name>Очищенная лунная пыль</Name>
     <Id>50358</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -122077,7 +122575,7 @@
     <SocketBonus />
     <UniqueId>50359</UniqueId>
     <UniqueId>50366</UniqueId>
-    <Name>Althor's Abacus</Name>
+    <Name>Счеты Алтора</Name>
     <Id>50359</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -122110,7 +122608,7 @@
     <SocketBonus />
     <UniqueId>50360</UniqueId>
     <UniqueId>50365</UniqueId>
-    <Name>Phylactery of the Nameless Lich</Name>
+    <Name>Талисман безымянного лича</Name>
     <Id>50360</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -122147,7 +122645,7 @@
     <SocketBonus />
     <UniqueId>50361</UniqueId>
     <UniqueId>50364</UniqueId>
-    <Name>Sindragosa's Flawless Fang</Name>
+    <Name>Безупречный клык Синдрагосы</Name>
     <Id>50361</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -122180,7 +122678,7 @@
     <SocketBonus />
     <UniqueId>50362</UniqueId>
     <UniqueId>50363</UniqueId>
-    <Name>Deathbringer's Will</Name>
+    <Name>Воля Смертоносного</Name>
     <Id>50362</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -122213,7 +122711,7 @@
     <SocketBonus />
     <UniqueId>50362</UniqueId>
     <UniqueId>50363</UniqueId>
-    <Name>Deathbringer's Will</Name>
+    <Name>Воля Смертоносного</Name>
     <Id>50363</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -122250,7 +122748,7 @@
     <SocketBonus />
     <UniqueId>50361</UniqueId>
     <UniqueId>50364</UniqueId>
-    <Name>Sindragosa's Flawless Fang</Name>
+    <Name>Безупречный клык Синдрагосы</Name>
     <Id>50364</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -122283,7 +122781,7 @@
     <SocketBonus />
     <UniqueId>50360</UniqueId>
     <UniqueId>50365</UniqueId>
-    <Name>Phylactery of the Nameless Lich</Name>
+    <Name>Талисман безымянного лича</Name>
     <Id>50365</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -122316,7 +122814,7 @@
     <SocketBonus />
     <UniqueId>50359</UniqueId>
     <UniqueId>50366</UniqueId>
-    <Name>Althor's Abacus</Name>
+    <Name>Счеты Алтора</Name>
     <Id>50366</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -125829,7 +126327,7 @@
     <SocketBonus>
       <Agility>6</Agility>
     </SocketBonus>
-    <Name>Dual-Bladed Pauldrons</Name>
+    <Name>Наплечье заостренных лезвий</Name>
     <Id>50673</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -126700,7 +127198,7 @@
     <SocketBonus />
     <UniqueId>50351</UniqueId>
     <UniqueId>50706</UniqueId>
-    <Name>Tiny Abomination in a Jar</Name>
+    <Name>Миниатюрное поганище в колбе</Name>
     <Id>50706</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -127238,7 +127736,7 @@
     <SocketBonus />
     <UniqueId>50354</UniqueId>
     <UniqueId>50726</UniqueId>
-    <Name>Bauble of True Blood</Name>
+    <Name>Подвеска истинной крови</Name>
     <Id>50726</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -143406,7 +143904,7 @@
     <SocketBonus>
       <SpellPower>7</SpellPower>
     </SocketBonus>
-    <Name>Emerald Saint's Spaulders</Name>
+    <Name>Изумрудный наплеч святого</Name>
     <Id>51586</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -144335,7 +144833,7 @@
     <SocketBonus>
       <SpellPower>7</SpellPower>
     </SocketBonus>
-    <Name>Emerald Saint's Spaulders</Name>
+    <Name>Изумрудный наплеч святого</Name>
     <Id>51824</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -148714,7 +149212,7 @@
     <SocketBonus />
     <UniqueId>54569</UniqueId>
     <UniqueId>54590</UniqueId>
-    <Name>Sharpened Twilight Scale</Name>
+    <Name>Заостренная сумеречная чешуя</Name>
     <Id>54569</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -148747,7 +149245,7 @@
     <SocketBonus />
     <UniqueId>54571</UniqueId>
     <UniqueId>54591</UniqueId>
-    <Name>Petrified Twilight Scale</Name>
+    <Name>Окаменелая сумеречная чешуя</Name>
     <Id>54571</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -148780,7 +149278,7 @@
     <SocketBonus />
     <UniqueId>54572</UniqueId>
     <UniqueId>54588</UniqueId>
-    <Name>Charred Twilight Scale</Name>
+    <Name>Обугленная сумеречная чешуя</Name>
     <Id>54572</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -148825,7 +149323,7 @@
     <SocketBonus />
     <UniqueId>54573</UniqueId>
     <UniqueId>54589</UniqueId>
-    <Name>Glowing Twilight Scale</Name>
+    <Name>Светящаяся сумеречная чешуя</Name>
     <Id>54573</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -149166,7 +149664,7 @@
     <SocketBonus />
     <UniqueId>54572</UniqueId>
     <UniqueId>54588</UniqueId>
-    <Name>Charred Twilight Scale</Name>
+    <Name>Обугленная сумеречная чешуя</Name>
     <Id>54588</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -149211,7 +149709,7 @@
     <SocketBonus />
     <UniqueId>54573</UniqueId>
     <UniqueId>54589</UniqueId>
-    <Name>Glowing Twilight Scale</Name>
+    <Name>Светящаяся сумеречная чешуя</Name>
     <Id>54589</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -149244,7 +149742,7 @@
     <SocketBonus />
     <UniqueId>54569</UniqueId>
     <UniqueId>54590</UniqueId>
-    <Name>Sharpened Twilight Scale</Name>
+    <Name>Заостренная сумеречная чешуя</Name>
     <Id>54590</Id>
     <Slot>Trinket</Slot>
   </Item>
@@ -149277,7 +149775,7 @@
     <SocketBonus />
     <UniqueId>54571</UniqueId>
     <UniqueId>54591</UniqueId>
-    <Name>Petrified Twilight Scale</Name>
+    <Name>Окаменелая сумеречная чешуя</Name>
     <Id>54591</Id>
     <Slot>Trinket</Slot>
   </Item>
