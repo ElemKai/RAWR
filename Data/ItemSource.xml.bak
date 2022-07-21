@@ -120317,90 +120317,15 @@
   </item>
   <item>
     <key>
-      <string>27759</string>
+      <string>28373</string>
     </key>
     <value>
       <ArrayOfItemLocation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
         <ItemLocation xsi:type="UnknownItem">
-          <Note>RBK for Sirus</Note>
+          <Note>Зерект Бездонный</Note>
+		  <Area>The Arcatraz</Area>
+          <Boss>Zereketh the Unbound</Boss>
         </ItemLocation>
-        <ItemLocation xsi:nil="true" />
-      </ArrayOfItemLocation>
-    </value>
-  </item>
-  <item>
-    <key>
-      <string>28121</string>
-    </key>
-    <value>
-      <ArrayOfItemLocation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-        <ItemLocation xsi:type="UnknownItem" />
-        <ItemLocation xsi:nil="true" />
-      </ArrayOfItemLocation>
-    </value>
-  </item>
-  <item>
-    <key>
-      <string>27896</string>
-    </key>
-    <value>
-      <ArrayOfItemLocation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-        <ItemLocation xsi:type="UnknownItem" />
-        <ItemLocation xsi:nil="true" />
-      </ArrayOfItemLocation>
-    </value>
-  </item>
-  <item>
-    <key>
-      <string>27529</string>
-    </key>
-    <value>
-      <ArrayOfItemLocation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-        <ItemLocation xsi:type="UnknownItem" />
-        <ItemLocation xsi:nil="true" />
-      </ArrayOfItemLocation>
-    </value>
-  </item>
-  <item>
-    <key>
-      <string>2</string>
-    </key>
-    <value>
-      <ArrayOfItemLocation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-        <ItemLocation xsi:type="UnknownItem" />
-        <ItemLocation xsi:nil="true" />
-      </ArrayOfItemLocation>
-    </value>
-  </item>
-  <item>
-    <key>
-      <string>3</string>
-    </key>
-    <value>
-      <ArrayOfItemLocation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-        <ItemLocation xsi:type="UnknownItem" />
-        <ItemLocation xsi:nil="true" />
-      </ArrayOfItemLocation>
-    </value>
-  </item>
-  <item>
-    <key>
-      <string>4</string>
-    </key>
-    <value>
-      <ArrayOfItemLocation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-        <ItemLocation xsi:type="UnknownItem" />
-        <ItemLocation xsi:nil="true" />
-      </ArrayOfItemLocation>
-    </value>
-  </item>
-  <item>
-    <key>
-      <string>5</string>
-    </key>
-    <value>
-      <ArrayOfItemLocation xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-        <ItemLocation xsi:type="UnknownItem" />
         <ItemLocation xsi:nil="true" />
       </ArrayOfItemLocation>
     </value>

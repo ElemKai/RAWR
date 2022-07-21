@@ -31,7 +31,7 @@
     <Slot>Trinket</Slot>
   </Item>
   <Item>
-    <ItemLevel>213</ItemLevel>
+    <ItemLevel>232</ItemLevel>
     <DisplayId>0</DisplayId>
     <DisplaySlot>0</DisplaySlot>
     <IconPath>inv_jewelry_necklace_38</IconPath>
@@ -40,7 +40,7 @@
         <SpecialEffect>
           <Trigger>MeleeHit</Trigger>
           <Stats>
-            <AttackPower>400</AttackPower>
+            <AttackPower>800</AttackPower>
           </Stats>
           <Duration>10</Duration>
           <Cooldown>45</Cooldown>
@@ -50,7 +50,7 @@
         <SpecialEffect>
           <Trigger>RangedHit</Trigger>
           <Stats>
-            <AttackPower>400</AttackPower>
+            <AttackPower>800</AttackPower>
           </Stats>
           <Duration>10</Duration>
           <Cooldown>45</Cooldown>
@@ -59,16 +59,19 @@
         </SpecialEffect>
       </SpecialEffects>
       <SpecialEffectCount>2</SpecialEffectCount>
-      <Agility>36</Agility>
-      <Stamina>50</Stamina>
-      <AttackPower>96</AttackPower>
-      <ArmorPenetrationRating>24</ArmorPenetrationRating>
-      <CritRating>39</CritRating>
+      <Agility>56</Agility>
+      <Stamina>56</Stamina>
+      <AttackPower>80</AttackPower>
+      <ArmorPenetrationRating>33</ArmorPenetrationRating>
+      <CritRating>42</CritRating>
     </Stats>
     <Quality>Epic</Quality>
     <Type>None</Type>
     <Faction>Neutral</Faction>
-    <SocketBonus />
+    <SocketColor1>Red</SocketColor1>
+    <SocketBonus>
+      <Agility>4</Agility>
+    </SocketBonus>
     <Name>Подвеска мощи Расколотого Солнца</Name>
     <Id>2</Id>
     <Slot>Neck</Slot>
@@ -147,7 +150,7 @@
     <Slot>Neck</Slot>
   </Item>
   <Item>
-    <ItemLevel>213</ItemLevel>
+    <ItemLevel>232</ItemLevel>
     <DisplayId>0</DisplayId>
     <DisplaySlot>0</DisplaySlot>
     <IconPath>inv_jewelry_necklace_32</IconPath>
@@ -156,7 +159,7 @@
         <SpecialEffect>
           <Trigger>SpellHit</Trigger>
           <Stats>
-            <SpellPower>287</SpellPower>
+            <SpellPower>480</SpellPower>
           </Stats>
           <Duration>10</Duration>
           <Cooldown>45</Cooldown>
@@ -165,16 +168,19 @@
         </SpecialEffect>
       </SpecialEffects>
       <SpecialEffectCount>1</SpecialEffectCount>
-      <Stamina>49</Stamina>
-      <Intellect>39</Intellect>
-      <SpellPower>60</SpellPower>
-      <HitRating>24</HitRating>
-      <HasteRating>34</HasteRating>
+      <Stamina>42</Stamina>
+      <Intellect>47</Intellect>
+      <SpellPower>66</SpellPower>
+      <HitRating>42</HitRating>
+      <HasteRating>32</HasteRating>
     </Stats>
     <Quality>Epic</Quality>
     <Type>None</Type>
     <Faction>Neutral</Faction>
-    <SocketBonus />
+    <SocketColor1>Yellow</SocketColor1>
+    <SocketBonus>
+      <SpellPower>5</SpellPower>
+    </SocketBonus>
     <Name>Подвеска проницательности воина Расколотого Солнца</Name>
     <Id>5</Id>
     <Slot>Neck</Slot>
@@ -1477,6 +1483,80 @@
     <Name>Браслет Нескончаемого Блаженства</Name>
     <Id>28370</Id>
     <Slot>Trinket</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>239</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_misc_cape_14</IconPath>
+    <Stats>
+      <Armor>162</Armor>
+      <Stamina>70</Stamina>
+      <Intellect>48</Intellect>
+      <Spirit>48</Spirit>
+      <SpellPower>75</SpellPower>
+      <HasteRating>39</HasteRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketColor1>Blue</SocketColor1>
+    <SocketBonus>
+      <SpellPower>5</SpellPower>
+    </SocketBonus>
+    <Name>Плащ Сияющих аур</Name>
+    <Id>28373</Id>
+    <Slot>Back</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>239</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_shoulder_32</IconPath>
+    <Stats>
+      <Armor>105</Armor>
+      <Stamina>73</Stamina>
+      <Intellect>73</Intellect>
+      <SpellPower>102</SpellPower>
+      <CritRating>56</CritRating>
+      <HitRating>63</HitRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>Cloth</Type>
+    <Faction>Neutral</Faction>
+    <SocketColor1>Red</SocketColor1>
+    <SocketColor2>Yellow</SocketColor2>
+    <SocketBonus>
+      <HasteRating>6</HasteRating>
+    </SocketBonus>
+    <Name>Наплечные щитки сферы маны</Name>
+    <Id>28374</Id>
+    <Slot>Shoulders</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>239</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_helmet_30</IconPath>
+    <Stats>
+      <Armor>263</Armor>
+      <Stamina>118</Stamina>
+      <Intellect>92</Intellect>
+      <SpellPower>131</SpellPower>
+      <CritRating>70</CritRating>
+      <HasteRating>69</HasteRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>Cloth</Type>
+    <Faction>Neutral</Faction>
+    <SocketColor1>Meta</SocketColor1>
+    <SocketColor2>Blue</SocketColor2>
+    <SocketBonus>
+      <Spirit>8</Spirit>
+    </SocketBonus>
+    <Name>Капюшон забвения</Name>
+    <Id>28415</Id>
+    <Slot>Head</Slot>
   </Item>
   <Item>
     <ItemLevel>239</ItemLevel>
@@ -58962,7 +59042,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Thunderfall Totem</Name>
+    <Name>Тотем Громовержья</Name>
     <Id>45255</Id>
     <Slot>Ranged</Slot>
   </Item>
@@ -62655,7 +62735,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Valorous Worldbreaker Shoulderpads</Name>
+    <Name>Доблестные наплечные пластины разрушителя миров</Name>
     <Id>45410</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -74029,7 +74109,7 @@
     <SocketBonus>
       <SpellPower>7</SpellPower>
     </SocketBonus>
-    <Name>Conqueror's Worldbreaker Tunic</Name>
+    <Name>Мундир разрушающего миры завоевателя</Name>
     <Id>46198</Id>
     <Slot>Chest</Slot>
   </Item>
@@ -74364,7 +74444,7 @@
     <SocketBonus>
       <SpellPower>7</SpellPower>
     </SocketBonus>
-    <Name>Conqueror's Worldbreaker Kilt</Name>
+    <Name>Килт разрушающего миры завоевателя</Name>
     <Id>46210</Id>
     <Slot>Legs</Slot>
   </Item>
@@ -86589,7 +86669,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Shoulderguards of the Spirit Walker</Name>
+    <Name>Наплечные щитки служителя духов</Name>
     <Id>47616</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -88418,19 +88498,7 @@
         <SpecialEffect>
           <Trigger>Use</Trigger>
           <Stats>
-            <SpecialEffects>
-              <SpecialEffect>
-                <Trigger>MeleeHit</Trigger>
-                <Stats>
-                  <AttackPower>215</AttackPower>
-                </Stats>
-                <Duration>20</Duration>
-                <Cooldown>0</Cooldown>
-                <Chance>1</Chance>
-                <MaxStack>5</MaxStack>
-              </SpecialEffect>
-            </SpecialEffects>
-            <SpecialEffectCount>1</SpecialEffectCount>
+            <AttackPower>851.376831</AttackPower>
           </Stats>
           <Duration>20</Duration>
           <Cooldown>120</Cooldown>
@@ -93062,7 +93130,7 @@
     <SocketBonus>
       <SpellPower>7</SpellPower>
     </SocketBonus>
-    <Name>Shoulderguards of the Spirit Walker</Name>
+    <Name>Наплечные щитки служителя духов</Name>
     <Id>47926</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -93627,19 +93695,7 @@
         <SpecialEffect>
           <Trigger>Use</Trigger>
           <Stats>
-            <SpecialEffects>
-              <SpecialEffect>
-                <Trigger>MeleeHit</Trigger>
-                <Stats>
-                  <AttackPower>250</AttackPower>
-                </Stats>
-                <Duration>20</Duration>
-                <Cooldown>0</Cooldown>
-                <Chance>1</Chance>
-                <MaxStack>5</MaxStack>
-              </SpecialEffect>
-            </SpecialEffects>
-            <SpecialEffectCount>1</SpecialEffectCount>
+            <AttackPower>989.9731</AttackPower>
           </Stats>
           <Duration>20</Duration>
           <Cooldown>120</Cooldown>
@@ -102918,7 +102974,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Nobundo's Shoulderpads of Conquest</Name>
+    <Name>Наплечные пластины завоеваний Нобундо</Name>
     <Id>48315</Id>
     <Slot>Shoulders</Slot>
   </Item>
