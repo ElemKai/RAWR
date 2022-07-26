@@ -2754,7 +2754,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Mantle of Electrical Charges</Name>
+    <Name>Заряженное электричеством оплечье</Name>
     <Id>36982</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -6069,7 +6069,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Massive Spaulders of the Jormungar</Name>
+    <Name>Массивный йормунгарский наплеч</Name>
     <Id>37373</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -6311,7 +6311,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Mantle of Discarded Ways</Name>
+    <Name>Оплечье ложных путей</Name>
     <Id>37398</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -7115,7 +7115,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Pauldrons of the Colossus</Name>
+    <Name>Наплечье Колосса</Name>
     <Id>37635</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -7543,7 +7543,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Mantle of the Tribunal</Name>
+    <Name>Оплечье трибунала</Name>
     <Id>37655</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -8123,7 +8123,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Pauldrons of Destiny</Name>
+    <Name>Наплечье судьбы</Name>
     <Id>37690</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -8144,7 +8144,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Mantle of Deceit</Name>
+    <Name>Оплечье лживости</Name>
     <Id>37691</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -8860,7 +8860,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Iron Dwarf Smith Pauldrons</Name>
+    <Name>Кованое наплечье железных дворфов</Name>
     <Id>37814</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -10964,7 +10964,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Frostblight Pauldrons</Name>
+    <Name>Наплечье Ледяной гнили</Name>
     <Id>39198</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -12303,7 +12303,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Miasma Mantle</Name>
+    <Name>Оплечье ядовитых испарений</Name>
     <Id>39284</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -12668,7 +12668,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Mantle of the Extensive Mind</Name>
+    <Name>Оплечье всеобъемлющего разума</Name>
     <Id>39310</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -13045,7 +13045,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Pauldrons of Havoc</Name>
+    <Name>Наплечье разорения</Name>
     <Id>39397</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -13765,7 +13765,7 @@
     <SocketBonus>
       <HasteRating>4</HasteRating>
     </SocketBonus>
-    <Name>Heroes' Frostfire Shoulderpads</Name>
+    <Name>Героические наплечные пластины ледяного огня</Name>
     <Id>39494</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -13903,7 +13903,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Heroes' Plagueheart Shoulderpads</Name>
+    <Name>Героические наплечные пластины Проклятого Сердца</Name>
     <Id>39499</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -14041,7 +14041,7 @@
     <SocketBonus>
       <Spirit>4</Spirit>
     </SocketBonus>
-    <Name>Heroes' Shoulderpads of Faith</Name>
+    <Name>Героические наплечные пластины веры</Name>
     <Id>39518</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -14179,7 +14179,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Heroes' Mantle of Faith</Name>
+    <Name>Героическое оплечье веры</Name>
     <Id>39529</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -14257,7 +14257,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Pauldrons of the Lightning Revenant</Name>
+    <Name>Наплечье духа молнии</Name>
     <Id>39534</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -14382,7 +14382,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Heroes' Dreamwalker Spaulders</Name>
+    <Name>Героический наплеч сновидца</Name>
     <Id>39542</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -14547,7 +14547,7 @@
     <SocketBonus>
       <Intellect>4</Intellect>
     </SocketBonus>
-    <Name>Heroes' Dreamwalker Mantle</Name>
+    <Name>Героическое оплечье сновидца</Name>
     <Id>39548</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -14658,7 +14658,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Heroes' Dreamwalker Shoulderpads</Name>
+    <Name>Героические наплечные пластины сновидца</Name>
     <Id>39556</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -14823,7 +14823,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Heroes' Bonescythe Pauldrons</Name>
+    <Name>Героическое наплечье костяной косы</Name>
     <Id>39565</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -14938,7 +14938,7 @@
     <SocketBonus>
       <Intellect>4</Intellect>
     </SocketBonus>
-    <Name>Heroes' Cryptstalker Spaulders</Name>
+    <Name>Героический наплеч расхитителя гробниц</Name>
     <Id>39581</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -15077,7 +15077,7 @@
     <SocketBonus>
       <Intellect>4</Intellect>
     </SocketBonus>
-    <Name>Heroes' Earthshatter Spaulders</Name>
+    <Name>Героический наплеч Землекрушителя</Name>
     <Id>39590</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -15242,7 +15242,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Heroes' Earthshatter Shoulderpads</Name>
+    <Name>Героические наплечники Землекрушителя</Name>
     <Id>39596</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -15385,7 +15385,7 @@
     <SocketBonus>
       <AttackPower>8</AttackPower>
     </SocketBonus>
-    <Name>Heroes' Earthshatter Shoulderguards</Name>
+    <Name>Героические наплечные щитки Землекрушителя</Name>
     <Id>39604</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -15492,7 +15492,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Heroes' Dreadnaught Shoulderplates</Name>
+    <Name>Героические латные наплечники неустрашимости</Name>
     <Id>39608</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -15629,7 +15629,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Heroes' Dreadnaught Pauldrons</Name>
+    <Name>Героическое наплечье неустрашимости</Name>
     <Id>39613</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -15762,7 +15762,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Heroes' Scourgeborne Shoulderplates</Name>
+    <Name>Героические кованые Плетью латные наплечники</Name>
     <Id>39621</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -15927,7 +15927,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Heroes' Scourgeborne Pauldrons</Name>
+    <Name>Героическое кованое Плетью наплечье</Name>
     <Id>39627</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -16038,7 +16038,7 @@
     <SocketBonus>
       <Mp5>2</Mp5>
     </SocketBonus>
-    <Name>Heroes' Redemption Spaulders</Name>
+    <Name>Героический наплеч искупления</Name>
     <Id>39631</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -16198,7 +16198,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Heroes' Redemption Shoulderplates</Name>
+    <Name>Героические латные наплечники искупления</Name>
     <Id>39637</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -16336,7 +16336,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Heroes' Redemption Shoulderguards</Name>
+    <Name>Героические наплечные щитки искупления</Name>
     <Id>39642</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -16450,7 +16450,7 @@
     <SocketBonus>
       <DefenseRating>4</DefenseRating>
     </SocketBonus>
-    <Name>Pauldrons of Unnatural Death</Name>
+    <Name>Наплечье Насильственной смерти</Name>
     <Id>39704</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -16621,7 +16621,7 @@
     <SocketBonus>
       <Intellect>4</Intellect>
     </SocketBonus>
-    <Name>Mantle of the Locusts</Name>
+    <Name>Оплечье певчих цикад</Name>
     <Id>39719</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -19540,7 +19540,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Mantle of Shattered Kinship</Name>
+    <Name>Оплечье разорванного родства</Name>
     <Id>40063</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -23039,7 +23039,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Mantle of the Corrupted</Name>
+    <Name>Оплечье Совращенного</Name>
     <Id>40286</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -23223,7 +23223,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Pauldrons of the Abandoned</Name>
+    <Name>Наплечье покинутого</Name>
     <Id>40299</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -24261,7 +24261,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Mantle of the Fatigued Sage</Name>
+    <Name>Оплечье утомленного мудреца</Name>
     <Id>40351</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -24666,7 +24666,7 @@
     <SocketBonus>
       <Mp5>2</Mp5>
     </SocketBonus>
-    <Name>Noble Birthright Pauldrons</Name>
+    <Name>Наплечье Благородного происхождения</Name>
     <Id>40377</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -25843,7 +25843,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Mantle of the Eternal Sentinel</Name>
+    <Name>Оплечье Вечного стража</Name>
     <Id>40439</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -27201,7 +27201,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Focusing Energy Epaulets</Name>
+    <Name>Эполеты сосредоточения энергии</Name>
     <Id>40511</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -28116,7 +28116,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Mantle of Dissemination</Name>
+    <Name>Оплечье Рассеивания</Name>
     <Id>40555</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -32242,7 +32242,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Hateful Gladiator's Plate Shoulders</Name>
+    <Name>Латные наплечники злобного гладиатора</Name>
     <Id>40859</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -32268,7 +32268,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Hateful Gladiator's Dreadplate Shoulders</Name>
+    <Name>Жуткие латные наплечники злобного гладиатора</Name>
     <Id>40860</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -32294,7 +32294,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Hateful Gladiator's Scaled Shoulders</Name>
+    <Name>Чешуйчатые наплечники злобного гладиатора</Name>
     <Id>40861</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -32428,7 +32428,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Furious Gladiator's Plate Shoulders</Name>
+    <Name>Латные наплечники гневного гладиатора</Name>
     <Id>40866</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -32485,7 +32485,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Furious Gladiator's Dreadplate Shoulders</Name>
+    <Name>Жуткие латные наплечники гневного гладиатора</Name>
     <Id>40868</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -32511,7 +32511,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Furious Gladiator's Scaled Shoulders</Name>
+    <Name>Чешуйчатые наплечники гневного гладиатора</Name>
     <Id>40869</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -32537,7 +32537,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Relentless Gladiator's Plate Shoulders</Name>
+    <Name>Латные наплечники неумолимого гладиатора</Name>
     <Id>40870</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -32563,7 +32563,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Relentless Gladiator's Dreadplate Shoulders</Name>
+    <Name>Жуткие латные наплечники неумолимого гладиатора</Name>
     <Id>40871</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -32589,7 +32589,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Relentless Gladiator's Scaled Shoulders</Name>
+    <Name>Чешуйчатые наплечники неумолимого гладиатора</Name>
     <Id>40872</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -33444,7 +33444,7 @@
     <SocketBonus>
       <Mp5>2</Mp5>
     </SocketBonus>
-    <Name>Hateful Gladiator's Ornamented Spaulders</Name>
+    <Name>Украшенный наплеч злобного гладиатора</Name>
     <Id>40961</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -33498,7 +33498,7 @@
     <SocketBonus>
       <Mp5>2</Mp5>
     </SocketBonus>
-    <Name>Furious Gladiator's Ornamented Spaulders</Name>
+    <Name>Украшенный наплеч гневного гладиатора</Name>
     <Id>40963</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -33525,7 +33525,7 @@
     <SocketBonus>
       <Mp5>2</Mp5>
     </SocketBonus>
-    <Name>Relentless Gladiator's Ornamented Spaulders</Name>
+    <Name>Украшенный наплеч неумолимого гладиатора</Name>
     <Id>40964</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -34914,7 +34914,7 @@
     <SocketBonus>
       <Mp5>2</Mp5>
     </SocketBonus>
-    <Name>Hateful Gladiator's Ringmail Spaulders</Name>
+    <Name>Кольчатый наплеч злобного гладиатора</Name>
     <Id>41036</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -34968,7 +34968,7 @@
     <SocketBonus>
       <Mp5>2</Mp5>
     </SocketBonus>
-    <Name>Furious Gladiator's Ringmail Spaulders</Name>
+    <Name>Кольчатый наплеч гневного гладиатора</Name>
     <Id>41038</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -34995,7 +34995,7 @@
     <SocketBonus>
       <Mp5>2</Mp5>
     </SocketBonus>
-    <Name>Relentless Gladiator's Ringmail Spaulders</Name>
+    <Name>Кольчатый наплеч неумолимого гладиатора</Name>
     <Id>41039</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -35049,7 +35049,7 @@
     <SocketBonus>
       <Mp5>2</Mp5>
     </SocketBonus>
-    <Name>Hateful Gladiator's Mail Spaulders</Name>
+    <Name>Кольчужный наплеч злобного гладиатора</Name>
     <Id>41042</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -35103,7 +35103,7 @@
     <SocketBonus>
       <Mp5>2</Mp5>
     </SocketBonus>
-    <Name>Furious Gladiator's Mail Spaulders</Name>
+    <Name>Кольчужный наплеч гневного гладиатора</Name>
     <Id>41044</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -35130,7 +35130,7 @@
     <SocketBonus>
       <Mp5>2</Mp5>
     </SocketBonus>
-    <Name>Relentless Gladiator's Mail Spaulders</Name>
+    <Name>Кольчужный наплеч неумолимого гладиатора</Name>
     <Id>41045</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -36862,7 +36862,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Hateful Gladiator's Linked Spaulders</Name>
+    <Name>Клепаный наплеч злобного гладиатора</Name>
     <Id>41209</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -36918,7 +36918,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Furious Gladiator's Linked Spaulders</Name>
+    <Name>Клепаный наплеч гневного гладиатора</Name>
     <Id>41211</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -36946,7 +36946,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Relentless Gladiator's Linked Spaulders</Name>
+    <Name>Клепаный наплеч неумолимого гладиатора</Name>
     <Id>41212</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -37002,7 +37002,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Hateful Gladiator's Chain Spaulders</Name>
+    <Name>Плетеный наплеч злобного гладиатора</Name>
     <Id>41215</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -37058,7 +37058,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Furious Gladiator's Chain Spaulders</Name>
+    <Name>Плетеный наплеч гневного гладиатора</Name>
     <Id>41217</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -37086,7 +37086,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Relentless Gladiator's Chain Spaulders</Name>
+    <Name>Плетеный наплеч неумолимого гладиатора</Name>
     <Id>41218</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -37638,7 +37638,7 @@
     <SocketBonus>
       <Spirit>4</Spirit>
     </SocketBonus>
-    <Name>Hateful Gladiator's Kodohide Spaulders</Name>
+    <Name>Наплеч злобного гладиатора из шкуры кодо</Name>
     <Id>41273</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -37692,7 +37692,7 @@
     <SocketBonus>
       <Spirit>4</Spirit>
     </SocketBonus>
-    <Name>Furious Gladiator's Kodohide Spaulders</Name>
+    <Name>Наплеч гневного гладиатора из шкуры кодо</Name>
     <Id>41275</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -37719,7 +37719,7 @@
     <SocketBonus>
       <Spirit>4</Spirit>
     </SocketBonus>
-    <Name>Relentless Gladiator's Kodohide Spaulders</Name>
+    <Name>Наплеч неумолимого гладиатора из шкуры кодо</Name>
     <Id>41276</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -37773,7 +37773,7 @@
     <SocketBonus>
       <Spirit>4</Spirit>
     </SocketBonus>
-    <Name>Hateful Gladiator's Wyrmhide Spaulders</Name>
+    <Name>Наплеч злобного гладиатора из шкуры змея</Name>
     <Id>41279</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -37827,7 +37827,7 @@
     <SocketBonus>
       <Spirit>4</Spirit>
     </SocketBonus>
-    <Name>Furious Gladiator's Wyrmhide Spaulders</Name>
+    <Name>Наплеч гневного гладиатора из шкуры змея</Name>
     <Id>41281</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -42431,7 +42431,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Hateful Gladiator's Leather Spaulders</Name>
+    <Name>Кожаный наплеч злобного гладиатора</Name>
     <Id>41681</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -42485,7 +42485,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Furious Gladiator's Leather Spaulders</Name>
+    <Name>Кожаный наплеч гневного гладиатора</Name>
     <Id>41683</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -42512,7 +42512,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Relentless Gladiator's Leather Spaulders</Name>
+    <Name>Кожаный наплеч неумолимого гладиатора</Name>
     <Id>41684</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -42566,7 +42566,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Hateful Gladiator's Dragonhide Spaulders</Name>
+    <Name>Наплеч злобного гладиатора из драконьей шкуры</Name>
     <Id>41713</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -42620,7 +42620,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Furious Gladiator's Dragonhide Spaulders</Name>
+    <Name>Наплеч гневного гладиатора из драконьей шкуры</Name>
     <Id>41715</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -42647,7 +42647,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Relentless Gladiator's Dragonhide Spaulders</Name>
+    <Name>Наплеч неумолимого гладиатора из драконьей шкуры</Name>
     <Id>41716</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -43616,7 +43616,7 @@
     <SocketBonus>
       <Spirit>4</Spirit>
     </SocketBonus>
-    <Name>Hateful Gladiator's Mooncloth Mantle</Name>
+    <Name>Мантия злобного гладиатора из луноткани</Name>
     <Id>41867</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -43670,7 +43670,7 @@
     <SocketBonus>
       <Spirit>4</Spirit>
     </SocketBonus>
-    <Name>Furious Gladiator's Mooncloth Mantle</Name>
+    <Name>Мантия гневного гладиатора из луноткани</Name>
     <Id>41869</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -43697,7 +43697,7 @@
     <SocketBonus>
       <Spirit>4</Spirit>
     </SocketBonus>
-    <Name>Relentless Gladiator's Mooncloth Mantle</Name>
+    <Name>Мантия неумолимого гладиатора из луноткани</Name>
     <Id>41870</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -44729,7 +44729,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Hateful Gladiator's Satin Mantle</Name>
+    <Name>Атласная мантия злобного гладиатора</Name>
     <Id>41931</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -44783,7 +44783,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Furious Gladiator's Satin Mantle</Name>
+    <Name>Атласная мантия гневного гладиатора</Name>
     <Id>41934</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -44810,7 +44810,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Relentless Gladiator's Satin Mantle</Name>
+    <Name>Атласная мантия неумолимого гладиатора</Name>
     <Id>41935</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -45419,7 +45419,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Hateful Gladiator's Silk Amice</Name>
+    <Name>Шелковый нарамник злобного гладиатора</Name>
     <Id>41963</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -45473,7 +45473,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Furious Gladiator's Silk Amice</Name>
+    <Name>Шелковый нарамник гневного гладиатора</Name>
     <Id>41965</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -45500,7 +45500,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Relentless Gladiator's Silk Amice</Name>
+    <Name>Шелковый нарамник неумолимого гладиатора</Name>
     <Id>41966</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -46176,7 +46176,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Hateful Gladiator's Felweave Amice</Name>
+    <Name>Нарамник злобного гладиатора из ткани Скверны</Name>
     <Id>42009</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -46230,7 +46230,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Furious Gladiator's Felweave Amice</Name>
+    <Name>Нарамник гневного гладиатора из ткани Скверны</Name>
     <Id>42011</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -46257,7 +46257,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Relentless Gladiator's Felweave Amice</Name>
+    <Name>Нарамник неумолимого гладиатора из ткани Скверны</Name>
     <Id>42012</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -49145,7 +49145,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Ornate Saronite Pauldrons</Name>
+    <Name>Изысканное саронитовое наплечье</Name>
     <Id>42727</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -49877,7 +49877,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Purehorn Spaulders</Name>
+    <Name>Наплеч безукоризненных рогов</Name>
     <Id>43258</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -49946,7 +49946,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Overcast Spaulders</Name>
+    <Name>Наплеч угрюмости</Name>
     <Id>43262</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -52126,7 +52126,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Frostsavage Shoulders</Name>
+    <Name>Наплечники ледяной ярости</Name>
     <Id>43973</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -53093,7 +53093,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Gold Star Spaulders</Name>
+    <Name>Наплеч золотой звезды</Name>
     <Id>44111</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -53113,7 +53113,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Glimmershell Shoulder Protectors</Name>
+    <Name>Наплечники из сверкающих ракушек</Name>
     <Id>44112</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -56977,7 +56977,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Razorscale Shoulderguards</Name>
+    <Name>Наплечные щитки Острокрылой</Name>
     <Id>45140</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -58463,7 +58463,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Iron-studded Mantle</Name>
+    <Name>Обшитое железом оплечье</Name>
     <Id>45227</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -59006,7 +59006,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Mantle of Wavering Calm</Name>
+    <Name>Оплечье нарушенного покоя</Name>
     <Id>45253</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -59981,7 +59981,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Mantle of Fiery Vengeance</Name>
+    <Name>Оплечье огненной мести</Name>
     <Id>45300</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -60470,7 +60470,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Pauldrons of Tempered Will</Name>
+    <Name>Наплечье закаленной воли</Name>
     <Id>45321</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -64350,7 +64350,7 @@
     <SocketBonus>
       <SpellPower>7</SpellPower>
     </SocketBonus>
-    <Name>Pauldrons of the Combatant</Name>
+    <Name>Наплечье бойца</Name>
     <Id>45474</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -64701,7 +64701,7 @@
     <SocketBonus>
       <Spirit>4</Spirit>
     </SocketBonus>
-    <Name>Malleable Steelweave Mantle</Name>
+    <Name>Гибкое сталетканое оплечье</Name>
     <Id>45492</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -65165,7 +65165,7 @@
     <SocketBonus>
       <Intellect>4</Intellect>
     </SocketBonus>
-    <Name>Mantle of the Unknowing</Name>
+    <Name>Оплечье неведающих</Name>
     <Id>45514</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -67766,7 +67766,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Ironaya's Discarded Mantle</Name>
+    <Name>Выброшенная мантия Иронайи</Name>
     <Id>45711</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -68243,7 +68243,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Mantle of the Preserver</Name>
+    <Name>Мантия оберегателя</Name>
     <Id>45832</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -70780,7 +70780,7 @@
     <SocketBonus>
       <CritRating>6</CritRating>
     </SocketBonus>
-    <Name>Observer's Mantle</Name>
+    <Name>Мантия наблюдателя</Name>
     <Id>46044</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -74795,7 +74795,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Iceshear Mantle</Name>
+    <Name>Ледоземское оплечье</Name>
     <Id>46344</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -75660,7 +75660,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Belt of the Ice Burrower</Name>
+    <Name>Пояс ледокопа</Name>
     <Id>46990</Id>
     <Slot>Waist</Slot>
   </Item>
@@ -75687,7 +75687,7 @@
     <SocketBonus>
       <SpellPower>7</SpellPower>
     </SocketBonus>
-    <Name>Belt of the Ice Burrower</Name>
+    <Name>Пояс ледокопа</Name>
     <Id>46991</Id>
     <Slot>Waist</Slot>
   </Item>
@@ -79159,7 +79159,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Mantle of Gnarled Overgrowth</Name>
+    <Name>Мантия сучковатых зарослей</Name>
     <Id>47210</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -79572,7 +79572,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Mantle of Inconsolable Fear</Name>
+    <Name>Мантия безудержного страха</Name>
     <Id>47226</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -80000,7 +80000,7 @@
     <SocketBonus>
       <ArmorPenetrationRating>4</ArmorPenetrationRating>
     </SocketBonus>
-    <Name>Pauldrons of Concealed Loathing</Name>
+    <Name>Наплечье скрытой ненависти</Name>
     <Id>47245</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -80075,7 +80075,7 @@
     <SocketBonus>
       <HitRating>4</HitRating>
     </SocketBonus>
-    <Name>Pauldrons of the Deafening Gale</Name>
+    <Name>Наплечье оглушающего шторма</Name>
     <Id>47250</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -84322,7 +84322,7 @@
     <SocketBonus>
       <HasteRating>4</HasteRating>
     </SocketBonus>
-    <Name>Majestic Silversmith Shoulderplates</Name>
+    <Name>Величественные латные серебряные наплечники</Name>
     <Id>47502</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -84570,7 +84570,7 @@
     <SocketBonus>
       <DodgeRating>4</DodgeRating>
     </SocketBonus>
-    <Name>Regal Aurous Shoulderplates</Name>
+    <Name>Монаршие золотистые латные наплечники</Name>
     <Id>47514</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -87858,7 +87858,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Pauldrons of Trembling Rage</Name>
+    <Name>Наплечье трепещущей ярости</Name>
     <Id>47697</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -87980,7 +87980,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Pauldrons of the Cavalier</Name>
+    <Name>Наплечье кавалериста</Name>
     <Id>47702</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -88057,7 +88057,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Pauldrons of the Devourer</Name>
+    <Name>Наплечье пожирателя</Name>
     <Id>47705</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -88107,7 +88107,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Mantle of the Groundbreaker</Name>
+    <Name>Мантия первопроходца</Name>
     <Id>47707</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -88254,7 +88254,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Mantle of Catastrophic Emanation</Name>
+    <Name>Мантия гибельного излучения</Name>
     <Id>47713</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -88279,7 +88279,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Pauldrons of Catastrophic Emanation</Name>
+    <Name>Наплечье гибельного излучения</Name>
     <Id>47714</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -88304,7 +88304,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Pauldrons of Revered Mortality</Name>
+    <Name>Наплечье почитаемой смертности</Name>
     <Id>47715</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -88329,7 +88329,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Mantle of Revered Mortality</Name>
+    <Name>Мантия почитаемой смертности</Name>
     <Id>47716</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -88431,7 +88431,7 @@
     <SocketBonus>
       <ParryRating>4</ParryRating>
     </SocketBonus>
-    <Name>Pauldrons of the Silver Defender</Name>
+    <Name>Наплечье серебряного защитника</Name>
     <Id>47720</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -89207,7 +89207,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Khadgar's Shoulderpads of Conquest</Name>
+    <Name>Наплечные пластины завоеваний Кадгара</Name>
     <Id>47751</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -89372,7 +89372,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Khadgar's Shoulderpads of Triumph</Name>
+    <Name>Наплечные пластины триумфа Кадгара</Name>
     <Id>47757</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -89399,7 +89399,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Khadgar's Shoulderpads of Triumph</Name>
+    <Name>Наплечные пластины триумфа Кадгара</Name>
     <Id>47758</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -90035,7 +90035,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Kel'Thuzad's Shoulderpads of Triumph</Name>
+    <Name>Наплечные пластины триумфа Кел'Тузада</Name>
     <Id>47781</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -90200,7 +90200,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Kel'Thuzad's Shoulderpads of Conquest</Name>
+    <Name>Наплечные пластины завоеваний Кел'Тузада</Name>
     <Id>47787</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -90338,7 +90338,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Kel'Thuzad's Shoulderpads of Triumph</Name>
+    <Name>Наплечные пластины триумфа Кел'Тузада</Name>
     <Id>47792</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -90365,7 +90365,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Gul'dan's Shoulderpads of Triumph</Name>
+    <Name>Наплечные пластины триумфа Гул'дана</Name>
     <Id>47793</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -90503,7 +90503,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Gul'dan's Shoulderpads of Conquest</Name>
+    <Name>Наплечные пластины завоеваний Гул'дана</Name>
     <Id>47798</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -90752,7 +90752,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Gul'dan's Shoulderpads of Triumph</Name>
+    <Name>Наплечные пластины триумфа Гул'дана</Name>
     <Id>47807</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -91005,7 +91005,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Pauldrons of the Timeless Hunter</Name>
+    <Name>Наплечье вневременного охотника</Name>
     <Id>47829</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -91398,7 +91398,7 @@
     <SocketBonus>
       <SpellPower>7</SpellPower>
     </SocketBonus>
-    <Name>Pauldrons of the Glacial Wilds</Name>
+    <Name>Наплечье ледниковых пустошей</Name>
     <Id>47857</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -91469,7 +91469,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Pauldrons of the Spirit Walker</Name>
+    <Name>Наплечье служителя духов</Name>
     <Id>47860</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -92521,7 +92521,7 @@
     <SocketBonus>
       <CritRating>4</CritRating>
     </SocketBonus>
-    <Name>Pauldrons of the Shadow Hunter</Name>
+    <Name>Наплечье темного охотника</Name>
     <Id>47901</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -93594,7 +93594,7 @@
     <SocketBonus>
       <ParryRating>6</ParryRating>
     </SocketBonus>
-    <Name>Pauldrons of the Silver Defender</Name>
+    <Name>Наплечье серебряного защитника</Name>
     <Id>47944</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -94284,7 +94284,7 @@
     <SocketBonus>
       <CritRating>6</CritRating>
     </SocketBonus>
-    <Name>Pauldrons of the Timeless Hunter</Name>
+    <Name>Наплечье вневременного охотника</Name>
     <Id>47969</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -94994,7 +94994,7 @@
     <SocketBonus>
       <SpellPower>7</SpellPower>
     </SocketBonus>
-    <Name>Pauldrons of the Glacial Wilds</Name>
+    <Name>Наплечье ледниковых пустошей</Name>
     <Id>47996</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -95070,7 +95070,7 @@
     <SocketBonus>
       <SpellPower>7</SpellPower>
     </SocketBonus>
-    <Name>Pauldrons of the Spirit Walker</Name>
+    <Name>Наплечье служителя духов</Name>
     <Id>47999</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -96334,7 +96334,7 @@
     <SocketBonus>
       <CritRating>6</CritRating>
     </SocketBonus>
-    <Name>Pauldrons of the Shadow Hunter</Name>
+    <Name>Наплечье темного охотника</Name>
     <Id>48046</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -97949,7 +97949,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Malfurion's Spaulders of Conquest</Name>
+    <Name>Наплеч завоеваний Малфуриона</Name>
     <Id>48131</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -98114,7 +98114,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Malfurion's Spaulders of Triumph</Name>
+    <Name>Наплеч триумфа Малфуриона</Name>
     <Id>48137</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -98141,7 +98141,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Malfurion's Spaulders of Triumph</Name>
+    <Name>Наплеч триумфа Малфуриона</Name>
     <Id>48138</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -98777,7 +98777,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Malfurion's Mantle of Conquest</Name>
+    <Name>Мантия завоеваний Малфуриона</Name>
     <Id>48161</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -98942,7 +98942,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Malfurion's Mantle of Triumph</Name>
+    <Name>Мантия триумфа Малфуриона</Name>
     <Id>48167</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -98969,7 +98969,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Malfurion's Mantle of Triumph</Name>
+    <Name>Мантия триумфа Малфуриона</Name>
     <Id>48168</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -100046,7 +100046,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Malfurion's Shoulderpads of Triumph</Name>
+    <Name>Наплечные пластины триумфа Малфуриона</Name>
     <Id>48207</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -100073,7 +100073,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Malfurion's Shoulderpads of Triumph</Name>
+    <Name>Наплечные пластины триумфа Малфуриона</Name>
     <Id>48208</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -100322,7 +100322,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Malfurion's Shoulderpads of Conquest</Name>
+    <Name>Наплечные пластины завоеваний Малфуриона</Name>
     <Id>48217</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -100874,7 +100874,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Garona's Pauldrons of Triumph</Name>
+    <Name>Наплечье триумфа Гароны</Name>
     <Id>48237</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -100901,7 +100901,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Garona's Pauldrons of Triumph</Name>
+    <Name>Наплечье триумфа Гароны</Name>
     <Id>48238</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -101150,7 +101150,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Garona's Pauldrons of Conquest</Name>
+    <Name>Наплечье завоеваний Гароны</Name>
     <Id>48247</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -102119,7 +102119,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Nobundo's Spaulders of Conquest</Name>
+    <Name>Наплеч завоеваний Нобундо</Name>
     <Id>48283</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -102284,7 +102284,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Nobundo's Spaulders of Triumph</Name>
+    <Name>Наплеч триумфа Нобундо</Name>
     <Id>48289</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -102311,7 +102311,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Nobundo's Spaulders of Triumph</Name>
+    <Name>Наплеч триумфа Нобундо</Name>
     <Id>48290</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -103112,7 +103112,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Nobundo's Shoulderpads of Triumph</Name>
+    <Name>Наплечные пластины триумфа Нобундо</Name>
     <Id>48320</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -103139,7 +103139,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Nobundo's Shoulderpads of Triumph</Name>
+    <Name>Наплечные пластины триумфа Нобундо</Name>
     <Id>48321</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -103807,7 +103807,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Nobundo's Shoulderguards of Conquest</Name>
+    <Name>Наплечные щитки завоеваний Нобундо</Name>
     <Id>48345</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -103950,7 +103950,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Nobundo's Shoulderguards of Triumph</Name>
+    <Name>Наплечные щитки триумфа Нобундо</Name>
     <Id>48350</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -103978,7 +103978,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Nobundo's Shoulderguards of Triumph</Name>
+    <Name>Наплечные щитки триумфа Нобундо</Name>
     <Id>48351</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -105054,7 +105054,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Hellscream's Shoulderplates of Conquest</Name>
+    <Name>Латные наплечники завоеваний Адского Крика</Name>
     <Id>48390</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -105187,7 +105187,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Hellscream's Shoulderplates of Triumph</Name>
+    <Name>Латные наплечники триумфа Адского Крика</Name>
     <Id>48395</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -105320,7 +105320,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Hellscream's Shoulderplates of Triumph</Name>
+    <Name>Латные наплечники триумфа Адского Крика</Name>
     <Id>48400</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -105872,7 +105872,7 @@
     <SocketBonus>
       <DodgeRating>4</DodgeRating>
     </SocketBonus>
-    <Name>Hellscream's Pauldrons of Conquest</Name>
+    <Name>Наплечье завоеваний Адского Крика</Name>
     <Id>48460</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -106010,7 +106010,7 @@
     <SocketBonus>
       <DodgeRating>4</DodgeRating>
     </SocketBonus>
-    <Name>Hellscream's Pauldrons of Triumph</Name>
+    <Name>Наплечье триумфа Адского Крика</Name>
     <Id>48465</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -106148,7 +106148,7 @@
     <SocketBonus>
       <DodgeRating>4</DodgeRating>
     </SocketBonus>
-    <Name>Hellscream's Pauldrons of Triumph</Name>
+    <Name>Наплечье триумфа Адского Крика</Name>
     <Id>48470</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -106680,7 +106680,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Koltira's Shoulderplates of Triumph</Name>
+    <Name>Латные наплечники триумфа Кольтиры</Name>
     <Id>48495</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -106706,7 +106706,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Koltira's Shoulderplates of Triumph</Name>
+    <Name>Латные наплечники триумфа Кольтиры</Name>
     <Id>48496</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -106946,7 +106946,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Koltira's Shoulderplates of Conquest</Name>
+    <Name>Латные наплечники завоеваний Кольтиры</Name>
     <Id>48505</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -107498,7 +107498,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Koltira's Pauldrons of Triumph</Name>
+    <Name>Наплечье триумфа Кольтиры</Name>
     <Id>48552</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -107525,7 +107525,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Koltira's Pauldrons of Triumph</Name>
+    <Name>Наплечье триумфа Кольтиры</Name>
     <Id>48553</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -107774,7 +107774,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Koltira's Pauldrons of Conquest</Name>
+    <Name>Наплечье завоевания Кольтиры</Name>
     <Id>48562</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -108215,7 +108215,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Liadrin's Spaulders of Triumph</Name>
+    <Name>Наплеч триумфа Лиадрин</Name>
     <Id>48585</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -108353,7 +108353,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Liadrin's Spaulders of Triumph</Name>
+    <Name>Наплеч триумфа Лиадрин</Name>
     <Id>48590</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -108491,7 +108491,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Liadrin's Spaulders of Conquest</Name>
+    <Name>Наплеч завоеваний Лиадрин</Name>
     <Id>48595</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -109134,7 +109134,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Liadrin's Shoulderplates of Triumph</Name>
+    <Name>Латные наплечники триумфа Лиадрин</Name>
     <Id>48621</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -109160,7 +109160,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Liadrin's Shoulderplates of Triumph</Name>
+    <Name>Латные наплечники триумфа Лиадрин</Name>
     <Id>48622</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -109293,7 +109293,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Liadrin's Shoulderplates of Conquest</Name>
+    <Name>Латные наплечники завоеваний Лиадрин</Name>
     <Id>48627</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -109841,7 +109841,7 @@
     <SocketBonus>
       <DodgeRating>4</DodgeRating>
     </SocketBonus>
-    <Name>Liadrin's Shoulderguards of Triumph</Name>
+    <Name>Наплечные щитки триумфа Лиадрин</Name>
     <Id>48647</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -110090,7 +110090,7 @@
     <SocketBonus>
       <DodgeRating>4</DodgeRating>
     </SocketBonus>
-    <Name>Liadrin's Shoulderguards of Conquest</Name>
+    <Name>Наплечные щитки завоеваний Лиадрин</Name>
     <Id>48656</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -110228,7 +110228,7 @@
     <SocketBonus>
       <DodgeRating>4</DodgeRating>
     </SocketBonus>
-    <Name>Liadrin's Shoulderguards of Triumph</Name>
+    <Name>Наплечные щитки триумфа Лиадрин</Name>
     <Id>48661</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -115428,7 +115428,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Frayed Abomination Stitching Shoulders</Name>
+    <Name>Изношенные наплечники из шовных нитей поганища</Name>
     <Id>49834</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -115753,7 +115753,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Grim Lasher Shoulderguards</Name>
+    <Name>Наплечные щитки зловещего хлестуна</Name>
     <Id>49848</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -115874,7 +115874,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Mantle of Tattered Feathers</Name>
+    <Name>Оплечье из потрепанных перьев</Name>
     <Id>49854</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -117675,7 +117675,7 @@
     <SocketBonus>
       <Strength>6</Strength>
     </SocketBonus>
-    <Name>Raging Behemoth's Shoulderplates</Name>
+    <Name>Латные наплечники яростного чудища</Name>
     <Id>50020</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -118412,7 +118412,7 @@
     <SocketBonus>
       <SpellPower>7</SpellPower>
     </SocketBonus>
-    <Name>Horrific Flesh Epaulets</Name>
+    <Name>Ужасающие эполеты из плоти</Name>
     <Id>50059</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -118930,7 +118930,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Ymirjar Lord's Shoulderplates</Name>
+    <Name>Латные наплечники имирьярского повелителя</Name>
     <Id>50082</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -119339,7 +119339,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Lasherweave Pauldrons</Name>
+    <Name>Плеточное наплечье</Name>
     <Id>50113</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -120396,7 +120396,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Pauldrons of the Souleater</Name>
+    <Name>Наплечье пожирателя душ</Name>
     <Id>50208</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -122100,7 +122100,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Lightsworn Shoulderplates</Name>
+    <Name>Латные наплечники клятвы Свету</Name>
     <Id>50324</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -126615,7 +126615,7 @@
     <SocketBonus>
       <Strength>6</Strength>
     </SocketBonus>
-    <Name>Raging Behemoth's Shoulderplates</Name>
+    <Name>Латные наплечники яростного чудища</Name>
     <Id>50674</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -127244,7 +127244,7 @@
     <SocketBonus>
       <SpellPower>7</SpellPower>
     </SocketBonus>
-    <Name>Horrific Flesh Epaulets</Name>
+    <Name>Ужасающие эполеты из плоти</Name>
     <Id>50698</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -129181,7 +129181,7 @@
     <SocketBonus>
       <HasteRating>6</HasteRating>
     </SocketBonus>
-    <Name>Pauldrons of Lost Hope</Name>
+    <Name>Наплечье утраченной надежды</Name>
     <Id>50792</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -129726,7 +129726,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Lasherweave Mantle</Name>
+    <Name>Плеточное оплечье</Name>
     <Id>50819</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -129864,7 +129864,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Lasherweave Shoulderpads</Name>
+    <Name>Плеточные наплечные пластины</Name>
     <Id>50824</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -130118,7 +130118,7 @@
     <SocketBonus>
       <AttackPower>8</AttackPower>
     </SocketBonus>
-    <Name>Frost Witch's Shoulderguards</Name>
+    <Name>Наплечные щитки ледяной ведьмы</Name>
     <Id>50834</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -130256,7 +130256,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Frost Witch's Spaulders</Name>
+    <Name>Наплеч ледяной ведьмы</Name>
     <Id>50839</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -130394,7 +130394,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Frost Witch's Shoulderpads</Name>
+    <Name>Наплечные пластины ледяной ведьмы</Name>
     <Id>50845</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -130421,7 +130421,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Ymirjar Lord's Pauldrons</Name>
+    <Name>Наплечье имирьярского повелителя</Name>
     <Id>50846</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -130773,7 +130773,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Lightsworn Shoulderguards</Name>
+    <Name>Наплечные щитки клятвы Свету</Name>
     <Id>50860</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -130911,7 +130911,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Lightsworn Spaulders</Name>
+    <Name>Наплеч клятвы Свету</Name>
     <Id>50865</Id>
     <Slot>Shoulders</Slot>
   </Item>
@@ -147384,7 +147384,7 @@
     <SocketBonus>
       <HasteRating>6</HasteRating>
     </SocketBonus>
-    <Name>Pauldrons of Lost Hope</Name>
+    <Name>Наплечье утраченной надежды</Name>
     <Id>51911</Id>
     <Slot>Shoulders</Slot>
   </Item>
