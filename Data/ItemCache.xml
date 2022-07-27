@@ -228,20 +228,6 @@
     <Slot>Shirt</Slot>
   </Item>
   <Item>
-    <ItemLevel>0</ItemLevel>
-    <DisplayId>0</DisplayId>
-    <DisplaySlot>0</DisplaySlot>
-    <IconPath>temp</IconPath>
-    <Stats />
-    <Quality>Epic</Quality>
-    <Type>None</Type>
-    <Faction>Neutral</Faction>
-    <SocketBonus />
-    <Name>New Item</Name>
-    <Id>116</Id>
-    <Slot>Head</Slot>
-  </Item>
-  <Item>
     <ItemLevel>1</ItemLevel>
     <DisplayId>9996</DisplayId>
     <DisplaySlot>4</DisplaySlot>
@@ -980,6 +966,30 @@
     <ItemLevel>226</ItemLevel>
     <DisplayId>0</DisplayId>
     <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_jewelry_ring_59</IconPath>
+    <Stats>
+      <Stamina>46</Stamina>
+      <Intellect>42</Intellect>
+      <Spirit>33</Spirit>
+      <SpellPower>68</SpellPower>
+      <HasteRating>48</HasteRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <Unique>true</Unique>
+    <SocketColor1>Blue</SocketColor1>
+    <SocketBonus>
+      <SpellPower>5</SpellPower>
+    </SocketBonus>
+    <Name>Перстень доверия</Name>
+    <Id>27491</Id>
+    <Slot>Finger</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>226</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
     <IconPath>inv_jewelry_necklace_39</IconPath>
     <Stats>
       <Stamina>72</Stamina>
@@ -1151,6 +1161,26 @@
     <ItemLevel>226</ItemLevel>
     <DisplayId>0</DisplayId>
     <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_jewelry_necklace_29</IconPath>
+    <Stats>
+      <Stamina>49</Stamina>
+      <Intellect>49</Intellect>
+      <Spirit>44</Spirit>
+      <SpellPower>72</SpellPower>
+      <HasteRating>43</HasteRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Ожерелье Болотного камня</Name>
+    <Id>27766</Id>
+    <Slot>Neck</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>226</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
     <IconPath>inv_misc_armorkit_22</IconPath>
     <Stats>
       <SpecialEffects>
@@ -1233,6 +1263,27 @@
     <ItemLevel>226</ItemLevel>
     <DisplayId>0</DisplayId>
     <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_bracer_06</IconPath>
+    <Stats>
+      <Armor>259</Armor>
+      <Stamina>47</Stamina>
+      <Intellect>48</Intellect>
+      <Spirit>44</Spirit>
+      <SpellPower>74</SpellPower>
+      <HasteRating>38</HasteRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>Leather</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Наручи Ясных снов</Name>
+    <Id>27827</Id>
+    <Slot>Wrist</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>226</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
     <IconPath>inv_scarab_crystal</IconPath>
     <Stats>
       <SpecialEffects>
@@ -1279,6 +1330,34 @@
     <SocketBonus />
     <Name>Топор Соправителей</Name>
     <Id>27829</Id>
+    <Slot>TwoHand</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>226</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_staff_45</IconPath>
+    <Stats>
+      <Stamina>96</Stamina>
+      <AttackPower>1333</AttackPower>
+      <Intellect>115</Intellect>
+      <Spirit>78</Spirit>
+      <SpellPower>520</SpellPower>
+      <CritRating>93</CritRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>Staff</Type>
+    <Faction>Neutral</Faction>
+    <MinDamage>252</MinDamage>
+    <MaxDamage>468</MaxDamage>
+    <Speed>2.4</Speed>
+    <SocketColor1>Blue</SocketColor1>
+    <SocketColor2>Yellow</SocketColor2>
+    <SocketBonus>
+      <Spirit>9</Spirit>
+    </SocketBonus>
+    <Name>Великий скипетр Соправителей</Name>
+    <Id>27842</Id>
     <Slot>TwoHand</Slot>
   </Item>
   <Item>
@@ -1681,6 +1760,27 @@
     <Name>Адамантиновая цепь несломленных</Name>
     <Id>29349</Id>
     <Slot>Neck</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>226</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_jewelry_ring_57</IconPath>
+    <Stats>
+      <Stamina>45</Stamina>
+      <Intellect>48</Intellect>
+      <Spirit>44</Spirit>
+      <SpellPower>74</SpellPower>
+      <CritRating>39</CritRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <Unique>true</Unique>
+    <SocketBonus />
+    <Name>Кобальтовое кольцо Тиригозы</Name>
+    <Id>29352</Id>
+    <Slot>Finger</Slot>
   </Item>
   <Item>
     <ItemLevel>145</ItemLevel>
