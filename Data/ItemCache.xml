@@ -3322,7 +3322,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Shroud of Resurrection</Name>
+    <Name>Покров воскрешения</Name>
     <Id>37048</Id>
     <Slot>Back</Slot>
   </Item>
@@ -3818,7 +3818,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Flowing Cloak of Command</Name>
+    <Name>Воздушный плащ властности</Name>
     <Id>37084</Id>
     <Slot>Back</Slot>
   </Item>
@@ -5121,7 +5121,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Tattered Castle Drape</Name>
+    <Name>Потрепанная пелерина</Name>
     <Id>37197</Id>
     <Slot>Back</Slot>
   </Item>
@@ -7113,7 +7113,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Shroud of Moorabi</Name>
+    <Name>Покров Мураби</Name>
     <Id>37630</Id>
     <Slot>Back</Slot>
   </Item>
@@ -8906,7 +8906,7 @@
     <SocketBonus>
       <Intellect>4</Intellect>
     </SocketBonus>
-    <Name>Reanimator's Cloak</Name>
+    <Name>Плащ воскресителя</Name>
     <Id>37799</Id>
     <Slot>Back</Slot>
   </Item>
@@ -9095,7 +9095,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Shroud of Reverberation</Name>
+    <Name>Покров рокота</Name>
     <Id>37840</Id>
     <Slot>Back</Slot>
   </Item>
@@ -10011,7 +10011,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Venture Bay Buccaneer's Cape</Name>
+    <Name>Буканьерская накидка Бухты торговцев</Name>
     <Id>38353</Id>
     <Slot>Back</Slot>
   </Item>
@@ -10031,7 +10031,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Oil-Stained Tarp</Name>
+    <Name>Заляпанный маслом матросский плащ</Name>
     <Id>38354</Id>
     <Slot>Back</Slot>
   </Item>
@@ -10051,7 +10051,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Thick Goblin Back Protector </Name>
+    <Name>Плотная гоблинская защита для спины</Name>
     <Id>38355</Id>
     <Slot>Back</Slot>
   </Item>
@@ -10450,7 +10450,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Embrace of Sorrow</Name>
+    <Name>Облачение скорби</Name>
     <Id>38614</Id>
     <Slot>Back</Slot>
   </Item>
@@ -13397,7 +13397,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Shroud of the Citadel</Name>
+    <Name>Покров Цитадели</Name>
     <Id>39415</Id>
     <Slot>Back</Slot>
   </Item>
@@ -22340,7 +22340,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Shroud of Luminosity</Name>
+    <Name>Накидка блеска</Name>
     <Id>40251</Id>
     <Slot>Back</Slot>
   </Item>
@@ -22384,7 +22384,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Shawl of the Old Maid</Name>
+    <Name>Шаль старой девы</Name>
     <Id>40253</Id>
     <Slot>Back</Slot>
   </Item>
@@ -25235,7 +25235,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Drape of the Deadly Foe</Name>
+    <Name>Пелерина Смертельного врага</Name>
     <Id>40403</Id>
     <Slot>Back</Slot>
   </Item>
@@ -25373,7 +25373,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Shadow of the Ghoul</Name>
+    <Name>Покров Вурдалака</Name>
     <Id>40410</Id>
     <Slot>Back</Slot>
   </Item>
@@ -30119,7 +30119,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Hammerhead Sharkskin Cloak</Name>
+    <Name>Плащ из шкуры акулы-молота</Name>
     <Id>40721</Id>
     <Slot>Back</Slot>
   </Item>
@@ -30141,7 +30141,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Platinum Mesh Cloak</Name>
+    <Name>Платиновый сетчатый плащ</Name>
     <Id>40722</Id>
     <Slot>Back</Slot>
   </Item>
@@ -41179,7 +41179,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Wispcloak</Name>
+    <Name>Тончайший плащ</Name>
     <Id>41609</Id>
     <Slot>Back</Slot>
   </Item>
@@ -47144,7 +47144,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Furious Gladiator's Cloak of Dominance</Name>
+    <Name>Плащ господства гневного гладиатора</Name>
     <Id>42069</Id>
     <Slot>Back</Slot>
   </Item>
@@ -47167,7 +47167,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Furious Gladiator's Cloak of Subjugation</Name>
+    <Name>Плащ порабощения гневного гладиатора</Name>
     <Id>42070</Id>
     <Slot>Back</Slot>
   </Item>
@@ -47190,7 +47190,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Furious Gladiator's Cloak of Ascendancy</Name>
+    <Name>Плащ влияния гневного гладиатора</Name>
     <Id>42071</Id>
     <Slot>Back</Slot>
   </Item>
@@ -47213,7 +47213,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Furious Gladiator's Cloak of Salvation</Name>
+    <Name>Плащ спасения гневного гладиатора</Name>
     <Id>42072</Id>
     <Slot>Back</Slot>
   </Item>
@@ -47236,7 +47236,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Furious Gladiator's Cloak of Deliverance</Name>
+    <Name>Плащ избавления гневного гладиатора</Name>
     <Id>42073</Id>
     <Slot>Back</Slot>
   </Item>
@@ -47258,7 +47258,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Furious Gladiator's Cloak of Triumph</Name>
+    <Name>Плащ триумфа гневного гладиатора</Name>
     <Id>42074</Id>
     <Slot>Back</Slot>
   </Item>
@@ -47280,7 +47280,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Furious Gladiator's Cloak of Victory</Name>
+    <Name>Плащ победы гневного гладиатора</Name>
     <Id>42075</Id>
     <Slot>Back</Slot>
   </Item>
@@ -47303,7 +47303,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Relentless Gladiator's Cloak of Dominance</Name>
+    <Name>Плащ господства неумолимого гладиатора</Name>
     <Id>42076</Id>
     <Slot>Back</Slot>
   </Item>
@@ -47326,7 +47326,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Relentless Gladiator's Cloak of Subjugation</Name>
+    <Name>Плащ порабощения неумолимого гладиатора</Name>
     <Id>42077</Id>
     <Slot>Back</Slot>
   </Item>
@@ -47349,7 +47349,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Relentless Gladiator's Cloak of Ascendancy</Name>
+    <Name>Плащ влияния неумолимого гладиатора</Name>
     <Id>42078</Id>
     <Slot>Back</Slot>
   </Item>
@@ -47372,7 +47372,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Relentless Gladiator's Cloak of Salvation</Name>
+    <Name>Плащ спасения неумолимого гладиатора</Name>
     <Id>42079</Id>
     <Slot>Back</Slot>
   </Item>
@@ -47395,7 +47395,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Relentless Gladiator's Cloak of Deliverance</Name>
+    <Name>Плащ избавления неумолимого гладиатора</Name>
     <Id>42080</Id>
     <Slot>Back</Slot>
   </Item>
@@ -47417,7 +47417,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Relentless Gladiator's Cloak of Triumph</Name>
+    <Name>Плащ триумфа неумолимого гладиатора</Name>
     <Id>42081</Id>
     <Slot>Back</Slot>
   </Item>
@@ -47439,7 +47439,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Relentless Gladiator's Cloak of Victory</Name>
+    <Name>Плащ победы неумолимого гладиатора</Name>
     <Id>42082</Id>
     <Slot>Back</Slot>
   </Item>
@@ -50282,7 +50282,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Subterranean Waterfall Shroud</Name>
+    <Name>Покров Подземного водопада</Name>
     <Id>43283</Id>
     <Slot>Back</Slot>
   </Item>
@@ -51562,7 +51562,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Durable Nerubhide Cape</Name>
+    <Name>Надежная накидка из нерубской шкуры</Name>
     <Id>43565</Id>
     <Slot>Back</Slot>
   </Item>
@@ -51583,7 +51583,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Ice Striker's Cloak</Name>
+    <Name>Плащ ледяного убийцы</Name>
     <Id>43566</Id>
     <Slot>Back</Slot>
   </Item>
@@ -52311,7 +52311,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Gale-Proof Cloak</Name>
+    <Name>Плащ-штормовка</Name>
     <Id>43988</Id>
     <Slot>Back</Slot>
   </Item>
@@ -52668,7 +52668,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Pennant Cloak</Name>
+    <Name>Плащ-вымпел</Name>
     <Id>44005</Id>
     <Slot>Back</Slot>
   </Item>
@@ -53398,7 +53398,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Shroud of Dedicated Research</Name>
+    <Name>Накидка усердного исследования</Name>
     <Id>44167</Id>
     <Slot>Back</Slot>
   </Item>
@@ -57047,7 +57047,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Drape of the Drakerider</Name>
+    <Name>Пелерина всадника на драконе</Name>
     <Id>45138</Id>
     <Slot>Back</Slot>
   </Item>
@@ -58504,7 +58504,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Drape of the Lithe</Name>
+    <Name>Пелерина Лита</Name>
     <Id>45224</Id>
     <Slot>Back</Slot>
   </Item>
@@ -60495,7 +60495,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Shawl of the Caretaker</Name>
+    <Name>Шаль опекуна</Name>
     <Id>45317</Id>
     <Slot>Back</Slot>
   </Item>
@@ -64657,7 +64657,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Drape of the Sullen Goddess</Name>
+    <Name>Пелерина угрюмой богини</Name>
     <Id>45486</Id>
     <Slot>Back</Slot>
   </Item>
@@ -64914,7 +64914,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Titanskin Cloak</Name>
+    <Name>Плащ из кожи титана</Name>
     <Id>45496</Id>
     <Slot>Back</Slot>
   </Item>
@@ -65612,7 +65612,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Shawl of Haunted Memories</Name>
+    <Name>Шаль мучительных воспоминаний</Name>
     <Id>45529</Id>
     <Slot>Back</Slot>
   </Item>
@@ -65906,7 +65906,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Shroud of Alteration</Name>
+    <Name>Накидка изменения</Name>
     <Id>45541</Id>
     <Slot>Back</Slot>
   </Item>
@@ -66602,7 +66602,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Drape of the Skyborn</Name>
+    <Name>Пелерина рожденного в небесах</Name>
     <Id>45588</Id>
     <Slot>Back</Slot>
   </Item>
@@ -66992,7 +66992,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Sunglimmer Cloak</Name>
+    <Name>Плащ тусклого солнца</Name>
     <Id>45618</Id>
     <Slot>Back</Slot>
   </Item>
@@ -67784,7 +67784,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Shawl of the Shattered Giant</Name>
+    <Name>Шаль поверженного великана</Name>
     <Id>45704</Id>
     <Slot>Back</Slot>
   </Item>
@@ -68013,7 +68013,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Frostguard Drape</Name>
+    <Name>Пелерина ледяного стража</Name>
     <Id>45811</Id>
     <Slot>Back</Slot>
   </Item>
@@ -69013,7 +69013,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Winter's Frigid Embrace</Name>
+    <Name>Прохладное объятие зимы</Name>
     <Id>45873</Id>
     <Slot>Back</Slot>
   </Item>
@@ -69769,7 +69769,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Stylish Power Cape</Name>
+    <Name>Стильная накидка силы</Name>
     <Id>45973</Id>
     <Slot>Back</Slot>
   </Item>
@@ -70254,7 +70254,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Saronite Animus Cloak</Name>
+    <Name>Плащ саронитового врага</Name>
     <Id>46014</Id>
     <Slot>Back</Slot>
   </Item>
@@ -70579,7 +70579,7 @@
     <SocketBonus>
       <Agility>6</Agility>
     </SocketBonus>
-    <Name>Drape of the Faceless General</Name>
+    <Name>Пелерина безликого генерала</Name>
     <Id>46032</Id>
     <Slot>Back</Slot>
   </Item>
@@ -70842,7 +70842,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Drape of the Messenger</Name>
+    <Name>Пелерина посланника</Name>
     <Id>46042</Id>
     <Slot>Back</Slot>
   </Item>
@@ -74684,7 +74684,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Drape of the Skyherald</Name>
+    <Name>Пелерина небесного герольда</Name>
     <Id>46320</Id>
     <Slot>Back</Slot>
   </Item>
@@ -74709,7 +74709,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Sunglimmer Drape</Name>
+    <Name>Пелерина тусклого солнца</Name>
     <Id>46321</Id>
     <Slot>Back</Slot>
   </Item>
@@ -74842,7 +74842,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Drape of the Spellweaver</Name>
+    <Name>Пелерина чаровяза</Name>
     <Id>46341</Id>
     <Slot>Back</Slot>
   </Item>
@@ -75417,7 +75417,7 @@
     <Faction>Alliance</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Drape of the Untamed Predator</Name>
+    <Name>Пелерина дикого хищника</Name>
     <Id>46970</Id>
     <Slot>Back</Slot>
   </Item>
@@ -75442,7 +75442,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Drape of the Untamed Predator</Name>
+    <Name>Пелерина дикого хищника</Name>
     <Id>46971</Id>
     <Slot>Back</Slot>
   </Item>
@@ -75568,7 +75568,7 @@
     <Faction>Alliance</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Shawl of the Refreshing Winds</Name>
+    <Name>Шаль освежающих ветров</Name>
     <Id>46976</Id>
     <Slot>Back</Slot>
   </Item>
@@ -75593,7 +75593,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Shawl of the Refreshing Winds</Name>
+    <Name>Шаль освежающих ветров</Name>
     <Id>46977</Id>
     <Slot>Back</Slot>
   </Item>
@@ -76162,7 +76162,7 @@
     <Faction>Alliance</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Pride of the Eredar</Name>
+    <Name>Гордость эредаров</Name>
     <Id>47042</Id>
     <Slot>Back</Slot>
   </Item>
@@ -76482,7 +76482,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Pride of the Eredar</Name>
+    <Name>Гордость эредаров</Name>
     <Id>47063</Id>
     <Slot>Back</Slot>
   </Item>
@@ -78638,7 +78638,7 @@
     <Faction>Alliance</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Strength of the Nerub</Name>
+    <Name>Сила Неруба</Name>
     <Id>47183</Id>
     <Slot>Back</Slot>
   </Item>
@@ -78880,7 +78880,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Strength of the Nerub</Name>
+    <Name>Сила Неруба</Name>
     <Id>47192</Id>
     <Slot>Back</Slot>
   </Item>
@@ -79664,7 +79664,7 @@
     <Faction>Alliance</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Maiden's Favor</Name>
+    <Name>Девичья благосклонность</Name>
     <Id>47225</Id>
     <Slot>Back</Slot>
   </Item>
@@ -79832,7 +79832,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Drape of the Undefeated</Name>
+    <Name>Пелерина Непобежденного</Name>
     <Id>47232</Id>
     <Slot>Back</Slot>
   </Item>
@@ -79984,7 +79984,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Maiden's Favor</Name>
+    <Name>Девичья благосклонность</Name>
     <Id>47238</Id>
     <Slot>Back</Slot>
   </Item>
@@ -80330,7 +80330,7 @@
     <Faction>Horde</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Drape of the Refreshing Winds</Name>
+    <Name>Пелерина освежающих ветров</Name>
     <Id>47256</Id>
     <Slot>Back</Slot>
   </Item>
@@ -80801,7 +80801,7 @@
     <Faction>Horde</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Pride of the Demon Lord</Name>
+    <Name>Гордость повелителя демонов</Name>
     <Id>47275</Id>
     <Slot>Back</Slot>
   </Item>
@@ -81187,7 +81187,7 @@
     <Faction>Horde</Faction>
     <Bind>BoE</Bind>
     <SocketBonus />
-    <Name>Shroud of Displacement</Name>
+    <Name>Накидка перемещения</Name>
     <Id>47291</Id>
     <Slot>Back</Slot>
   </Item>
@@ -81896,7 +81896,7 @@
     <Faction>Horde</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Might of the Nerub</Name>
+    <Name>Мощь Неруба</Name>
     <Id>47320</Id>
     <Slot>Back</Slot>
   </Item>
@@ -82087,7 +82087,7 @@
     <Faction>Horde</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Maiden's Adoration</Name>
+    <Name>Девичья любовь</Name>
     <Id>47328</Id>
     <Slot>Back</Slot>
   </Item>
@@ -82293,7 +82293,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Drape of the Refreshing Winds</Name>
+    <Name>Пелерина освежающих ветров</Name>
     <Id>47417</Id>
     <Slot>Back</Slot>
   </Item>
@@ -82796,7 +82796,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Pride of the Demon Lord</Name>
+    <Name>Гордость повелителя демонов</Name>
     <Id>47436</Id>
     <Slot>Back</Slot>
   </Item>
@@ -83210,7 +83210,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Shroud of Displacement</Name>
+    <Name>Накидка перемещения</Name>
     <Id>47452</Id>
     <Slot>Back</Slot>
   </Item>
@@ -83968,7 +83968,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Might of the Nerub</Name>
+    <Name>Мощь Неруба</Name>
     <Id>47481</Id>
     <Slot>Back</Slot>
   </Item>
@@ -84172,7 +84172,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Maiden's Adoration</Name>
+    <Name>Девичья любовь</Name>
     <Id>47490</Id>
     <Slot>Back</Slot>
   </Item>
@@ -84412,7 +84412,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Kurisu's Indecision</Name>
+    <Name>Нерешительность Курису</Name>
     <Id>47501</Id>
     <Slot>Back</Slot>
   </Item>
@@ -85118,7 +85118,7 @@
     <SocketBonus>
       <AttackPower>8</AttackPower>
     </SocketBonus>
-    <Name>Vereesa's Dexterity</Name>
+    <Name>Стремительность Верисы</Name>
     <Id>47545</Id>
     <Slot>Back</Slot>
   </Item>
@@ -85143,7 +85143,7 @@
     <SocketBonus>
       <AttackPower>8</AttackPower>
     </SocketBonus>
-    <Name>Sylvanas' Cunning</Name>
+    <Name>Хитрость Сильваны</Name>
     <Id>47546</Id>
     <Slot>Back</Slot>
   </Item>
@@ -85167,7 +85167,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Varian's Furor</Name>
+    <Name>Свирепость Вариана</Name>
     <Id>47547</Id>
     <Slot>Back</Slot>
   </Item>
@@ -85191,7 +85191,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Garrosh's Rage</Name>
+    <Name>Ярость Гарроша</Name>
     <Id>47548</Id>
     <Slot>Back</Slot>
   </Item>
@@ -85216,7 +85216,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Magni's Resolution</Name>
+    <Name>Решимость Магни</Name>
     <Id>47549</Id>
     <Slot>Back</Slot>
   </Item>
@@ -85291,7 +85291,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Jaina's Radiance</Name>
+    <Name>Сияние Джайны</Name>
     <Id>47552</Id>
     <Slot>Back</Slot>
   </Item>
@@ -85341,7 +85341,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Lady Liadrin's Conviction</Name>
+    <Name>Приговор леди Лиадрин</Name>
     <Id>47554</Id>
     <Slot>Back</Slot>
   </Item>
@@ -110391,7 +110391,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Drape of the Sunreavers</Name>
+    <Name>Пелерина Похитителей Солнца</Name>
     <Id>48666</Id>
     <Slot>Back</Slot>
   </Item>
@@ -110416,7 +110416,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Shawl of the Devout Crusader</Name>
+    <Name>Шаль благочестивого рыцаря</Name>
     <Id>48667</Id>
     <Slot>Back</Slot>
   </Item>
@@ -110540,7 +110540,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Shawl of Fervent Crusader</Name>
+    <Name>Шаль ревностного рыцаря</Name>
     <Id>48672</Id>
     <Slot>Back</Slot>
   </Item>
@@ -112659,7 +112659,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Fluttering Sapphiron Drape</Name>
+    <Name>Развевающаяся пелерина Сапфирона</Name>
     <Id>49307</Id>
     <Slot>Back</Slot>
   </Item>
@@ -114049,7 +114049,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Flowing Sapphiron Drape</Name>
+    <Name>Ниспадающая пелерина Сапфирона</Name>
     <Id>49491</Id>
     <Slot>Back</Slot>
   </Item>
@@ -115495,7 +115495,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Eerie Runeblade Polisher</Name>
+    <Name>Зловещий рунический полировщик</Name>
     <Id>49832</Id>
     <Slot>Back</Slot>
   </Item>
@@ -115725,7 +115725,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Tapestry of the Frozen Throne</Name>
+    <Name>Гобелен Ледяного Трона</Name>
     <Id>49842</Id>
     <Slot>Back</Slot>
   </Item>
@@ -117351,7 +117351,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Shadowvault Slayer's Cloak</Name>
+    <Name>Плащ убийцы Мрачного Свода</Name>
     <Id>49998</Id>
     <Slot>Back</Slot>
   </Item>
@@ -117687,7 +117687,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Greatcloak of the Turned Champion</Name>
+    <Name>Теплый плащ обращенного защитника</Name>
     <Id>50014</Id>
     <Slot>Back</Slot>
   </Item>
@@ -117764,7 +117764,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Winding Sheet</Name>
+    <Name>Развевающийся саван</Name>
     <Id>50019</Id>
     <Slot>Back</Slot>
   </Item>
@@ -118885,7 +118885,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Royal Crimson Cloak</Name>
+    <Name>Королевский багровый плащ</Name>
     <Id>50074</Id>
     <Slot>Back</Slot>
   </Item>
@@ -120441,7 +120441,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Frostbinder's Shredded Cape</Name>
+    <Name>Изорванная накидка повелителя льда</Name>
     <Id>50205</Id>
     <Slot>Back</Slot>
   </Item>
@@ -124823,7 +124823,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Sentinel's Winter Cloak</Name>
+    <Name>Зимний плащ часового</Name>
     <Id>50466</Id>
     <Slot>Back</Slot>
   </Item>
@@ -124847,7 +124847,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Might of the Ocean Serpent</Name>
+    <Name>Мощь океанического змея</Name>
     <Id>50467</Id>
     <Slot>Back</Slot>
   </Item>
@@ -124872,7 +124872,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Drape of the Violet Tower</Name>
+    <Name>Пелерина Аметистовой башни</Name>
     <Id>50468</Id>
     <Slot>Back</Slot>
   </Item>
@@ -124897,7 +124897,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Volde's Cloak of the Night Sky</Name>
+    <Name>Плащ ночного неба Вольда</Name>
     <Id>50469</Id>
     <Slot>Back</Slot>
   </Item>
@@ -124922,7 +124922,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Recovered Scarlet Onslaught Cape</Name>
+    <Name>Починенная алая накидка натиска</Name>
     <Id>50470</Id>
     <Slot>Back</Slot>
   </Item>
@@ -125656,7 +125656,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Frostbinder's Shredded Cape</Name>
+    <Name>Изорванная накидка повелителя льда</Name>
     <Id>50628</Id>
     <Slot>Back</Slot>
   </Item>
@@ -126260,7 +126260,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Shadowvault Slayer's Cloak</Name>
+    <Name>Плащ убийцы Мрачного Свода</Name>
     <Id>50653</Id>
     <Slot>Back</Slot>
   </Item>
@@ -126596,7 +126596,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Greatcloak of the Turned Champion</Name>
+    <Name>Теплый плащ обращенного защитника</Name>
     <Id>50668</Id>
     <Slot>Back</Slot>
   </Item>
@@ -126806,7 +126806,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Winding Sheet</Name>
+    <Name>Развевающийся саван</Name>
     <Id>50677</Id>
     <Slot>Back</Slot>
   </Item>
@@ -127914,7 +127914,7 @@
     <SocketBonus>
       <Stamina>6</Stamina>
     </SocketBonus>
-    <Name>Royal Crimson Cloak</Name>
+    <Name>Королевский багровый плащ</Name>
     <Id>50718</Id>
     <Slot>Back</Slot>
   </Item>
@@ -128589,7 +128589,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Shawl of Nerubian Silk</Name>
+    <Name>Шаль из нерубского шелка</Name>
     <Id>50764</Id>
     <Slot>Back</Slot>
   </Item>
@@ -129268,7 +129268,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Saronite Gargoyle Cloak</Name>
+    <Name>Плащ саронитовой горгульи</Name>
     <Id>50791</Id>
     <Slot>Back</Slot>
   </Item>
@@ -138099,7 +138099,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Wrathful Gladiator's Cloak of Dominance</Name>
+    <Name>Плащ господства разгневанного гладиатора</Name>
     <Id>51330</Id>
     <Slot>Back</Slot>
   </Item>
@@ -138144,7 +138144,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Wrathful Gladiator's Cloak of Subjugation</Name>
+    <Name>Плащ порабощения разгневанного гладиатора</Name>
     <Id>51332</Id>
     <Slot>Back</Slot>
   </Item>
@@ -138189,7 +138189,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Wrathful Gladiator's Cloak of Ascendancy</Name>
+    <Name>Плащ влияния разгневанного гладиатора</Name>
     <Id>51334</Id>
     <Slot>Back</Slot>
   </Item>
@@ -138481,7 +138481,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Wrathful Gladiator's Cloak of Salvation</Name>
+    <Name>Плащ спасения разгневанного гладиатора</Name>
     <Id>51346</Id>
     <Slot>Back</Slot>
   </Item>
@@ -138526,7 +138526,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Wrathful Gladiator's Cloak of Deliverance</Name>
+    <Name>Плащ избавления разгневанного гладиатора</Name>
     <Id>51348</Id>
     <Slot>Back</Slot>
   </Item>
@@ -138669,7 +138669,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Wrathful Gladiator's Cloak of Triumph</Name>
+    <Name>Плащ триумфа разгневанного гладиатора</Name>
     <Id>51354</Id>
     <Slot>Back</Slot>
   </Item>
@@ -138712,7 +138712,7 @@
     <Unique>true</Unique>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Wrathful Gladiator's Cloak of Victory</Name>
+    <Name>Плащ победы разгневанного гладиатора</Name>
     <Id>51356</Id>
     <Slot>Back</Slot>
   </Item>
@@ -139306,7 +139306,7 @@
     <SocketBonus>
       <Mp5>2</Mp5>
     </SocketBonus>
-    <Name>Heartsick Mender's Cape</Name>
+    <Name>Накидка удрученного целителя</Name>
     <Id>51382</Id>
     <Slot>Back</Slot>
   </Item>
@@ -144125,7 +144125,7 @@
     <SocketBonus>
       <SpellPower>5</SpellPower>
     </SocketBonus>
-    <Name>Titan-Forged Cloak of Ascendancy</Name>
+    <Name>Плащ влияния из кузни титанов</Name>
     <Id>51570</Id>
     <Slot>Back</Slot>
   </Item>
@@ -144150,7 +144150,7 @@
     <SocketBonus>
       <AttackPower>8</AttackPower>
     </SocketBonus>
-    <Name>Titan-Forged Cloak of Victory</Name>
+    <Name>Плащ победы из кузни титанов</Name>
     <Id>51571</Id>
     <Slot>Back</Slot>
   </Item>
@@ -144229,7 +144229,7 @@
     <SocketBonus>
       <HitRating>4</HitRating>
     </SocketBonus>
-    <Name>Lich Wrappings</Name>
+    <Name>Длинный плащ лича</Name>
     <Id>51584</Id>
     <Slot>Back</Slot>
   </Item>
@@ -145261,7 +145261,7 @@
     <SocketBonus>
       <HitRating>4</HitRating>
     </SocketBonus>
-    <Name>Lich Wrappings</Name>
+    <Name>Длинный плащ лича</Name>
     <Id>51826</Id>
     <Slot>Back</Slot>
   </Item>
@@ -145839,7 +145839,7 @@
     <SocketBonus>
       <Mp5>2</Mp5>
     </SocketBonus>
-    <Name>Heartsick Mender's Cape</Name>
+    <Name>Накидка удрученного целителя</Name>
     <Id>51848</Id>
     <Slot>Back</Slot>
   </Item>
@@ -147522,7 +147522,7 @@
     <SocketBonus>
       <Strength>4</Strength>
     </SocketBonus>
-    <Name>Saronite Gargoyle Cloak</Name>
+    <Name>Плащ саронитовой горгульи</Name>
     <Id>51912</Id>
     <Slot>Back</Slot>
   </Item>
@@ -148076,7 +148076,7 @@
     <SocketBonus>
       <Agility>4</Agility>
     </SocketBonus>
-    <Name>Shawl of Nerubian Silk</Name>
+    <Name>Шаль из нерубского шелка</Name>
     <Id>51933</Id>
     <Slot>Back</Slot>
   </Item>
@@ -150174,7 +150174,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>Icebound Cloak</Name>
+    <Name>Плащ оков льда</Name>
     <Id>54801</Id>
     <Slot>Back</Slot>
   </Item>
@@ -150196,7 +150196,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>The Frost Lord's War Cloak</Name>
+    <Name>Боевой плащ Повелителя Холода</Name>
     <Id>54802</Id>
     <Slot>Back</Slot>
   </Item>
@@ -150217,7 +150217,7 @@
     <Faction>Neutral</Faction>
     <Bind>BoP</Bind>
     <SocketBonus />
-    <Name>The Frost Lord's Battle Shroud</Name>
+    <Name>Боевая накидка Повелителя Холода</Name>
     <Id>54803</Id>
     <Slot>Back</Slot>
   </Item>
