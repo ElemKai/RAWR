@@ -228,6 +228,326 @@
     <Slot>Shirt</Slot>
   </Item>
   <Item>
+    <ItemLevel>80</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_legendary_chimeraoffear</IconPath>
+    <Stats>
+      <BlockRating>137</BlockRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Непоколебимый черный бриллиант</Name>
+    <Id>101</Id>
+    <Slot>Prismatic</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>80</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_legendary_chimeraoffear</IconPath>
+    <Stats>
+      <Agility>45</Agility>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Изысканный черный бриллиант</Name>
+    <Id>102</Id>
+    <Slot>Prismatic</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>80</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_legendary_chimeraoffear</IconPath>
+    <Stats>
+      <Strength>45</Strength>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Рельефный черный бриллиант</Name>
+    <Id>103</Id>
+    <Slot>Prismatic</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>80</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_legendary_chimeraoffear</IconPath>
+    <Stats>
+      <Intellect>45</Intellect>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Сверкающий черный бриллиант</Name>
+    <Id>104</Id>
+    <Slot>Prismatic</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>80</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_legendary_chimeraoffear</IconPath>
+    <Stats>
+      <Spirit>45</Spirit>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Искрящийся черный бриллиант</Name>
+    <Id>105</Id>
+    <Slot>Prismatic</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>80</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_legendary_chimeraoffear</IconPath>
+    <Stats>
+      <Stamina>67</Stamina>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Цельный черный бриллиант</Name>
+    <Id>106</Id>
+    <Slot>Prismatic</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>80</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_legendary_chimeraoffear</IconPath>
+    <Stats>
+      <AttackPower>90</AttackPower>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Яркий черный бриллиант</Name>
+    <Id>107</Id>
+    <Slot>Prismatic</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>80</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_legendary_chimeraoffear</IconPath>
+    <Stats>
+      <SpellPower>51</SpellPower>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Рунический черный бриллиант</Name>
+    <Id>108</Id>
+    <Slot>Prismatic</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>80</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_legendary_chimeraoffear</IconPath>
+    <Stats>
+      <DefenseRating>45</DefenseRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Матовый черный бриллиант</Name>
+    <Id>109</Id>
+    <Slot>Prismatic</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>80</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_legendary_chimeraoffear</IconPath>
+    <Stats>
+      <DodgeRating>45</DodgeRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Изящный черный бриллиант</Name>
+    <Id>110</Id>
+    <Slot>Prismatic</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>80</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_legendary_chimeraoffear</IconPath>
+    <Stats>
+      <ParryRating>45</ParryRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Блистательный черный бриллиант</Name>
+    <Id>111</Id>
+    <Slot>Prismatic</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>80</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_legendary_chimeraoffear</IconPath>
+    <Stats>
+      <BlockRating>45</BlockRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Стойкий черный бриллиант</Name>
+    <Id>112</Id>
+    <Slot>Prismatic</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>80</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_legendary_chimeraoffear</IconPath>
+    <Stats>
+      <HitRating>45</HitRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Прочный черный бриллиант</Name>
+    <Id>113</Id>
+    <Slot>Prismatic</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>80</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_legendary_chimeraoffear</IconPath>
+    <Stats>
+      <CritRating>45</CritRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Гладкий черный бриллиант</Name>
+    <Id>114</Id>
+    <Slot>Prismatic</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>80</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_legendary_chimeraoffear</IconPath>
+    <Stats>
+      <Resilience>45</Resilience>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Мистический черный бриллиант</Name>
+    <Id>115</Id>
+    <Slot>Prismatic</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>80</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_legendary_chimeraoffear</IconPath>
+    <Stats>
+      <HasteRating>45</HasteRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Мягкий черный бриллиант</Name>
+    <Id>116</Id>
+    <Slot>Prismatic</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>80</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_legendary_chimeraoffear</IconPath>
+    <Stats>
+      <MasteryRating>45</MasteryRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Ясный черный бриллиант</Name>
+    <Id>117</Id>
+    <Slot>Prismatic</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>80</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_legendary_chimeraoffear</IconPath>
+    <Stats>
+      <Mp5>22</Mp5>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Блестящий черный бриллиант</Name>
+    <Id>118</Id>
+    <Slot>Prismatic</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>80</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_legendary_chimeraoffear</IconPath>
+    <Stats>
+      <ArmorPenetrationRating>45</ArmorPenetrationRating>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Растрескавшийся черный бриллиант</Name>
+    <Id>119</Id>
+    <Slot>Prismatic</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>80</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_legendary_chimeraoffear</IconPath>
+    <Stats>
+      <SpellPenetration>57</SpellPenetration>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>None</Type>
+    <Faction>Neutral</Faction>
+    <SocketBonus />
+    <Name>Грозовой черный бриллиант</Name>
+    <Id>120</Id>
+    <Slot>Prismatic</Slot>
+  </Item>
+  <Item>
     <ItemLevel>1</ItemLevel>
     <DisplayId>9996</DisplayId>
     <DisplaySlot>4</DisplaySlot>
