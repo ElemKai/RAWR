@@ -1404,6 +1404,30 @@
     <ItemLevel>226</ItemLevel>
     <DisplayId>0</DisplayId>
     <DisplaySlot>0</DisplaySlot>
+    <IconPath>inv_boots_chain_08</IconPath>
+    <Stats>
+      <Armor>903</Armor>
+      <Stamina>61</Stamina>
+      <Intellect>61</Intellect>
+      <SpellPower>96</SpellPower>
+      <CritRating>54</CritRating>
+      <Mp5>26</Mp5>
+    </Stats>
+    <Quality>Epic</Quality>
+    <Type>Mail</Type>
+    <Faction>Neutral</Faction>
+    <SocketColor1>Yellow</SocketColor1>
+    <SocketBonus>
+      <CritRating>4</CritRating>
+    </SocketBonus>
+    <Name>Сапоги ярости волн</Name>
+    <Id>27549</Id>
+    <Slot>Feet</Slot>
+  </Item>
+  <Item>
+    <ItemLevel>226</ItemLevel>
+    <DisplayId>0</DisplayId>
+    <DisplaySlot>0</DisplaySlot>
     <IconPath>inv_misc_gem_pearl_01</IconPath>
     <Stats>
       <SpecialEffects>
@@ -1427,8 +1451,18 @@
           <Chance>1</Chance>
           <MaxStack>5</MaxStack>
         </SpecialEffect>
+        <SpecialEffect>
+          <Trigger>HealingSpellCrit</Trigger>
+          <Stats>
+            <CritRating>-196</CritRating>
+          </Stats>
+          <Duration>0</Duration>
+          <Cooldown>0</Cooldown>
+          <Chance>1</Chance>
+          <MaxStack>5</MaxStack>
+        </SpecialEffect>
       </SpecialEffects>
-      <SpecialEffectCount>2</SpecialEffectCount>
+      <SpecialEffectCount>3</SpecialEffectCount>
       <SpellPower>94</SpellPower>
     </Stats>
     <Quality>Epic</Quality>
@@ -88991,19 +89025,7 @@
         <SpecialEffect>
           <Trigger>Use</Trigger>
           <Stats>
-            <SpecialEffects>
-              <SpecialEffect>
-                <Trigger>DamageTaken</Trigger>
-                <Stats>
-                  <BonusArmor>1265</BonusArmor>
-                </Stats>
-                <Duration>INF</Duration>
-                <Cooldown>0</Cooldown>
-                <Chance>1</Chance>
-                <MaxStack>5</MaxStack>
-              </SpecialEffect>
-            </SpecialEffects>
-            <SpecialEffectCount>1</SpecialEffectCount>
+            <BonusArmor>6248.95068</BonusArmor>
           </Stats>
           <Duration>20</Duration>
           <Cooldown>120</Cooldown>
@@ -94170,19 +94192,7 @@
         <SpecialEffect>
           <Trigger>Use</Trigger>
           <Stats>
-            <SpecialEffects>
-              <SpecialEffect>
-                <Trigger>DamageTaken</Trigger>
-                <Stats>
-                  <BonusArmor>1422</BonusArmor>
-                </Stats>
-                <Duration>INF</Duration>
-                <Cooldown>0</Cooldown>
-                <Chance>1</Chance>
-                <MaxStack>5</MaxStack>
-              </SpecialEffect>
-            </SpecialEffects>
-            <SpecialEffectCount>1</SpecialEffectCount>
+            <BonusArmor>7024.24365</BonusArmor>
           </Stats>
           <Duration>20</Duration>
           <Cooldown>120</Cooldown>
